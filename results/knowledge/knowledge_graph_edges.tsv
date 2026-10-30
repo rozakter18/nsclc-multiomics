@@ -1,0 +1,742 @@
+source_type	source	target_type	target	relation	weight
+gene	ZIC1	gene	SOX2	STRING	0.881
+gene	ABCA3	gene	SFTPC	STRING	0.89
+gene	IRX1	gene	HNF1B	STRING	0.802
+factor	Factor2	gene	KNDC1	weight	1.2764
+factor	Factor2	gene	CFTR	weight	1.2438
+gene	CFTR	disease	NSCLC	open_targets	0.1014
+factor	Factor2	gene	SFTA3	weight	1.2206
+gene	SFTA3	disease	NSCLC	open_targets	0.0785
+factor	Factor2	gene	AFF3	weight	1.1393
+gene	AFF3	disease	NSCLC	open_targets	0.436
+factor	Factor2	gene	SCGB3A1	weight	1.122
+gene	SCGB3A1	disease	NSCLC	open_targets	0.09
+factor	Factor2	gene	PTPRN2	weight	1.1208
+gene	PTPRN2	disease	NSCLC	open_targets	0.0142
+factor	Factor2	gene	HOXB13	weight	1.1179
+gene	HOXB13	disease	NSCLC	open_targets	0.092
+factor	Factor2	gene	IRX1	weight	1.0985
+gene	IRX1	disease	NSCLC	open_targets	0.0599
+factor	Factor2	gene	TCF21	weight	1.0951
+gene	TCF21	disease	NSCLC	open_targets	0.0796
+factor	Factor2	gene	SFTPC	weight	1.0661
+gene	SFTPC	disease	NSCLC	open_targets	0.1204
+factor	Factor2	gene	HNF1B	weight	1.0494
+gene	HNF1B	disease	NSCLC	open_targets	0.313
+factor	Factor2	gene	MUC5B	weight	1.0471
+gene	MUC5B	disease	NSCLC	open_targets	0.1139
+factor	Factor2	gene	MMP28	weight	1.0189
+gene	MMP28	disease	NSCLC	open_targets	0.0068
+factor	Factor2	gene	PARP15	weight	1.0146
+gene	PARP15	disease	NSCLC	open_targets	0.0052
+factor	Factor2	gene	NECAB2	weight	1.0067
+factor	Factor2	gene	SORCS2	weight	1.0049
+gene	SORCS2	disease	NSCLC	open_targets	0.0018
+factor	Factor2	gene	TMEM132D	weight	1.0025
+gene	TMEM132D	disease	NSCLC	open_targets	0.0203
+factor	Factor2	gene	PRDM16	weight	0.9983
+gene	PRDM16	disease	NSCLC	open_targets	0.404
+factor	Factor2	gene	SCARA5	weight	0.9797
+gene	SCARA5	disease	NSCLC	open_targets	0.0939
+factor	Factor2	gene	LMO3	weight	0.9785
+gene	LMO3	disease	NSCLC	open_targets	0.0646
+factor	Factor2	gene	PPP1R16B	weight	0.9633
+gene	PPP1R16B	disease	NSCLC	open_targets	0.01
+factor	Factor2	gene	IGF2BP1	weight	0.954
+gene	IGF2BP1	disease	NSCLC	open_targets	0.125
+factor	Factor2	gene	HOXC6	weight	0.9383
+gene	HOXC6	disease	NSCLC	open_targets	0.1022
+factor	Factor2	gene	CALCB	weight	0.9156
+gene	CALCB	disease	NSCLC	open_targets	0.0111
+factor	Factor2	gene	TMEM145	weight	0.9145
+factor	Factor2	gene	RASGRF1	weight	0.9095
+gene	RASGRF1	disease	NSCLC	open_targets	0.0867
+factor	Factor2	gene	NME5	weight	0.9078
+gene	NME5	disease	NSCLC	open_targets	0.0066
+factor	Factor2	gene	PKNOX2	weight	0.9074
+gene	PKNOX2	disease	NSCLC	open_targets	0.0205
+factor	Factor2	gene	TNXB	weight	0.9009
+gene	TNXB	disease	NSCLC	open_targets	0.0366
+factor	Factor2	gene	GCLC	weight	0.8989
+gene	GCLC	disease	NSCLC	open_targets	0.3334
+factor	Factor2	gene	CLDN18	weight	0.8988
+gene	CLDN18	disease	NSCLC	open_targets	0.1023
+factor	Factor2	gene	IGF2BP3	weight	0.8969
+gene	IGF2BP3	disease	NSCLC	open_targets	0.1223
+factor	Factor2	gene	PPP1R1B	weight	0.8952
+gene	PPP1R1B	disease	NSCLC	open_targets	0.1047
+factor	Factor2	gene	ABCC9	weight	0.8895
+gene	ABCC9	disease	NSCLC	open_targets	0.0126
+factor	Factor2	gene	PGC	weight	0.8888
+gene	PGC	disease	NSCLC	open_targets	0.0397
+factor	Factor2	gene	COL14A1	weight	0.8866
+gene	COL14A1	disease	NSCLC	open_targets	0.0151
+factor	Factor2	gene	SFTPA1	weight	0.8806
+gene	SFTPA1	disease	NSCLC	open_targets	0.0971
+factor	Factor2	gene	ERN2	weight	0.8743
+gene	ERN2	disease	NSCLC	open_targets	0.0107
+factor	Factor2	gene	MSLN	weight	0.864
+gene	MSLN	disease	NSCLC	open_targets	0.1359
+factor	Factor2	gene	ZBTB16	weight	0.8602
+gene	ZBTB16	disease	NSCLC	open_targets	0.3595
+factor	Factor2	gene	SFTPA2	weight	0.8586
+gene	SFTPA2	disease	NSCLC	open_targets	0.0738
+factor	Factor2	gene	TBX4	weight	0.8568
+gene	TBX4	disease	NSCLC	open_targets	0.0887
+factor	Factor2	gene	FAM92B	weight	0.855
+factor	Factor2	gene	PEBP4	weight	0.8525
+gene	PEBP4	disease	NSCLC	open_targets	0.0521
+factor	Factor2	gene	TEPP	weight	0.8522
+factor	Factor2	gene	KCNA3	weight	0.8519
+gene	KCNA3	disease	NSCLC	open_targets	0.0366
+factor	Factor2	gene	C16orf89	weight	0.8494
+gene	C16orf89	disease	NSCLC	open_targets	0.0259
+factor	Factor2	gene	AQP4	weight	0.8468
+gene	AQP4	disease	NSCLC	open_targets	0.1172
+factor	Factor2	gene	PRDM13	weight	0.8377
+gene	PRDM13	disease	NSCLC	open_targets	0.0098
+factor	Factor2	gene	SCGB3A2	weight	0.8323
+gene	SCGB3A2	disease	NSCLC	open_targets	0.0453
+factor	Factor2	gene	ADHFE1	weight	0.8318
+gene	ADHFE1	disease	NSCLC	open_targets	0.003
+factor	Factor2	gene	ZIC1	weight	0.8269
+gene	ZIC1	disease	NSCLC	open_targets	0.0046
+factor	Factor2	gene	ANGPT1	weight	0.8178
+gene	ANGPT1	disease	NSCLC	open_targets	0.0673
+factor	Factor2	gene	KHDRBS2	weight	0.8176
+gene	KHDRBS2	disease	NSCLC	open_targets	0.0262
+factor	Factor2	gene	CLIC6	weight	0.8075
+gene	CLIC6	disease	NSCLC	open_targets	0.0173
+factor	Factor2	gene	GRIN2A	weight	0.7993
+gene	GRIN2A	disease	NSCLC	open_targets	0.4043
+factor	Factor2	gene	GFRA1	weight	0.7976
+gene	GFRA1	disease	NSCLC	open_targets	0.005
+factor	Factor2	gene	SEMA5A	weight	0.7956
+gene	SEMA5A	disease	NSCLC	open_targets	0.0873
+factor	Factor2	gene	FILIP1	weight	0.7916
+gene	FILIP1	disease	NSCLC	open_targets	0.025
+factor	Factor2	gene	CCDC37	weight	0.7915
+factor	Factor2	gene	C5orf38	weight	0.7897
+factor	Factor2	gene	GPR133	weight	0.7883
+factor	Factor2	gene	DMBT1	weight	0.779
+gene	DMBT1	disease	NSCLC	open_targets	0.0246
+factor	Factor2	gene	RTN4RL1	weight	0.778
+gene	RTN4RL1	disease	NSCLC	open_targets	0.0111
+factor	Factor2	gene	DNAI2	weight	0.7769
+gene	DNAI2	disease	NSCLC	open_targets	0.0117
+factor	Factor2	gene	DLX6	weight	0.7761
+gene	DLX6	disease	NSCLC	open_targets	0.1213
+factor	Factor2	gene	CTSE	weight	0.7729
+gene	CTSE	disease	NSCLC	open_targets	0.0216
+factor	Factor2	gene	SCTR	weight	0.7635
+gene	SCTR	disease	NSCLC	open_targets	0.0067
+factor	Factor2	gene	PNMA2	weight	0.7631
+gene	PNMA2	disease	NSCLC	open_targets	0.0166
+factor	Factor2	gene	C1QL1	weight	0.7623
+gene	C1QL1	disease	NSCLC	open_targets	0.0144
+factor	Factor2	gene	SFTPB	weight	0.7609
+gene	SFTPB	disease	NSCLC	open_targets	0.1175
+factor	Factor2	gene	SHOX2	weight	0.7597
+gene	SHOX2	disease	NSCLC	open_targets	0.1157
+factor	Factor2	gene	WIF1	weight	0.758
+gene	WIF1	disease	NSCLC	open_targets	0.3945
+factor	Factor2	gene	CYP4B1	weight	0.754
+gene	CYP4B1	disease	NSCLC	open_targets	0.1133
+factor	Factor2	gene	LRRK2	weight	0.7534
+gene	LRRK2	disease	NSCLC	open_targets	0.0661
+factor	Factor2	gene	ATP10A	weight	0.7471
+factor	Factor2	gene	SOX2	weight	0.7447
+gene	SOX2	disease	NSCLC	open_targets	0.4476
+factor	Factor2	gene	SFTPD	weight	0.7425
+gene	SFTPD	disease	NSCLC	open_targets	0.0667
+factor	Factor2	gene	ALOX5	weight	0.7409
+gene	ALOX5	disease	NSCLC	open_targets	0.111
+factor	Factor2	gene	NAPSA	weight	0.7398
+gene	NAPSA	disease	NSCLC	open_targets	0.0911
+factor	Factor2	gene	PCDHGB7	weight	0.7397
+gene	PCDHGB7	disease	NSCLC	open_targets	0.0357
+factor	Factor2	gene	BMP2	weight	0.7351
+gene	BMP2	disease	NSCLC	open_targets	0.1112
+factor	Factor2	gene	DLEC1	weight	0.7335
+gene	DLEC1	disease	NSCLC	open_targets	0.0878
+factor	Factor2	gene	PIGR	weight	0.7333
+gene	PIGR	disease	NSCLC	open_targets	0.0226
+factor	Factor2	gene	ADH1B	weight	0.7326
+gene	ADH1B	disease	NSCLC	open_targets	0.1071
+factor	Factor2	gene	ABCA3	weight	0.7313
+gene	ABCA3	disease	NSCLC	open_targets	0.1034
+factor	Factor2	gene	ITIH5	weight	0.7277
+gene	ITIH5	disease	NSCLC	open_targets	0.0394
+factor	Factor2	gene	C8orf34	weight	0.7254
+gene	C8orf34	disease	NSCLC	open_targets	0.0259
+factor	Factor2	gene	HOXD10	weight	0.7192
+gene	HOXD10	disease	NSCLC	open_targets	0.0616
+factor	Factor2	gene	C4BPA	weight	0.7175
+gene	C4BPA	disease	NSCLC	open_targets	0.0274
+factor	Factor2	gene	PLCXD3	weight	0.7146
+gene	PLCXD3	disease	NSCLC	open_targets	0.0053
+factor	Factor2	gene	COL6A6	weight	0.7126
+gene	COL6A6	disease	NSCLC	open_targets	0.1033
+factor	Factor2	gene	ISM1	weight	0.7096
+factor	Factor2	gene	ADAMTS20	weight	0.7067
+gene	ADAMTS20	disease	NSCLC	open_targets	0.042
+factor	Factor2	gene	DLX5	weight	0.7038
+gene	DLX5	disease	NSCLC	open_targets	0.0483
+factor	Factor2	gene	GATA6	weight	0.7036
+gene	GATA6	disease	NSCLC	open_targets	0.1157
+factor	Factor2	gene	CA3	weight	0.6981
+gene	CA3	disease	NSCLC	open_targets	0.0137
+factor	Factor2	gene	C7	weight	0.6915
+gene	C7	disease	NSCLC	open_targets	0.0359
+factor	Factor2	gene	HP	weight	0.6904
+gene	HP	disease	NSCLC	open_targets	0.084
+factor	Factor2	gene	FOLR1	weight	0.6884
+gene	FOLR1	disease	NSCLC	open_targets	0.3209
+gene	ABCA3	pathway	Surfactant metabolism	member	1.0
+gene	DMBT1	pathway	Surfactant metabolism	member	1.0
+gene	GATA6	pathway	Surfactant metabolism	member	1.0
+gene	NAPSA	pathway	Surfactant metabolism	member	1.0
+gene	SFTA3	pathway	Surfactant metabolism	member	1.0
+gene	SFTPA1	pathway	Surfactant metabolism	member	1.0
+gene	SFTPA2	pathway	Surfactant metabolism	member	1.0
+gene	SFTPB	pathway	Surfactant metabolism	member	1.0
+gene	SFTPC	pathway	Surfactant metabolism	member	1.0
+gene	SFTPD	pathway	Surfactant metabolism	member	1.0
+gene	ABCA3	pathway	Diseases associated with surfactant metabolism	member	1.0
+gene	SFTA3	pathway	Diseases associated with surfactant metabolism	member	1.0
+gene	SFTPA1	pathway	Diseases associated with surfactant metabolism	member	1.0
+gene	SFTPA2	pathway	Diseases associated with surfactant metabolism	member	1.0
+gene	SFTPB	pathway	Diseases associated with surfactant metabolism	member	1.0
+gene	SFTPC	pathway	Diseases associated with surfactant metabolism	member	1.0
+gene	SFTPD	pathway	Diseases associated with surfactant metabolism	member	1.0
+gene	ABCA3	pathway	Diseases of metabolism	member	1.0
+gene	ADAMTS20	pathway	Diseases of metabolism	member	1.0
+gene	GCLC	pathway	Diseases of metabolism	member	1.0
+gene	MUC5B	pathway	Diseases of metabolism	member	1.0
+gene	SEMA5A	pathway	Diseases of metabolism	member	1.0
+gene	SFTA3	pathway	Diseases of metabolism	member	1.0
+gene	SFTPA1	pathway	Diseases of metabolism	member	1.0
+gene	SFTPA2	pathway	Diseases of metabolism	member	1.0
+gene	SFTPB	pathway	Diseases of metabolism	member	1.0
+gene	SFTPC	pathway	Diseases of metabolism	member	1.0
+gene	SFTPD	pathway	Diseases of metabolism	member	1.0
+gene	SFTPA1	pathway	Toll Like Receptor 4 (TLR4) Cascade	member	1.0
+gene	SFTPA2	pathway	Toll Like Receptor 4 (TLR4) Cascade	member	1.0
+gene	SFTPD	pathway	Toll Like Receptor 4 (TLR4) Cascade	member	1.0
+gene	ABCA3	pathway	Metabolism of proteins	member	1.0
+gene	ADAMTS20	pathway	Metabolism of proteins	member	1.0
+gene	CFTR	pathway	Metabolism of proteins	member	1.0
+gene	DMBT1	pathway	Metabolism of proteins	member	1.0
+gene	FOLR1	pathway	Metabolism of proteins	member	1.0
+gene	GATA6	pathway	Metabolism of proteins	member	1.0
+gene	MSLN	pathway	Metabolism of proteins	member	1.0
+gene	MUC5B	pathway	Metabolism of proteins	member	1.0
+gene	NAPSA	pathway	Metabolism of proteins	member	1.0
+gene	RTN4RL1	pathway	Metabolism of proteins	member	1.0
+gene	SEMA5A	pathway	Metabolism of proteins	member	1.0
+gene	SFTA3	pathway	Metabolism of proteins	member	1.0
+gene	SFTPA1	pathway	Metabolism of proteins	member	1.0
+gene	SFTPA2	pathway	Metabolism of proteins	member	1.0
+gene	SFTPB	pathway	Metabolism of proteins	member	1.0
+gene	SFTPC	pathway	Metabolism of proteins	member	1.0
+gene	SFTPD	pathway	Metabolism of proteins	member	1.0
+gene	ZBTB16	pathway	Metabolism of proteins	member	1.0
+gene	CYP4F3	gene	CYP4F11	STRING	0.877
+gene	ALDH1A1	gene	SOX2	STRING	0.759
+factor	Factor4	gene	CALML3	weight	1.3328
+gene	CALML3	disease	NSCLC	open_targets	0.0616
+factor	Factor4	gene	LRRC4	weight	1.3011
+gene	LRRC4	disease	NSCLC	open_targets	0.0251
+factor	Factor4	gene	FAM83C	weight	1.1549
+factor	Factor4	gene	RAPGEFL1	weight	1.028
+gene	RAPGEFL1	disease	NSCLC	open_targets	0.0074
+factor	Factor4	gene	ADH7	weight	1.0
+gene	ADH7	disease	NSCLC	open_targets	0.0429
+factor	Factor4	gene	NTRK2	weight	0.9595
+gene	NTRK2	disease	NSCLC	open_targets	0.6922
+factor	Factor4	gene	KRT7	weight	0.9567
+gene	KRT7	disease	NSCLC	open_targets	0.0607
+factor	Factor4	gene	GLI2	weight	0.9526
+gene	GLI2	disease	NSCLC	open_targets	0.0965
+factor	Factor4	gene	NLGN1	weight	0.939
+gene	NLGN1	disease	NSCLC	open_targets	0.0037
+factor	Factor4	gene	RGMA	weight	0.923
+gene	RGMA	disease	NSCLC	open_targets	0.0095
+factor	Factor4	gene	ADAM23	weight	0.871
+gene	ADAM23	disease	NSCLC	open_targets	0.0236
+factor	Factor4	gene	ADAM8	weight	0.861
+gene	ADAM8	disease	NSCLC	open_targets	0.0654
+factor	Factor4	gene	SOX2	weight	0.8538
+factor	Factor4	gene	GSTA1	weight	0.8472
+gene	GSTA1	disease	NSCLC	open_targets	0.0223
+factor	Factor4	gene	PCDH15	weight	0.8464
+gene	PCDH15	disease	NSCLC	open_targets	0.0307
+factor	Factor4	gene	HAS3	weight	0.8453
+gene	HAS3	disease	NSCLC	open_targets	0.0452
+factor	Factor4	gene	CYP26A1	weight	0.8361
+gene	CYP26A1	disease	NSCLC	open_targets	0.0225
+factor	Factor4	gene	SOST	weight	0.8337
+gene	SOST	disease	NSCLC	open_targets	0.0117
+factor	Factor4	gene	FEZF1	weight	0.8079
+gene	FEZF1	disease	NSCLC	open_targets	0.1203
+factor	Factor4	gene	FETUB	weight	0.77
+gene	FETUB	disease	NSCLC	open_targets	0.0192
+factor	Factor4	gene	PTPRT	weight	0.7592
+gene	PTPRT	disease	NSCLC	open_targets	0.4326
+factor	Factor4	gene	NTS	weight	0.755
+gene	NTS	disease	NSCLC	open_targets	0.0469
+factor	Factor4	gene	UGT1A7	weight	0.7518
+gene	UGT1A7	disease	NSCLC	open_targets	0.0334
+factor	Factor4	gene	KRT13	weight	0.7474
+gene	KRT13	disease	NSCLC	open_targets	0.0361
+factor	Factor4	gene	SPRR3	weight	0.7456
+gene	SPRR3	disease	NSCLC	open_targets	0.0948
+factor	Factor4	gene	FOXE1	weight	0.7427
+gene	FOXE1	disease	NSCLC	open_targets	0.0597
+factor	Factor4	gene	PTPRZ1	weight	0.7408
+gene	PTPRZ1	disease	NSCLC	open_targets	0.0467
+factor	Factor4	gene	GDA	weight	0.7361
+gene	GDA	disease	NSCLC	open_targets	0.0835
+factor	Factor4	gene	SPRR1A	weight	0.7271
+gene	SPRR1A	disease	NSCLC	open_targets	0.0498
+factor	Factor4	gene	PAX6	weight	0.725
+gene	PAX6	disease	NSCLC	open_targets	0.1195
+factor	Factor4	gene	CYP4F3	weight	0.7193
+gene	CYP4F3	disease	NSCLC	open_targets	0.011
+factor	Factor4	gene	SYT7	weight	0.7136
+gene	SYT7	disease	NSCLC	open_targets	0.0917
+factor	Factor4	gene	TUBB3	weight	0.7114
+gene	TUBB3	disease	NSCLC	open_targets	0.6212
+factor	Factor4	gene	DSG3	weight	0.7106
+gene	DSG3	disease	NSCLC	open_targets	0.075
+factor	Factor4	gene	ALDH3A1	weight	0.7105
+gene	ALDH3A1	disease	NSCLC	open_targets	0.1057
+factor	Factor4	gene	GBP6	weight	0.7008
+gene	GBP6	disease	NSCLC	open_targets	0.0329
+factor	Factor4	gene	LGI3	weight	0.6904
+gene	LGI3	disease	NSCLC	open_targets	0.0903
+factor	Factor4	gene	BCHE	weight	0.6829
+gene	BCHE	disease	NSCLC	open_targets	0.0392
+factor	Factor4	gene	CHST2	weight	0.6782
+gene	CHST2	disease	NSCLC	open_targets	0.0015
+factor	Factor4	gene	MRAP2	weight	0.6721
+gene	MRAP2	disease	NSCLC	open_targets	0.002
+factor	Factor4	gene	DMRT2	weight	0.6708
+factor	Factor4	gene	CLCA2	weight	0.6701
+gene	CLCA2	disease	NSCLC	open_targets	0.0578
+factor	Factor4	gene	NRXN3	weight	0.6696
+gene	NRXN3	disease	NSCLC	open_targets	0.0022
+factor	Factor4	gene	ZBTB7C	weight	0.6658
+gene	ZBTB7C	disease	NSCLC	open_targets	0.0074
+factor	Factor4	gene	USH1G	weight	0.6638
+gene	USH1G	disease	NSCLC	open_targets	0.0439
+factor	Factor4	gene	TP63	weight	0.6623
+gene	TP63	disease	NSCLC	open_targets	0.6472
+factor	Factor4	gene	SDK1	weight	0.662
+gene	SDK1	disease	NSCLC	open_targets	0.0167
+factor	Factor4	gene	C11orf88	weight	0.6585
+factor	Factor4	gene	ZNF750	weight	0.6563
+gene	ZNF750	disease	NSCLC	open_targets	0.025
+factor	Factor4	gene	CHST9	weight	0.6543
+gene	CHST9	disease	NSCLC	open_targets	0.0064
+factor	Factor4	gene	CHP2	weight	0.6528
+gene	CHP2	disease	NSCLC	open_targets	0.075
+factor	Factor4	gene	CYP4F11	weight	0.6518
+gene	CYP4F11	disease	NSCLC	open_targets	0.0349
+factor	Factor4	gene	SERPINB13	weight	0.6485
+gene	SERPINB13	disease	NSCLC	open_targets	0.0591
+factor	Factor4	gene	EEF1A2	weight	0.6478
+gene	EEF1A2	disease	NSCLC	open_targets	0.0979
+factor	Factor4	gene	SOSTDC1	weight	0.6462
+gene	SOSTDC1	disease	NSCLC	open_targets	0.1043
+factor	Factor4	gene	MIAT	weight	0.6452
+gene	MIAT	disease	NSCLC	open_targets	0.1001
+factor	Factor4	gene	NRN1	weight	0.6413
+gene	NRN1	disease	NSCLC	open_targets	0.0797
+factor	Factor4	gene	DLEC1	weight	0.6398
+factor	Factor4	gene	AKR1C1	weight	0.6393
+gene	AKR1C1	disease	NSCLC	open_targets	0.124
+factor	Factor4	gene	AKR1C2	weight	0.6379
+gene	AKR1C2	disease	NSCLC	open_targets	0.0598
+factor	Factor4	gene	CNTNAP2	weight	0.6337
+gene	CNTNAP2	disease	NSCLC	open_targets	0.2899
+factor	Factor4	gene	CYP24A1	weight	0.6312
+gene	CYP24A1	disease	NSCLC	open_targets	0.0965
+factor	Factor4	gene	ALDH1A1	weight	0.6208
+gene	ALDH1A1	disease	NSCLC	open_targets	0.1107
+factor	Factor4	gene	ABCA13	weight	0.6195
+gene	ABCA13	disease	NSCLC	open_targets	0.0018
+factor	Factor4	gene	UGT1A6	weight	0.6114
+gene	UGT1A6	disease	NSCLC	open_targets	0.0383
+factor	Factor4	gene	DAPL1	weight	0.6101
+gene	DAPL1	disease	NSCLC	open_targets	0.04
+factor	Factor4	gene	CSMD1	weight	0.6084
+gene	CSMD1	disease	NSCLC	open_targets	0.0185
+factor	Factor4	gene	CYP2C18	weight	0.6055
+factor	Factor4	gene	SPRR2A	weight	0.603
+gene	SPRR2A	disease	NSCLC	open_targets	0.0521
+factor	Factor4	gene	ADCY10	weight	0.6018
+gene	ADCY10	disease	NSCLC	open_targets	0.0935
+factor	Factor4	gene	PLCH2	weight	0.601
+factor	Factor4	gene	ELF5	weight	0.5989
+gene	ELF5	disease	NSCLC	open_targets	0.0823
+factor	Factor4	gene	KRT5	weight	0.5973
+gene	KRT5	disease	NSCLC	open_targets	0.1
+factor	Factor4	gene	UPK1B	weight	0.5971
+gene	UPK1B	disease	NSCLC	open_targets	0.0296
+factor	Factor4	gene	DSC3	weight	0.5945
+gene	DSC3	disease	NSCLC	open_targets	0.0558
+factor	Factor4	gene	IGSF11	weight	0.5939
+gene	IGSF11	disease	NSCLC	open_targets	0.0309
+factor	Factor4	gene	JAKMIP3	weight	0.592
+gene	JAKMIP3	disease	NSCLC	open_targets	0.0037
+factor	Factor4	gene	SPRR1B	weight	0.5911
+gene	SPRR1B	disease	NSCLC	open_targets	0.0986
+factor	Factor4	gene	PKP1	weight	0.5911
+gene	PKP1	disease	NSCLC	open_targets	0.0503
+factor	Factor4	gene	FGFBP2	weight	0.5904
+gene	FGFBP2	disease	NSCLC	open_targets	0.0244
+factor	Factor4	gene	PLA2G3	weight	0.5903
+gene	PLA2G3	disease	NSCLC	open_targets	0.0086
+factor	Factor4	gene	UGT1A9	weight	0.5888
+gene	UGT1A9	disease	NSCLC	open_targets	0.0083
+factor	Factor4	gene	MAPK10	weight	0.5867
+gene	MAPK10	disease	NSCLC	open_targets	0.0822
+factor	Factor4	gene	NOS2	weight	0.5836
+gene	NOS2	disease	NSCLC	open_targets	0.0566
+factor	Factor4	gene	GPX2	weight	0.5827
+gene	GPX2	disease	NSCLC	open_targets	0.1257
+factor	Factor4	gene	GLYATL2	weight	0.5764
+gene	GLYATL2	disease	NSCLC	open_targets	0.0411
+factor	Factor4	gene	AKR1B10	weight	0.5726
+gene	AKR1B10	disease	NSCLC	open_targets	0.103
+factor	Factor4	gene	SOX21	weight	0.5648
+gene	SOX21	disease	NSCLC	open_targets	0.2433
+factor	Factor4	gene	SOX2OT	weight	0.5641
+factor	Factor4	gene	C1orf110	weight	0.5594
+factor	Factor4	gene	ATP13A4	weight	0.5581
+gene	ATP13A4	disease	NSCLC	open_targets	0.0242
+factor	Factor4	gene	GFRA1	weight	0.5576
+factor	Factor4	gene	BMP7	weight	0.5539
+gene	BMP7	disease	NSCLC	open_targets	0.0682
+factor	Factor4	gene	WSCD2	weight	0.5498
+factor	Factor4	gene	AADAC	weight	0.5487
+factor	Factor4	gene	PCSK2	weight	0.5445
+gene	PCSK2	disease	NSCLC	open_targets	0.0052
+factor	Factor4	gene	DLX5	weight	0.5389
+factor	Factor4	gene	SLC9A4	weight	0.5386
+gene	SLC9A4	disease	NSCLC	open_targets	0.0208
+factor	Factor4	gene	OTOP2	weight	0.5383
+factor	Factor4	gene	AKR1C3	weight	0.5363
+gene	AKR1C3	disease	NSCLC	open_targets	0.0531
+gene	AADAC	pathway	Biological oxidations	member	1.0
+gene	ADH7	pathway	Biological oxidations	member	1.0
+gene	ALDH1A1	pathway	Biological oxidations	member	1.0
+gene	ALDH3A1	pathway	Biological oxidations	member	1.0
+gene	CYP24A1	pathway	Biological oxidations	member	1.0
+gene	CYP26A1	pathway	Biological oxidations	member	1.0
+gene	CYP2C18	pathway	Biological oxidations	member	1.0
+gene	CYP4F11	pathway	Biological oxidations	member	1.0
+gene	CYP4F3	pathway	Biological oxidations	member	1.0
+gene	GLYATL2	pathway	Biological oxidations	member	1.0
+gene	GSTA1	pathway	Biological oxidations	member	1.0
+gene	UGT1A6	pathway	Biological oxidations	member	1.0
+gene	UGT1A7	pathway	Biological oxidations	member	1.0
+gene	UGT1A9	pathway	Biological oxidations	member	1.0
+gene	AADAC	pathway	Phase I - Functionalization of compounds	member	1.0
+gene	ADH7	pathway	Phase I - Functionalization of compounds	member	1.0
+gene	ALDH1A1	pathway	Phase I - Functionalization of compounds	member	1.0
+gene	ALDH3A1	pathway	Phase I - Functionalization of compounds	member	1.0
+gene	CYP24A1	pathway	Phase I - Functionalization of compounds	member	1.0
+gene	CYP26A1	pathway	Phase I - Functionalization of compounds	member	1.0
+gene	CYP2C18	pathway	Phase I - Functionalization of compounds	member	1.0
+gene	CYP4F11	pathway	Phase I - Functionalization of compounds	member	1.0
+gene	CYP4F3	pathway	Phase I - Functionalization of compounds	member	1.0
+gene	AADAC	pathway	Metabolism	member	1.0
+gene	ADH7	pathway	Metabolism	member	1.0
+gene	AKR1B10	pathway	Metabolism	member	1.0
+gene	AKR1C1	pathway	Metabolism	member	1.0
+gene	AKR1C2	pathway	Metabolism	member	1.0
+gene	AKR1C3	pathway	Metabolism	member	1.0
+gene	ALDH1A1	pathway	Metabolism	member	1.0
+gene	ALDH3A1	pathway	Metabolism	member	1.0
+gene	BCHE	pathway	Metabolism	member	1.0
+gene	CHST2	pathway	Metabolism	member	1.0
+gene	CHST9	pathway	Metabolism	member	1.0
+gene	CYP24A1	pathway	Metabolism	member	1.0
+gene	CYP26A1	pathway	Metabolism	member	1.0
+gene	CYP2C18	pathway	Metabolism	member	1.0
+gene	CYP4F11	pathway	Metabolism	member	1.0
+gene	CYP4F3	pathway	Metabolism	member	1.0
+gene	GDA	pathway	Metabolism	member	1.0
+gene	GLYATL2	pathway	Metabolism	member	1.0
+gene	GPX2	pathway	Metabolism	member	1.0
+gene	GSTA1	pathway	Metabolism	member	1.0
+gene	HAS3	pathway	Metabolism	member	1.0
+gene	PLA2G3	pathway	Metabolism	member	1.0
+gene	PLCH2	pathway	Metabolism	member	1.0
+gene	UGT1A6	pathway	Metabolism	member	1.0
+gene	UGT1A7	pathway	Metabolism	member	1.0
+gene	UGT1A9	pathway	Metabolism	member	1.0
+gene	ADH7	pathway	Cytochrome P450 - arranged by substrate type	member	1.0
+gene	CYP24A1	pathway	Cytochrome P450 - arranged by substrate type	member	1.0
+gene	CYP26A1	pathway	Cytochrome P450 - arranged by substrate type	member	1.0
+gene	CYP2C18	pathway	Cytochrome P450 - arranged by substrate type	member	1.0
+gene	CYP4F11	pathway	Cytochrome P450 - arranged by substrate type	member	1.0
+gene	CYP4F3	pathway	Cytochrome P450 - arranged by substrate type	member	1.0
+gene	ADAM23	pathway	Developmental Biology	member	1.0
+gene	BMP7	pathway	Developmental Biology	member	1.0
+gene	DLX5	pathway	Developmental Biology	member	1.0
+gene	DSC3	pathway	Developmental Biology	member	1.0
+gene	DSG3	pathway	Developmental Biology	member	1.0
+gene	GFRA1	pathway	Developmental Biology	member	1.0
+gene	KRT13	pathway	Developmental Biology	member	1.0
+gene	KRT5	pathway	Developmental Biology	member	1.0
+gene	KRT7	pathway	Developmental Biology	member	1.0
+gene	LGI3	pathway	Developmental Biology	member	1.0
+gene	PAX6	pathway	Developmental Biology	member	1.0
+gene	PKP1	pathway	Developmental Biology	member	1.0
+gene	RGMA	pathway	Developmental Biology	member	1.0
+gene	SOX2	pathway	Developmental Biology	member	1.0
+gene	SPRR1A	pathway	Developmental Biology	member	1.0
+gene	SPRR1B	pathway	Developmental Biology	member	1.0
+gene	SPRR2A	pathway	Developmental Biology	member	1.0
+gene	SPRR3	pathway	Developmental Biology	member	1.0
+gene	TUBB3	pathway	Developmental Biology	member	1.0
+gene	ADH7	pathway	Xenobiotic Metabolism	member	1.0
+gene	AKR1C2	pathway	Xenobiotic Metabolism	member	1.0
+gene	AKR1C3	pathway	Xenobiotic Metabolism	member	1.0
+gene	ALDH3A1	pathway	Xenobiotic Metabolism	member	1.0
+gene	CYP26A1	pathway	Xenobiotic Metabolism	member	1.0
+gene	CYP2C18	pathway	Xenobiotic Metabolism	member	1.0
+gene	FETUB	pathway	Xenobiotic Metabolism	member	1.0
+gene	KRT14	gene	KRT17	STRING	0.973
+gene	KRT14	gene	KRT16	STRING	0.976
+gene	CHRD	gene	BMP6	STRING	0.98
+gene	DSG3	gene	DSC3	STRING	0.864
+gene	SERPINB3	gene	SERPINB4	STRING	0.999
+gene	KRT16	gene	KRT17	STRING	0.985
+factor	Factor5	gene	ASCL1	weight	1.2545
+gene	ASCL1	disease	NSCLC	open_targets	0.0506
+factor	Factor5	gene	CTNND2	weight	1.095
+gene	CTNND2	disease	NSCLC	open_targets	0.3407
+factor	Factor5	gene	KHDRBS2	weight	1.0705
+factor	Factor5	gene	SRCIN1	weight	1.0639
+gene	SRCIN1	disease	NSCLC	open_targets	0.1084
+factor	Factor5	gene	ATP8B3	weight	1.0448
+gene	ATP8B3	disease	NSCLC	open_targets	0.0044
+factor	Factor5	gene	KRT16	weight	1.0314
+gene	KRT16	disease	NSCLC	open_targets	0.1068
+factor	Factor5	gene	KRT6A	weight	1.0
+gene	KRT6A	disease	NSCLC	open_targets	0.1243
+factor	Factor5	gene	LMO3	weight	0.9794
+factor	Factor5	gene	NOL4	weight	0.9627
+gene	NOL4	disease	NSCLC	open_targets	0.0071
+factor	Factor5	gene	KRT6B	weight	0.9578
+gene	KRT6B	disease	NSCLC	open_targets	0.075
+factor	Factor5	gene	MFI2	weight	0.9404
+factor	Factor5	gene	GPR133	weight	0.9312
+factor	Factor5	gene	TUBB2B	weight	0.9302
+gene	TUBB2B	disease	NSCLC	open_targets	0.6132
+factor	Factor5	gene	WNT7A	weight	0.9295
+gene	WNT7A	disease	NSCLC	open_targets	0.1181
+factor	Factor5	gene	SERPINB3	weight	0.9156
+gene	SERPINB3	disease	NSCLC	open_targets	0.0509
+factor	Factor5	gene	KRT6C	weight	0.9079
+gene	KRT6C	disease	NSCLC	open_targets	0.0582
+factor	Factor5	gene	PAH	weight	0.906
+gene	PAH	disease	NSCLC	open_targets	0.0442
+factor	Factor5	gene	KCNH2	weight	0.8925
+gene	KCNH2	disease	NSCLC	open_targets	0.0159
+factor	Factor5	gene	CALN1	weight	0.8845
+factor	Factor5	gene	CELF4	weight	0.8833
+factor	Factor5	gene	ABCA3	weight	0.8627
+factor	Factor5	gene	KRT14	weight	0.8538
+gene	KRT14	disease	NSCLC	open_targets	0.0732
+factor	Factor5	gene	ELF5	weight	0.851
+factor	Factor5	gene	TFAP2B	weight	0.8501
+gene	TFAP2B	disease	NSCLC	open_targets	0.0546
+factor	Factor5	gene	SERPINB4	weight	0.848
+gene	SERPINB4	disease	NSCLC	open_targets	0.0607
+factor	Factor5	gene	GPR115	weight	0.843
+factor	Factor5	gene	DSG3	weight	0.8406
+factor	Factor5	gene	SV2A	weight	0.8401
+factor	Factor5	gene	DOK6	weight	0.8342
+gene	DOK6	disease	NSCLC	open_targets	0.0273
+factor	Factor5	gene	LY6D	weight	0.8249
+gene	LY6D	disease	NSCLC	open_targets	0.0694
+factor	Factor5	gene	ANXA8	weight	0.8188
+gene	ANXA8	disease	NSCLC	open_targets	0.0343
+factor	Factor5	gene	GPR87	weight	0.8155
+gene	GPR87	disease	NSCLC	open_targets	0.1092
+factor	Factor5	gene	NRXN3	weight	0.8128
+factor	Factor5	gene	SYN3	weight	0.8104
+factor	Factor5	gene	LY6K	weight	0.8097
+gene	LY6K	disease	NSCLC	open_targets	0.0573
+factor	Factor5	gene	LAMC2	weight	0.8012
+gene	LAMC2	disease	NSCLC	open_targets	0.0933
+factor	Factor5	gene	ATP6V1B1	weight	0.7931
+gene	ATP6V1B1	disease	NSCLC	open_targets	0.0033
+factor	Factor5	gene	SDK1	weight	0.7911
+factor	Factor5	gene	SERPINB5	weight	0.7897
+gene	SERPINB5	disease	NSCLC	open_targets	0.1259
+factor	Factor5	gene	SERPINB7	weight	0.7842
+gene	SERPINB7	disease	NSCLC	open_targets	0.0443
+factor	Factor5	gene	TNS4	weight	0.7839
+gene	TNS4	disease	NSCLC	open_targets	0.1164
+factor	Factor5	gene	HCG4	weight	0.7794
+factor	Factor5	gene	KCNB2	weight	0.771
+factor	Factor5	gene	SFTA3	weight	0.7671
+factor	Factor5	gene	GJB3	weight	0.7645
+gene	GJB3	disease	NSCLC	open_targets	0.1118
+factor	Factor5	gene	AFF3	weight	0.7606
+factor	Factor5	gene	ANXA8L2	weight	0.7595
+factor	Factor5	gene	MDFI	weight	0.7404
+gene	MDFI	disease	NSCLC	open_targets	0.0876
+factor	Factor5	gene	SPRR1B	weight	0.7362
+factor	Factor5	gene	CALCB	weight	0.7352
+factor	Factor5	gene	KRT17	weight	0.7278
+gene	KRT17	disease	NSCLC	open_targets	0.068
+factor	Factor5	gene	TMEM132D	weight	0.7277
+factor	Factor5	gene	BMP6	weight	0.7259
+gene	BMP6	disease	NSCLC	open_targets	0.0437
+factor	Factor5	gene	APBA2	weight	0.7247
+factor	Factor5	gene	CHRD	weight	0.7223
+factor	Factor5	gene	TMEM171	weight	0.7125
+gene	TMEM171	disease	NSCLC	open_targets	0.0022
+factor	Factor5	gene	PPP1R1B	weight	0.7119
+factor	Factor5	gene	KLK6	weight	0.7076
+gene	KLK6	disease	NSCLC	open_targets	0.1079
+factor	Factor5	gene	CALCA	weight	0.7052
+gene	CALCA	disease	NSCLC	open_targets	0.0645
+factor	Factor5	gene	NKX2-1	weight	0.7052
+gene	NKX2-1	disease	NSCLC	open_targets	0.4966
+factor	Factor5	gene	PGC	weight	0.7039
+factor	Factor5	gene	PCSK2	weight	0.7015
+factor	Factor5	gene	ESYT3	weight	0.694
+gene	ESYT3	disease	NSCLC	open_targets	0.0874
+factor	Factor5	gene	PEX5L	weight	0.6914
+gene	PEX5L	disease	NSCLC	open_targets	0.0107
+factor	Factor5	gene	ARL14	weight	0.691
+gene	ARL14	disease	NSCLC	open_targets	0.1081
+factor	Factor5	gene	WBSCR17	weight	0.6904
+factor	Factor5	gene	GFRA3	weight	0.6825
+gene	GFRA3	disease	NSCLC	open_targets	0.0244
+factor	Factor5	gene	PI3	weight	0.6809
+gene	PI3	disease	NSCLC	open_targets	0.0334
+factor	Factor5	gene	ASXL3	weight	0.679
+gene	ASXL3	disease	NSCLC	open_targets	0.0052
+factor	Factor5	gene	KLHL14	weight	0.6768
+gene	KLHL14	disease	NSCLC	open_targets	0.0046
+factor	Factor5	gene	CLCA2	weight	0.6715
+factor	Factor5	gene	NELL1	weight	0.6698
+gene	NELL1	disease	NSCLC	open_targets	0.018
+factor	Factor5	gene	FEZF1	weight	0.6694
+factor	Factor5	gene	MYRIP	weight	0.6663
+gene	MYRIP	disease	NSCLC	open_targets	0.0033
+factor	Factor5	gene	FOXI3	weight	0.6633
+gene	FOXI3	disease	NSCLC	open_targets	0.0604
+factor	Factor5	gene	IL20RB	weight	0.6626
+gene	IL20RB	disease	NSCLC	open_targets	0.0497
+factor	Factor5	gene	GJB2	weight	0.662
+gene	GJB2	disease	NSCLC	open_targets	0.1262
+factor	Factor5	gene	ANO1	weight	0.6613
+gene	ANO1	disease	NSCLC	open_targets	0.0662
+factor	Factor5	gene	PROM2	weight	0.6608
+gene	PROM2	disease	NSCLC	open_targets	0.097
+factor	Factor5	gene	RHCG	weight	0.6595
+gene	RHCG	disease	NSCLC	open_targets	0.0503
+factor	Factor5	gene	GJB5	weight	0.6572
+gene	GJB5	disease	NSCLC	open_targets	0.0897
+factor	Factor5	gene	ZMAT4	weight	0.6565
+gene	ZMAT4	disease	NSCLC	open_targets	0.0285
+factor	Factor5	gene	IL1A	weight	0.6552
+gene	IL1A	disease	NSCLC	open_targets	0.0897
+factor	Factor5	gene	KIF5C	weight	0.6518
+gene	KIF5C	disease	NSCLC	open_targets	0.0037
+factor	Factor5	gene	LYPD3	weight	0.6495
+gene	LYPD3	disease	NSCLC	open_targets	0.0621
+factor	Factor5	gene	DDC	weight	0.6494
+gene	DDC	disease	NSCLC	open_targets	0.0145
+factor	Factor5	gene	AQP4	weight	0.6488
+factor	Factor5	gene	PSCA	weight	0.6467
+gene	PSCA	disease	NSCLC	open_targets	0.0242
+factor	Factor5	gene	DSC3	weight	0.6453
+factor	Factor5	gene	IGFBPL1	weight	0.6451
+gene	IGFBPL1	disease	NSCLC	open_targets	0.0092
+factor	Factor5	gene	PADI1	weight	0.6425
+gene	PADI1	disease	NSCLC	open_targets	0.0506
+factor	Factor5	gene	KIF1A	weight	0.6394
+gene	KIF1A	disease	NSCLC	open_targets	0.0494
+factor	Factor5	gene	DLGAP1	weight	0.6383
+gene	DLGAP1	disease	NSCLC	open_targets	0.0849
+factor	Factor5	gene	BAI1	weight	0.6346
+factor	Factor5	gene	S100A9	weight	0.6343
+gene	S100A9	disease	NSCLC	open_targets	0.0557
+factor	Factor5	gene	WIF1	weight	0.633
+factor	Factor5	gene	MEX3A	weight	0.6323
+gene	MEX3A	disease	NSCLC	open_targets	0.0979
+factor	Factor5	gene	SEMA3E	weight	0.6307
+gene	SEMA3E	disease	NSCLC	open_targets	0.0123
+factor	Factor5	gene	CLIC6	weight	0.6296
+factor	Factor5	gene	GJB4	weight	0.629
+gene	GJB4	disease	NSCLC	open_targets	0.0193
+gene	DSC3	pathway	Formation of the cornified envelope	member	1.0
+gene	DSG3	pathway	Formation of the cornified envelope	member	1.0
+gene	KRT14	pathway	Formation of the cornified envelope	member	1.0
+gene	KRT16	pathway	Formation of the cornified envelope	member	1.0
+gene	KRT17	pathway	Formation of the cornified envelope	member	1.0
+gene	KRT6A	pathway	Formation of the cornified envelope	member	1.0
+gene	KRT6B	pathway	Formation of the cornified envelope	member	1.0
+gene	KRT6C	pathway	Formation of the cornified envelope	member	1.0
+gene	PI3	pathway	Formation of the cornified envelope	member	1.0
+gene	SPRR1B	pathway	Formation of the cornified envelope	member	1.0
+gene	DSC3	pathway	Keratinization	member	1.0
+gene	DSG3	pathway	Keratinization	member	1.0
+gene	KRT14	pathway	Keratinization	member	1.0
+gene	KRT16	pathway	Keratinization	member	1.0
+gene	KRT17	pathway	Keratinization	member	1.0
+gene	KRT6A	pathway	Keratinization	member	1.0
+gene	KRT6B	pathway	Keratinization	member	1.0
+gene	KRT6C	pathway	Keratinization	member	1.0
+gene	PI3	pathway	Keratinization	member	1.0
+gene	SPRR1B	pathway	Keratinization	member	1.0
+gene	DOK6	pathway	Developmental Biology	member	1.0
+gene	GFRA3	pathway	Developmental Biology	member	1.0
+gene	KRT14	pathway	Developmental Biology	member	1.0
+gene	KRT16	pathway	Developmental Biology	member	1.0
+gene	KRT17	pathway	Developmental Biology	member	1.0
+gene	KRT6A	pathway	Developmental Biology	member	1.0
+gene	KRT6B	pathway	Developmental Biology	member	1.0
+gene	KRT6C	pathway	Developmental Biology	member	1.0
+gene	LAMC2	pathway	Developmental Biology	member	1.0
+gene	MYRIP	pathway	Developmental Biology	member	1.0
+gene	PI3	pathway	Developmental Biology	member	1.0
+gene	SEMA3E	pathway	Developmental Biology	member	1.0
+gene	TFAP2B	pathway	Developmental Biology	member	1.0
+gene	TUBB2B	pathway	Developmental Biology	member	1.0
+gene	GJB2	pathway	Vesicle-mediated transport	member	1.0
+gene	GJB3	pathway	Vesicle-mediated transport	member	1.0
+gene	GJB4	pathway	Vesicle-mediated transport	member	1.0
+gene	GJB5	pathway	Vesicle-mediated transport	member	1.0
+gene	KIF1A	pathway	Vesicle-mediated transport	member	1.0
+gene	KIF5C	pathway	Vesicle-mediated transport	member	1.0
+gene	S100A9	pathway	Vesicle-mediated transport	member	1.0
+gene	TUBB2B	pathway	Vesicle-mediated transport	member	1.0
+gene	DOK6	pathway	RET signaling	member	1.0
+gene	GFRA3	pathway	RET signaling	member	1.0
+gene	GJB2	pathway	Membrane Trafficking	member	1.0
+gene	GJB3	pathway	Membrane Trafficking	member	1.0
+gene	GJB4	pathway	Membrane Trafficking	member	1.0
+gene	GJB5	pathway	Membrane Trafficking	member	1.0
+gene	KIF1A	pathway	Membrane Trafficking	member	1.0
+gene	KIF5C	pathway	Membrane Trafficking	member	1.0
+gene	TUBB2B	pathway	Membrane Trafficking	member	1.0
+gene	CLCA2	pathway	p53 Pathway	member	1.0
+gene	IL1A	pathway	p53 Pathway	member	1.0
+gene	KRT17	pathway	p53 Pathway	member	1.0
+gene	SERPINB5	pathway	p53 Pathway	member	1.0
+gene	ATP6V1B1	pathway	KRAS Signaling Dn	member	1.0
+gene	CALCB	pathway	KRAS Signaling Dn	member	1.0
+gene	LYPD3	pathway	KRAS Signaling Dn	member	1.0
+gene	TFAP2B	pathway	KRAS Signaling Dn	member	1.0

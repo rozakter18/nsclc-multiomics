@@ -1,0 +1,1531 @@
+factor	library	term	set_size	overlap	expected	p	genes	fdr	max_locus_share	n_loci	positional_cluster
+Factor2	Reactome	Surfactant metabolism	17	11	0.68	3.208942860043582e-12	ABCA3,DMBT1,GATA6,NAPSA,SFTA3,SFTPA1,SFTPA2,SFTPB,SFTPC,SFTPD,SLC34A2	1.5178299728006143e-09	0.11	9	False
+Factor2	Reactome	Diseases associated with surfactant metabolism	10	8	0.4	2.400707013029542e-10	ABCA3,SFTA3,SFTPA1,SFTPA2,SFTPB,SFTPC,SFTPD,SLC34A2	5.677672085814867e-08	0.17	6	False
+Factor2	Reactome	Diseases of metabolism	90	16	3.6	3.706042055748046e-07	ABCA3,ADAMTS16,ADAMTS20,ADAMTS8,CYP27A1,GCLC,MUC21,MUC5B,SEMA5A,SFTA3,SFTPA1,SFTPA2,SFTPB,SFTPC,SFTPD,SLC34A2	5.843192974562753e-05	0.07	14	False
+Factor2	Reactome	Toll Like Receptor 4 (TLR4) Cascade	26	6	1.04	0.00044714215388301216	AGER,IRAK3,ITGB2,SFTPA1,SFTPA2,SFTPD	0.043554892887688226	0.25	4	False
+Factor2	Reactome	Metabolism of proteins	343	27	13.72	0.0004604111298909961	ABCA3,ADAMTS16,ADAMTS20,ADAMTS8,CFTR,DMBT1,FOLR1,GATA6,LTF,MSLN,MUC21,MUC5B,NAPSA,NEGR1,RPL39L,RTN4RL1,SEMA5A,SERPIND1,SFTA3,SFTPA1,SFTPA2,SFTPB,SFTPC,SFTPD,SLC34A2,UCHL1,ZBTB16	0.043554892887688226	0.04	25	False
+Factor2	Reactome	Toll Like Receptor 2 (TLR2) Cascade	20	5	0.8	0.0009237176548753281	AGER,IRAK3,SFTPA1,SFTPA2,SFTPD	0.06241692153657574	0.33	3	False
+Factor2	Reactome	Toll Like Receptor TLR1:TLR2 Cascade	20	5	0.8	0.0009237176548753281	AGER,IRAK3,SFTPA1,SFTPA2,SFTPD	0.06241692153657574	0.33	3	False
+Factor2	Reactome	Disease	365	27	14.6	0.0012052278035723752	ABCA3,ABCC9,ADAMTS16,ADAMTS20,ADAMTS8,C4BPA,CFTR,CYP27A1,DOCK2,GCLC,IHH,LTF,MUC21,MUC5B,NLRP12,NTRK3,RPL39L,SEMA5A,SFTA3,SFTPA1,SFTPA2,SFTPB,SFTPC,SFTPD,SLC34A2,SLC6A20,SV2A	0.07125909388621668	0.08	24	False
+Factor2	Reactome	Toll-like Receptor Cascades	32	6	1.28	0.001440380749954643	AGER,IRAK3,ITGB2,SFTPA1,SFTPA2,SFTPD	0.07570001052539402	0.25	4	False
+Factor2	Reactome	Gastrulation	39	6	1.56	0.004109219005191202	DLX5,FOXA2,GATA6,IHH,SOX2,ZIC1	0.19436605894554387	0.17	6	False
+Factor2	Reactome	Diseases associated with O-glycosylation of proteins	40	6	1.6	0.004676761893597746	ADAMTS16,ADAMTS20,ADAMTS8,MUC21,MUC5B,SEMA5A	0.2011007614247031	0.17	6	False
+Factor2	Reactome	ABC transporter disorders	11	3	0.44	0.00819991931853518	ABCA3,ABCC9,CFTR	0.31664645646068307	0.33	3	False
+Factor2	Reactome	Transcriptional regulation by RUNX2	21	4	0.84	0.008702756731477548	BMP2,DLX5,DLX6,IHH	0.31664645646068307	0.5	3	True
+Factor2	Reactome	Specification of the neural plate border	12	3	0.48	0.010614935196691756	DLX5,SOX2,ZIC1	0.35863316771680004	0.33	3	False
+Factor2	Reactome	Innate Immune System	255	18	10.2	0.012760276150995009	AGER,ALOX5,C4BPA,C6,C7,DOCK2,HP,IRAK3,ITGB2,LTF,MUC21,MUC5B,ORM1,PIGR,PTPRN2,SFTPA1,SFTPA2,SFTPD	0.3960930854125858	0.12	14	False
+Factor2	Reactome	Regulation of TLR by endogenous ligand	13	3	0.52	0.0133984976038084	SFTPA1,SFTPA2,SFTPD	0.3960930854125858		1	False
+Factor2	Reactome	Disorders of transmembrane transporters	39	5	1.56	0.01854809218152384	ABCA3,ABCC9,CFTR,SLC34A2,SLC6A20	0.49403513729750065	0.2	5	False
+Factor2	Reactome	Class B/2 (Secretin family receptors)	40	5	1.6	0.020529710794084704	CALCB,IHH,SCTR,VIPR1,WNT7A	0.49403513729750065	0.2	5	False
+Factor2	Reactome	Diseases of glycosylation	55	6	2.2	0.021551789197997204	ADAMTS16,ADAMTS20,ADAMTS8,MUC21,MUC5B,SEMA5A	0.49403513729750065	0.17	6	False
+Factor2	Reactome	O-linked glycosylation	56	6	2.24	0.023361100235186158	ADAMTS16,ADAMTS20,ADAMTS8,MUC21,MUC5B,SEMA5A	0.49403513729750065	0.17	6	False
+Factor2	Reactome	O-glycosylation of TSR domain-containing proteins	28	4	1.12	0.023955716682344974	ADAMTS16,ADAMTS20,ADAMTS8,SEMA5A	0.49403513729750065	0.25	4	False
+Factor2	Reactome	Defective B3GALTL causes PpS	28	4	1.12	0.023955716682344974	ADAMTS16,ADAMTS20,ADAMTS8,SEMA5A	0.49403513729750065	0.25	4	False
+Factor2	Reactome	Transcriptional and post-translational regulation of MITF-M expression and activity	16	3	0.64	0.024022850227996863	EDNRB,SOX2,ZIC1	0.49403513729750065	0.33	3	False
+Factor2	Reactome	Interleukin-1 family signaling	17	3	0.68	0.02833011286728061	AGER,ALOX5,IRAK3	0.5583393077593221	0.33	3	False
+Factor2	Reactome	ABC-family protein mediated transport	19	3	0.76	0.03808476180777399	ABCA3,ABCC9,CFTR	0.7205636934030838	0.33	3	False
+Factor2	Reactome	Metabolism of RNA	20	3	0.8	0.04352290794057712	IGF2BP1,IGF2BP3,RPL39L	0.7917821329189607	0.33	3	False
+Factor2	Reactome	Ion homeostasis	22	3	0.88	0.05548671795888601	ABCC9,RYR2,SLC8A3	0.884771952671515	0.33	3	False
+Factor2	Reactome	Interleukin-1 signaling	10	2	0.4	0.05798716814549041	AGER,IRAK3	0.884771952671515	0.5	2	True
+Factor2	Reactome	Digestion	10	2	0.4	0.05798716814549041	AMY1A,CHIA	0.884771952671515		1	False
+Factor2	Reactome	Glucagon-type ligand receptors	10	2	0.4	0.05798716814549041	SCTR,VIPR1	0.884771952671515	0.5	2	True
+Factor2	Reactome	Synthesis of PA	10	2	0.4	0.05798716814549041	LIPH,PLA2G1B	0.884771952671515	0.5	2	True
+Factor2	Reactome	Transport of small molecules	230	14	9.2	0.07528966552220849	ABCA3,ABCC9,AQP4,ATP10A,ATP13A4,CA4,CFTR,RYR2,SLC22A3,SLC26A9,SLC29A4,SLC34A2,SLC6A20,SLC8A3	0.9560954580046832	0.07	14	False
+Factor2	Reactome	RET signaling	12	2	0.48	0.0807382144224382	GFRA1,GFRA2	0.9560954580046832	0.5	2	True
+Factor2	Reactome	Defective GALNT3 causes HFTC	12	2	0.48	0.0807382144224382	MUC21,MUC5B	0.9560954580046832	0.5	2	True
+Factor2	Reactome	Defective GALNT12 causes CRCS1	12	2	0.48	0.0807382144224382	MUC21,MUC5B	0.9560954580046832	0.5	2	True
+Factor2	Reactome	Synthesis of Leukotrienes (LT) and Eoxins (EX)	12	2	0.48	0.0807382144224382	ALOX5,CYP4B1	0.9560954580046832	0.5	2	True
+Factor2	Reactome	Defective C1GALT1C1 causes TNPS	12	2	0.48	0.0807382144224382	MUC21,MUC5B	0.9560954580046832	0.5	2	True
+Factor2	Reactome	Regulation of beta-cell development	12	2	0.48	0.0807382144224382	FOXA2,HNF1B	0.9560954580046832	0.5	2	True
+Factor2	Reactome	SLC-mediated transport of inorganic anions	12	2	0.48	0.0807382144224382	SLC26A9,SLC34A2	0.9560954580046832	0.5	2	True
+Factor2	Reactome	NCAM1 interactions	26	3	1.04	0.08350146133379657	COL6A6,GFRA1,GFRA2	0.9560954580046832	0.33	3	False
+Factor2	Reactome	Binding and Uptake of Ligands by Scavenger Receptors	27	3	1.08	0.09129186380023176	HP,SCARA5,SCGB3A2	0.9560954580046832	0.33	3	False
+Factor2	Reactome	SARS-CoV-2-host interactions	13	2	0.52	0.0929817992985527	NLRP12,SFTPD	0.9560954580046832	0.5	2	True
+Factor2	Reactome	Digestion and absorption	13	2	0.52	0.0929817992985527	AMY1A,CHIA	0.9560954580046832		1	False
+Factor2	Reactome	Scavenging by Class A Receptors	13	2	0.52	0.0929817992985527	SCARA5,SCGB3A2	0.9560954580046832	0.5	2	True
+Factor2	Reactome	Termination of O-glycan biosynthesis	13	2	0.52	0.0929817992985527	MUC21,MUC5B	0.9560954580046832	0.5	2	True
+Factor2	Reactome	Synthesis of bile acids and bile salts	13	2	0.52	0.0929817992985527	CH25H,CYP27A1	0.9560954580046832	0.5	2	True
+Factor2	Reactome	Regulation of Complement cascade	28	3	1.12	0.09937220145437822	C4BPA,C6,C7	0.9991366141150767	0.67	2	True
+Factor2	Reactome	Degradation of the extracellular matrix	81	6	3.24	0.10410013865722158	ADAMTS16,ADAMTS8,CAPN8,COL14A1,COL6A6,ELN	0.9991366141150767	0.17	6	False
+Factor2	Reactome	Metabolic disorders of biological oxidation enzymes	14	2	0.56	0.10571906391375659	CYP27A1,GCLC	0.9991366141150767	0.5	2	True
+Factor2	Reactome	Deubiquitination	14	2	0.56	0.10571906391375659	CFTR,UCHL1	0.9991366141150767	0.5	2	True
+Factor2	Reactome	NCAM signaling for neurite out-growth	29	3	1.16	0.10772931780099136	COL6A6,GFRA1,GFRA2	0.9991366141150767	0.33	3	False
+Factor2	Reactome	TCF dependent signaling in response to WNT	30	3	1.2	0.11634975582093815	RSPO2,SOX2,WIF1	1.0	0.33	3	False
+Factor2	Reactome	Transcriptional regulation of pluripotent stem cells	15	2	0.6	0.11889139755080726	GATA6,SOX2	1.0	0.5	2	True
+Factor2	Reactome	Signaling by Non-Receptor Tyrosine Kinases	15	2	0.6	0.11889139755080726	KHDRBS2,LRRK2	1.0	0.5	2	True
+Factor2	Reactome	Signaling by PTK6	15	2	0.6	0.11889139755080726	KHDRBS2,LRRK2	1.0	0.5	2	True
+Factor2	Reactome	Neutrophil degranulation	124	8	4.96	0.12223732355680413	ALOX5,DOCK2,HP,ITGB2,LTF,ORM1,PIGR,PTPRN2	1.0	0.12	8	False
+Factor2	Reactome	RHOA GTPase cycle	16	2	0.64	0.1324440471683515	DLC1,DOCK2	1.0	0.5	2	True
+Factor2	Reactome	Transcriptional Regulation by MECP2	16	2	0.64	0.1324440471683515	GRIN2A,SOX2	1.0	0.5	2	True
+Factor2	Reactome	Dectin-2 family	16	2	0.64	0.1324440471683515	MUC21,MUC5B	1.0	0.5	2	True
+Factor2	Reactome	Post-translational protein modification	254	14	10.16	0.13726750164326715	ADAMTS16,ADAMTS20,ADAMTS8,CFTR,FOLR1,MSLN,MUC21,MUC5B,NEGR1,RTN4RL1,SEMA5A,SERPIND1,UCHL1,ZBTB16	1.0	0.07	14	False
+Factor2	Reactome	Cell-Cell communication	69	5	2.76	0.14085562661564713	CLDN18,FOXA2,SFTPA1,SFTPA2,SFTPD	1.0	0.33	3	False
+Factor2	Reactome	MyD88:MAL(TIRAP) cascade initiated on plasma membrane	17	2	0.68	0.14632590507516102	AGER,IRAK3	1.0	0.5	2	True
+Factor2	Reactome	Toll Like Receptor TLR6:TLR2 Cascade	17	2	0.68	0.14632590507516102	AGER,IRAK3	1.0	0.5	2	True
+Factor2	Reactome	Signaling by WNT	53	4	2.12	0.1607229704366202	RSPO2,SOX2,WIF1,WNT7A	1.0	0.25	4	False
+Factor2	Reactome	Complement cascade	35	3	1.4	0.1629191364277702	C4BPA,C6,C7	1.0	0.67	2	True
+Factor2	Reactome	SLC-mediated transmembrane transport	94	6	3.76	0.173038445477318	SLC22A3,SLC26A9,SLC29A4,SLC34A2,SLC6A20,SLC8A3	1.0	0.17	6	False
+Factor2	Reactome	Kidney development	37	3	1.48	0.18290578381373068	GFRA1,HNF1B,IRX1	1.0	0.33	3	False
+Factor2	Reactome	Bile acid and bile salt metabolism	20	2	0.8	0.18948616805952986	CH25H,CYP27A1	1.0	0.5	2	True
+Factor2	Reactome	Chromatin organization	20	2	0.8	0.18948616805952986	IKZF1,PRDM16	1.0	0.5	2	True
+Factor2	Reactome	RHO GTPase cycle	57	4	2.28	0.19267320854349368	CFTR,DLC1,DOCK2,FILIP1	1.0	0.25	4	False
+Factor2	Reactome	MITF-M-regulated melanocyte development	38	3	1.52	0.19313534029550444	EDNRB,SOX2,ZIC1	1.0	0.33	3	False
+Factor2	Reactome	Extracellular matrix organization	161	9	6.44	0.1944525925908622	ADAMTS16,ADAMTS8,BMP2,CAPN8,COL14A1,COL6A6,ELN,ITGB2,TNXB	1.0	0.11	9	False
+Factor2	Reactome	Ion transport by P-type ATPases	21	2	0.84	0.2042398419104881	ATP10A,ATP13A4	1.0	0.5	2	True
+Factor2	Reactome	Molecules associated with elastic fibres	21	2	0.84	0.2042398419104881	BMP2,ELN	1.0	0.5	2	True
+Factor2	Reactome	MAPK family signaling cascades	83	5	3.32	0.2373408486423164	ANGPT1,GFRA1,GFRA2,IGF2BP1,RASGRF1	1.0	0.2	5	False
+Factor2	Reactome	Viral Infection Pathways	84	5	3.36	0.2448622463612664	C4BPA,DOCK2,NLRP12,RPL39L,SFTPD	1.0	0.2	5	False
+Factor2	Reactome	Elastic fibre formation	24	2	0.96	0.24910060361100128	BMP2,ELN	1.0	0.5	2	True
+Factor2	Reactome	Glycerophospholipid biosynthesis	24	2	0.96	0.24910060361100128	LIPH,PLA2G1B	1.0	0.5	2	True
+Factor2	Reactome	C-type lectin receptors (CLRs)	25	2	1.0	0.26415163321281177	MUC21,MUC5B	1.0	0.5	2	True
+Factor2	Reactome	Factors involved in megakaryocyte development and platelet production	26	2	1.04	0.27920581420272955	DOCK2,GATA6	1.0	0.5	2	True
+Factor2	Reactome	O-linked glycosylation of mucins	26	2	1.04	0.27920581420272955	MUC21,MUC5B	1.0	0.5	2	True
+Factor2	Reactome	Cardiac conduction	67	4	2.68	0.2794691716074424	ABCC9,NPR1,RYR2,SLC8A3	1.0	0.25	4	False
+Factor2	Reactome	Interleukin-4 and Interleukin-13 signaling	47	3	1.88	0.28996592086825096	ALOX5,ITGB2,SOX2	1.0	0.33	3	False
+Factor2	Reactome	RAC1 GTPase cycle	27	2	1.08	0.29423893023492964	DLC1,DOCK2	1.0	0.5	2	True
+Factor2	Reactome	SLC transporter disorders	28	2	1.12	0.3092286786026642	SLC34A2,SLC6A20	1.0	0.5	2	True
+Factor2	Reactome	SARS-CoV-2 Infection	28	2	1.12	0.3092286786026642	NLRP12,SFTPD	1.0	0.5	2	True
+Factor2	Reactome	Post NMDA receptor activation events	28	2	1.12	0.3092286786026642	GRIN2A,RASGRF1	1.0	0.5	2	True
+Factor2	Reactome	Post-translational modification: synthesis of GPI-anchored proteins	49	3	1.96	0.3121256029128323	MSLN,NEGR1,RTN4RL1	1.0	0.33	3	False
+Factor2	Reactome	Voltage gated Potassium channels	29	2	1.16	0.32415455718056596	KCNA3,KCNQ3	1.0	0.5	2	True
+Factor2	Reactome	G alpha (s) signalling events	51	3	2.04	0.3343331262573577	CALCB,SCTR,VIPR1	1.0	0.33	3	False
+Factor2	Reactome	Biosynthesis of DHA-derived SPMs	10	1	0.4	0.3354169522286917	ALOX5	1.0		1	False
+Factor2	Reactome	Ub-specific processing proteases	10	1	0.4	0.3354169522286917	CFTR	1.0		1	False
+Factor2	Reactome	COPII-mediated vesicle transport	10	1	0.4	0.3354169522286917	FOLR1	1.0		1	False
+Factor2	Reactome	Macroautophagy	10	1	0.4	0.3354169522286917	CFTR	1.0		1	False
+Factor2	Reactome	Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol	10	1	0.4	0.3354169522286917	CYP27A1	1.0		1	False
+Factor2	Reactome	Interferon alpha/beta signaling	10	1	0.4	0.3354169522286917	IRF8	1.0		1	False
+Factor2	Reactome	Acyl chain remodelling of PS	10	1	0.4	0.3354169522286917	PLA2G1B	1.0		1	False
+Factor2	Reactome	Scavenging of heme from plasma	10	1	0.4	0.3354169522286917	HP	1.0		1	False
+Factor2	Reactome	SARS-CoV-1-host interactions	10	1	0.4	0.3354169522286917	SFTPD	1.0		1	False
+Factor2	Reactome	SLC-mediated transport of neurotransmitters	10	1	0.4	0.3354169522286917	SLC6A20	1.0		1	False
+Factor2	Reactome	CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling	10	1	0.4	0.3354169522286917	RASGRF1	1.0		1	False
+Factor2	Reactome	Cargo concentration in the ER	10	1	0.4	0.3354169522286917	FOLR1	1.0		1	False
+Factor2	Reactome	RAC2 GTPase cycle	10	1	0.4	0.3354169522286917	DOCK2	1.0		1	False
+Factor2	Reactome	Endogenous sterols	10	1	0.4	0.3354169522286917	CYP27A1	1.0		1	False
+Factor2	Reactome	Acyl chain remodelling of PE	10	1	0.4	0.3354169522286917	PLA2G1B	1.0		1	False
+Factor2	Reactome	Signaling by BMP	10	1	0.4	0.3354169522286917	BMP2	1.0		1	False
+Factor2	Reactome	Toll Like Receptor 3 (TLR3) Cascade	10	1	0.4	0.3354169522286917	AGER	1.0		1	False
+Factor2	Reactome	Toll Like Receptor 7/8 (TLR7/8) Cascade	10	1	0.4	0.3354169522286917	AGER	1.0		1	False
+Factor2	Reactome	Acyl chain remodelling of PC	10	1	0.4	0.3354169522286917	PLA2G1B	1.0		1	False
+Factor2	Reactome	RAF/MAP kinase cascade	74	4	2.96	0.34345020749604005	ANGPT1,GFRA1,GFRA2,RASGRF1	1.0	0.25	4	False
+Factor2	Reactome	Affinity selection of immunoglobulins	52	3	2.08	0.3454312329246688	CTSE,IRF8,ITGB2	1.0	0.33	3	False
+Factor2	Reactome	Immunoglobulin maturation	52	3	2.08	0.3454312329246688	CTSE,IRF8,ITGB2	1.0	0.33	3	False
+Factor2	Reactome	MAPK1/MAPK3 signaling	75	4	3.0	0.3526636221105936	ANGPT1,GFRA1,GFRA2,RASGRF1	1.0	0.25	4	False
+Factor2	Reactome	Signaling by Rho GTPases	75	4	3.0	0.3526636221105936	CFTR,DLC1,DOCK2,FILIP1	1.0	0.25	4	False
+Factor2	Reactome	Signaling by Rho GTPases, Miro GTPases and RHOBTB3	76	4	3.04	0.3618789854169017	CFTR,DLC1,DOCK2,FILIP1	1.0	0.25	4	False
+Factor2	Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	11	1	0.44	0.36205354732974593	HOXD1	1.0		1	False
+Factor2	Reactome	Activation of HOX genes during differentiation	11	1	0.44	0.36205354732974593	HOXD1	1.0		1	False
+Factor2	Reactome	Selenoamino acid metabolism	11	1	0.44	0.36205354732974593	RPL39L	1.0		1	False
+Factor2	Reactome	Fibrin formation	11	1	0.44	0.36205354732974593	SERPIND1	1.0		1	False
+Factor2	Reactome	Chondroitin sulfate/dermatan sulfate metabolism	11	1	0.44	0.36205354732974593	GLB1L3	1.0		1	False
+Factor2	Reactome	Vasopressin regulates renal water homeostasis via Aquaporins	11	1	0.44	0.36205354732974593	AQP4	1.0		1	False
+Factor2	Reactome	Phase I - Functionalization of compounds	54	3	2.16	0.3675721966893541	ADH1B,CYP27A1,CYP4B1	1.0	0.33	3	False
+Factor2	Reactome	Developmental Biology	412	18	16.48	0.3825537155291493	COL6A6,DLX5,EDNRB,FOXA2,GATA6,GFRA1,GFRA2,HNF1B,HOXD1,IHH,IRX1,KCNQ3,KRT7,PRDM16,RPL39L,SEMA5A,SOX2,ZIC1	1.0	0.06	18	False
+Factor2	Reactome	Interferon gamma signaling	33	2	1.32	0.3828665064459779	CIITA,IRF8	1.0	0.5	2	True
+Factor2	Reactome	Activation of NMDA receptors and postsynaptic events	33	2	1.32	0.3828665064459779	GRIN2A,RASGRF1	1.0	0.5	2	True
+Factor2	Reactome	Infectious disease	149	7	5.96	0.38690625645234095	C4BPA,DOCK2,LTF,NLRP12,RPL39L,SFTPD,SV2A	1.0	0.14	7	False
+Factor2	Reactome	Glycosphingolipid metabolism	12	1	0.48	0.38762766850313773	GLB1L3	1.0		1	False
+Factor2	Reactome	Amyloid fiber formation	12	1	0.48	0.38762766850313773	LTF	1.0		1	False
+Factor2	Reactome	Cardiogenesis	12	1	0.48	0.38762766850313773	GATA6	1.0		1	False
+Factor2	Reactome	Fatty acids	12	1	0.48	0.38762766850313773	CYP4B1	1.0		1	False
+Factor2	Reactome	Receptor-type tyrosine-protein phosphatases	12	1	0.48	0.38762766850313773	NTRK3	1.0		1	False
+Factor2	Reactome	Biosynthesis of specialized proresolving mediators (SPMs)	12	1	0.48	0.38762766850313773	ALOX5	1.0		1	False
+Factor2	Reactome	Negative regulation of NMDA receptor-mediated neuronal transmission	12	1	0.48	0.38762766850313773	GRIN2A	1.0		1	False
+Factor2	Reactome	Negative regulation of TCF-dependent signaling by WNT ligand antagonists	12	1	0.48	0.38762766850313773	WIF1	1.0		1	False
+Factor2	Reactome	ATP-dependent chromatin remodelers	12	1	0.48	0.38762766850313773	IKZF1	1.0		1	False
+Factor2	Reactome	COPI-mediated anterograde transport	12	1	0.48	0.38762766850313773	FOLR1	1.0		1	False
+Factor2	Reactome	Metabolism of steroids	34	2	1.36	0.39722133151511213	CH25H,CYP27A1	1.0	0.5	2	True
+Factor2	Reactome	Vesicle-mediated transport	104	5	4.16	0.4032512129306136	CFTR,FOLR1,HP,SCARA5,SCGB3A2	1.0	0.2	5	False
+Factor2	Reactome	Arachidonate metabolism	35	2	1.4	0.41142146455070877	ALOX5,CYP4B1	1.0	0.5	2	True
+Factor2	Reactome	Collagen chain trimerization	35	2	1.4	0.41142146455070877	COL14A1,COL6A6	1.0	0.5	2	True
+Factor2	Reactome	Unblocking of NMDA receptors, glutamate binding and activation	13	1	0.52	0.4121814909368531	GRIN2A	1.0		1	False
+Factor2	Reactome	Tight junction interactions	13	1	0.52	0.4121814909368531	CLDN18	1.0		1	False
+Factor2	Reactome	SARS-CoV-1 Infection	13	1	0.52	0.4121814909368531	SFTPD	1.0		1	False
+Factor2	Reactome	Regulation of CDH1 Expression and Function	13	1	0.52	0.4121814909368531	FOXA2	1.0		1	False
+Factor2	Reactome	Autophagy	13	1	0.52	0.4121814909368531	CFTR	1.0		1	False
+Factor2	Reactome	Keratan sulfate/keratin metabolism	13	1	0.52	0.4121814909368531	GLB1L3	1.0		1	False
+Factor2	Reactome	Regulation of Expression and Function of Type I Classical Cadherins	13	1	0.52	0.4121814909368531	FOXA2	1.0		1	False
+Factor2	Reactome	GPCR ligand binding	201	9	8.04	0.4131134782950375	AGTR2,CALCB,CCR7,CMKLR1,EDNRB,IHH,SCTR,VIPR1,WNT7A	1.0	0.11	9	False
+Factor2	Reactome	Cytochrome P450 - arranged by substrate type	36	2	1.44	0.42545630369722887	CYP27A1,CYP4B1	1.0	0.5	2	True
+Factor2	Reactome	Bacterial Infection Pathways	36	2	1.44	0.42545630369722887	LTF,SV2A	1.0	0.5	2	True
+Factor2	Reactome	Potassium Channels	60	3	2.4	0.43299310677638153	ABCC9,KCNA3,KCNQ3	1.0	0.33	3	False
+Factor2	Reactome	Regulation of expression of SLITs and ROBOs	14	1	0.56	0.43575552378478355	RPL39L	1.0		1	False
+Factor2	Reactome	Signaling by NOTCH	14	1	0.56	0.43575552378478355	IKZF1	1.0		1	False
+Factor2	Reactome	WNT ligand biogenesis and trafficking	14	1	0.56	0.43575552378478355	WNT7A	1.0		1	False
+Factor2	Reactome	Inwardly rectifying K+ channels	14	1	0.56	0.43575552378478355	ABCC9	1.0		1	False
+Factor2	Reactome	Amino acid transport across the plasma membrane	14	1	0.56	0.43575552378478355	SLC6A20	1.0		1	False
+Factor2	Reactome	Phospholipid metabolism	37	2	1.48	0.43931633340485765	LIPH,PLA2G1B	1.0	0.5	2	True
+Factor2	Reactome	Ion channel transport	62	3	2.48	0.4542848869449096	ATP10A,ATP13A4,RYR2	1.0	0.33	3	False
+Factor2	Reactome	Long-term potentiation	15	1	0.6	0.458388675658639	GRIN2A	1.0		1	False
+Factor2	Reactome	Adipogenesis	15	1	0.6	0.458388675658639	PRDM16	1.0		1	False
+Factor2	Reactome	Signaling by Interleukins	111	5	4.44	0.45905317260823664	AGER,ALOX5,IRAK3,ITGB2,SOX2	1.0	0.2	5	False
+Factor2	Reactome	Aquaporin-mediated transport	16	1	0.64	0.4801183175579914	AQP4	1.0		1	False
+Factor2	Reactome	Neddylation	16	1	0.64	0.4801183175579914	ZBTB16	1.0		1	False
+Factor2	Reactome	Metal ion SLC transporters	16	1	0.64	0.4801183175579914	SLC8A3	1.0		1	False
+Factor2	Reactome	Antigen processing: Ubiquitination & Proteasome degradation	16	1	0.64	0.4801183175579914	ZBTB16	1.0		1	False
+Factor2	Reactome	Muscle contraction	90	4	3.6	0.48848797778604686	ABCC9,NPR1,RYR2,SLC8A3	1.0	0.25	4	False
+Factor2	Reactome	Axon guidance	140	6	5.6	0.49159345296905077	COL6A6,GFRA1,GFRA2,KCNQ3,RPL39L,SEMA5A	1.0	0.17	6	False
+Factor2	Reactome	Assembly of collagen fibrils and other multimeric structures	41	2	1.64	0.4928522967406793	COL14A1,COL6A6	1.0	0.5	2	True
+Factor2	Reactome	CDC42 GTPase cycle	17	1	0.68	0.5009803433381683	DLC1	1.0		1	False
+Factor2	Reactome	Sensory processing of sound by outer hair cells of the cochlea	17	1	0.68	0.5009803433381683	CDH23	1.0		1	False
+Factor2	Reactome	Dengue Virus-Host Interactions	17	1	0.68	0.5009803433381683	C4BPA	1.0		1	False
+Factor2	Reactome	Glutathione conjugation	17	1	0.68	0.5009803433381683	GCLC	1.0		1	False
+Factor2	Reactome	Semaphorin interactions	17	1	0.68	0.5009803433381683	SEMA5A	1.0		1	False
+Factor2	Reactome	Metabolism of lipids	167	7	6.68	0.5054791621712129	ALOX5,CH25H,CYP27A1,CYP4B1,GLB1L3,LIPH,PLA2G1B	1.0	0.14	7	False
+Factor2	Reactome	Collagen biosynthesis and modifying enzymes	42	2	1.68	0.505728928674676	COL14A1,COL6A6	1.0	0.5	2	True
+Factor2	Reactome	SARS-CoV Infections	43	2	1.72	0.5183928483130266	NLRP12,SFTPD	1.0	0.5	2	True
+Factor2	Reactome	Assembly and cell surface presentation of NMDA receptors	18	1	0.72	0.5210092278118525	GRIN2A	1.0		1	False
+Factor2	Reactome	Protein-protein interactions at synapses	44	2	1.76	0.5308404045491977	GRIN2A,NTRK3	1.0	0.5	2	True
+Factor2	Reactome	Collagen degradation	44	2	1.76	0.5308404045491977	COL14A1,COL6A6	1.0	0.5	2	True
+Factor2	Reactome	Nervous system development	147	6	5.88	0.5399017685740354	COL6A6,GFRA1,GFRA2,KCNQ3,RPL39L,SEMA5A	1.0	0.17	6	False
+Factor2	Reactome	Nuclear events mediated by NFE2L2	19	1	0.76	0.5402380825765308	GCLC	1.0		1	False
+Factor2	Reactome	KEAP1-NFE2L2 pathway	19	1	0.76	0.5402380825765308	GCLC	1.0		1	False
+Factor2	Reactome	SLC-mediated transport of amino acids	19	1	0.76	0.5402380825765308	SLC6A20	1.0		1	False
+Factor2	Reactome	ECM proteoglycans	45	2	1.8	0.5430685742713792	COL6A6,TNXB	1.0	0.5	2	True
+Factor2	Reactome	Formation of the ureteric bud	20	1	0.8	0.5586987096563732	GFRA1	1.0		1	False
+Factor2	Reactome	Sphingolipid metabolism	20	1	0.8	0.5586987096563732	GLB1L3	1.0		1	False
+Factor2	Reactome	Signaling by PDGF	20	1	0.8	0.5586987096563732	COL6A6	1.0		1	False
+Factor2	Reactome	Signaling by Hedgehog	20	1	0.8	0.5586987096563732	IHH	1.0		1	False
+Factor2	Reactome	Cell surface interactions at the vascular wall	47	2	1.88	0.5668575405348316	ANGPT1,ITGB2	1.0	0.5	2	True
+Factor2	Reactome	Post-translational protein phosphorylation	47	2	1.88	0.5668575405348316	MSLN,SERPIND1	1.0	0.5	2	True
+Factor2	Reactome	Sensory processing of sound by inner hair cells of the cochlea	21	1	0.84	0.5764216530436673	CDH23	1.0		1	False
+Factor2	Reactome	Interaction between L1 and Ankyrins	21	1	0.84	0.5764216530436673	KCNQ3	1.0		1	False
+Factor2	Reactome	Opioid Signalling	21	1	0.84	0.5764216530436673	PPP1R1B	1.0		1	False
+Factor2	Reactome	Signaling by GPCR	258	10	10.32	0.5888657129361337	AGTR2,CALCB,CCR7,CMKLR1,EDNRB,IHH,PPP1R1B,SCTR,VIPR1,WNT7A	1.0	0.1	10	False
+Factor2	Reactome	Regulation of Homotypic Cell-Cell Adhesion	22	1	0.88	0.5934362482216682	FOXA2	1.0		1	False
+Factor2	Reactome	ER to Golgi Anterograde Transport	22	1	0.88	0.5934362482216682	FOLR1	1.0		1	False
+Factor2	Reactome	Signaling by ROBO receptors	22	1	0.88	0.5934362482216682	RPL39L	1.0		1	False
+Factor2	Reactome	Biological oxidations	103	4	4.12	0.5961244156679253	ADH1B,CYP27A1,CYP4B1,GCLC	1.0	0.25	4	False
+Factor2	Reactome	Generic Transcription Pathway	182	7	7.28	0.5982061394145739	BMP2,DLX5,DLX6,GRIN2A,IHH,SOX2,TNFRSF10C	1.0	0.29	6	False
+Factor2	Reactome	RNA Polymerase II Transcription	183	7	7.32	0.6040772177184335	BMP2,DLX5,DLX6,GRIN2A,IHH,SOX2,TNFRSF10C	1.0	0.29	6	False
+Factor2	Reactome	Hemostasis	183	7	7.32	0.6040772177184335	ANGPT1,DOCK2,GATA6,ITGB2,ORM1,SERPIND1,SLC8A3	1.0	0.14	7	False
+Factor2	Reactome	Transcriptional Regulation by TP53	23	1	0.92	0.6097706697475153	TNFRSF10C	1.0		1	False
+Factor2	Reactome	Antimicrobial peptides	23	1	0.92	0.6097706697475153	LTF	1.0		1	False
+Factor2	Reactome	Integrin cell surface interactions	52	2	2.08	0.6223816822552343	COL6A6,ITGB2	1.0	0.5	2	True
+Factor2	Reactome	Regulation of clotting cascade	24	1	0.96	0.625451976970842	SERPIND1	1.0		1	False
+Factor2	Reactome	Sensory processing of sound	24	1	0.96	0.625451976970842	CDH23	1.0		1	False
+Factor2	Reactome	Cytokine Signaling in Immune system	188	7	7.52	0.6327546626425322	AGER,ALOX5,CIITA,IRAK3,IRF8,ITGB2,SOX2	1.0	0.14	7	False
+Factor2	Reactome	Cell-cell junction organization	53	2	2.12	0.6328078765133239	CLDN18,FOXA2	1.0	0.5	2	True
+Factor2	Reactome	MITF-M-dependent gene expression	25	1	1.0	0.6405061579607598	SOX2	1.0		1	False
+Factor2	Reactome	Processing of antigen in germinal center B cells	25	1	1.0	0.6405061579607598	CTSE	1.0		1	False
+Factor2	Reactome	Platelet homeostasis	25	1	1.0	0.6405061579607598	SLC8A3	1.0		1	False
+Factor2	Reactome	Collagen formation	54	2	2.16	0.6430092488142456	COL14A1,COL6A6	1.0	0.5	2	True
+Factor2	Reactome	Fatty acid metabolism	54	2	2.16	0.6430092488142456	ALOX5,CYP4B1	1.0	0.5	2	True
+Factor2	Reactome	Interferon Signaling	54	2	2.16	0.6430092488142456	CIITA,IRF8	1.0	0.5	2	True
+Factor2	Reactome	Cargo recognition for clathrin-mediated endocytosis	27	1	1.08	0.6688319886909332	CFTR	1.0		1	False
+Factor2	Reactome	Dengue Virus Infection	27	1	1.08	0.6688319886909332	C4BPA	1.0		1	False
+Factor2	Reactome	Signaling by TGFB family members	28	1	1.12	0.6821506298053135	BMP2	1.0		1	False
+Factor2	Reactome	MHC class II antigen presentation	28	1	1.12	0.6821506298053135	CTSE	1.0		1	False
+Factor2	Reactome	Transport to the Golgi and subsequent modification	29	1	1.16	0.6949362038276258	FOLR1	1.0		1	False
+Factor2	Reactome	Neurexins and neuroligins	29	1	1.16	0.6949362038276258	GRIN2A	1.0		1	False
+Factor2	Reactome	Gene expression (Transcription)	202	7	8.08	0.7065033200052455	BMP2,DLX5,DLX6,GRIN2A,IHH,SOX2,TNFRSF10C	1.0	0.29	6	False
+Factor2	Reactome	Clathrin-mediated endocytosis	30	1	1.2	0.707209943363831	CFTR	1.0		1	False
+Factor2	Reactome	Signaling by NTRKs	30	1	1.2	0.707209943363831	NTRK3	1.0		1	False
+Factor2	Reactome	Coagulation pathway	30	1	1.2	0.707209943363831	SERPIND1	1.0		1	False
+Factor2	Reactome	Cell junction organization	61	2	2.44	0.7082557938040532	CLDN18,FOXA2	1.0	0.5	2	True
+Factor2	Reactome	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	62	2	2.48	0.7167214906993578	MSLN,SERPIND1	1.0	0.5	2	True
+Factor2	Reactome	Class I MHC mediated antigen processing & presentation	31	1	1.24	0.7189922394055277	ZBTB16	1.0		1	False
+Factor2	Reactome	Cellular response to chemical stress	31	1	1.24	0.7189922394055277	GCLC	1.0		1	False
+Factor2	Reactome	RHO GTPase Effectors	31	1	1.24	0.7189922394055277	CFTR	1.0		1	False
+Factor2	Reactome	Peptide ligand-binding receptors	103	3	4.12	0.7879010803998269	AGTR2,CCR7,EDNRB	1.0	0.33	3	False
+Factor2	Reactome	Adherens junctions interactions	38	1	1.52	0.7892587496666214	FOXA2	1.0		1	False
+Factor2	Reactome	Stimuli-sensing channels	38	1	1.52	0.7892587496666214	RYR2	1.0		1	False
+Factor2	Reactome	Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell	74	2	2.96	0.8030994103855909	ITGB2,SFTPD	1.0	0.5	2	True
+Factor2	Reactome	Chemokine receptors bind chemokines	40	1	1.6	0.8059064345550749	CCR7	1.0		1	False
+Factor2	Reactome	Asparagine N-linked glycosylation	40	1	1.6	0.8059064345550749	FOLR1	1.0		1	False
+Factor2	Reactome	Neuronal System	197	6	7.88	0.8086144414295316	ABCC9,GRIN2A,KCNA3,KCNQ3,NTRK3,RASGRF1	1.0	0.17	6	False
+Factor2	Reactome	Diseases of signal transduction by growth factor receptors and second messengers	75	2	3.0	0.8091282242381197	IHH,NTRK3	1.0	0.5	2	True
+Factor2	Reactome	GPCR downstream signalling	227	7	9.08	0.8122415481869072	AGTR2,CALCB,CCR7,EDNRB,PPP1R1B,SCTR,VIPR1	1.0	0.14	7	False
+Factor2	Reactome	Neurotransmitter receptors and postsynaptic signal transmission	77	2	3.08	0.8206967155948828	GRIN2A,RASGRF1	1.0	0.5	2	True
+Factor2	Reactome	Cellular responses to stress	77	2	3.08	0.8206967155948828	GCLC,RPL39L	1.0	0.5	2	True
+Factor2	Reactome	Membrane Trafficking	78	2	3.12	0.826243201295664	CFTR,FOLR1	1.0	0.5	2	True
+Factor2	Reactome	Constitutive Signaling by Aberrant PI3K in Cancer	43	1	1.72	0.828455844607979	NTRK3	1.0		1	False
+Factor2	Reactome	Glycosaminoglycan metabolism	43	1	1.72	0.828455844607979	GLB1L3	1.0		1	False
+Factor2	Reactome	PI3K/AKT Signaling in Cancer	44	1	1.76	0.8353771339116718	NTRK3	1.0		1	False
+Factor2	Reactome	Phase II - Conjugation of compounds	44	1	1.76	0.8353771339116718	GCLC	1.0		1	False
+Factor2	Reactome	L1CAM interactions	44	1	1.76	0.8353771339116718	KCNQ3	1.0		1	False
+Factor2	Reactome	PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling	46	1	1.84	0.8483970789748166	NTRK3	1.0		1	False
+Factor2	Reactome	Negative regulation of the PI3K/AKT network	46	1	1.84	0.8483970789748166	NTRK3	1.0		1	False
+Factor2	Reactome	Class A/1 (Rhodopsin-like receptors)	151	4	6.04	0.861705778097438	AGTR2,CCR7,CMKLR1,EDNRB	1.0	0.25	4	False
+Factor2	Reactome	Metabolism of amino acids and derivatives	86	2	3.44	0.8653513667354009	CDO1,RPL39L	1.0	0.5	2	True
+Factor2	Reactome	Adaptive Immune System	184	5	7.36	0.8674770074810724	CTSE,IRF8,ITGB2,SFTPD,ZBTB16	1.0	0.2	5	False
+Factor2	Reactome	Platelet degranulation	50	1	2.0	0.8714422891228771	ORM1	1.0		1	False
+Factor2	Reactome	PIP3 activates AKT signaling	52	1	2.08	0.8816219294362735	NTRK3	1.0		1	False
+Factor2	Reactome	Response to elevated platelet cytosolic Ca2+	52	1	2.08	0.8816219294362735	ORM1	1.0		1	False
+Factor2	Reactome	G alpha (i) signalling events	127	3	5.08	0.8900088458157116	AGTR2,CCR7,PPP1R1B	1.0	0.33	3	False
+Factor2	Reactome	Drug ADME	54	1	2.16	0.8909992219798818	SLC22A3	1.0		1	False
+Factor2	Reactome	Metabolism	476	14	19.04	0.9184051010416923	ADH1B,ADHFE1,ALOX5,CA3,CA4,CDO1,CH25H,CYP27A1,CYP4B1,GCLC,GLB1L3,LIPH,PLA2G1B,RPL39L	1.0	0.07	14	False
+Factor2	Reactome	Cellular responses to stimuli	103	2	4.12	0.9231171506428413	GCLC,RPL39L	1.0	0.5	2	True
+Factor2	Reactome	Intracellular signaling by second messengers	64	1	2.56	0.9278894037464636	NTRK3	1.0		1	False
+Factor2	Reactome	Metabolism of carbohydrates and carbohydrate derivatives	68	1	2.72	0.938888498689595	GLB1L3	1.0		1	False
+Factor2	Reactome	Transmission across Chemical Synapses	113	2	4.52	0.9452511750644849	GRIN2A,RASGRF1	1.0	0.5	2	True
+Factor2	Reactome	Formation of the cornified envelope	74	1	2.96	0.952335274895923	KRT7	1.0		1	False
+Factor2	Reactome	Platelet activation, signaling and aggregation	77	1	3.08	0.957909525167473	ORM1	1.0		1	False
+Factor2	Reactome	G alpha (q) signalling events	78	1	3.12	0.9596194774255484	EDNRB	1.0		1	False
+Factor2	Reactome	Keratinization	78	1	3.12	0.9596194774255484	KRT7	1.0		1	False
+Factor2	Reactome	Sensory Perception	87	1	3.48	0.9722094848297684	CDH23	1.0		1	False
+Factor2	Reactome	Signaling by Receptor Tyrosine Kinases	145	2	5.8	0.9822239720355519	COL6A6,NTRK3	1.0	0.5	2	True
+Factor2	Reactome	Visual phototransduction	38	0	1.52	1.0		1.0		0	False
+Factor2	Reactome	VEGFA-VEGFR2 Pathway	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	Translocation of ZAP-70 to Immunological synapse	15	0	0.6	1.0		1.0		0	False
+Factor2	Reactome	Transcriptional regulation of white adipocyte differentiation	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	Transcriptional regulation of testis differentiation	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors	14	0	0.56	1.0		1.0		0	False
+Factor2	Reactome	Anchoring fibril formation	12	0	0.48	1.0		1.0		0	False
+Factor2	Reactome	Amine ligand-binding receptors	19	0	0.76	1.0		1.0		0	False
+Factor2	Reactome	Aflatoxin activation and detoxification	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	Activation of Matrix Metalloproteinases	18	0	0.72	1.0		1.0		0	False
+Factor2	Reactome	Metabolism of vitamins and cofactors	46	0	1.84	1.0		1.0		0	False
+Factor2	Reactome	Metabolism of steroid hormones	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	Metabolism of nucleotides	12	0	0.48	1.0		1.0		0	False
+Factor2	Reactome	Metabolism of fat-soluble vitamins	20	0	0.8	1.0		1.0		0	False
+Factor2	Reactome	Metabolism of amine-derived hormones	15	0	0.6	1.0		1.0		0	False
+Factor2	Reactome	Metabolism of Angiotensinogen to Angiotensins	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	Netrin-1 signaling	15	0	0.6	1.0		1.0		0	False
+Factor2	Reactome	NGF-stimulated transcription	14	0	0.56	1.0		1.0		0	False
+Factor2	Reactome	Metabolism of water-soluble vitamins and cofactors	24	0	0.96	1.0		1.0		0	False
+Factor2	Reactome	MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	MET promotes cell motility	21	0	0.84	1.0		1.0		0	False
+Factor2	Reactome	MET activates PTK2 signaling	20	0	0.8	1.0		1.0		0	False
+Factor2	Reactome	M Phase	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Leishmania parasite growth and survival	18	0	0.72	1.0		1.0		0	False
+Factor2	Reactome	Leishmania infection	35	0	1.4	1.0		1.0		0	False
+Factor2	Reactome	Late SARS-CoV-2 Infection Events	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Laminin interactions	13	0	0.52	1.0		1.0		0	False
+Factor2	Reactome	Kinesins	14	0	0.56	1.0		1.0		0	False
+Factor2	Reactome	Keratan sulfate biosynthesis	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	Iron uptake and transport	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Intra-Golgi and retrograde Golgi-to-ER traffic	18	0	0.72	1.0		1.0		0	False
+Factor2	Reactome	Interleukin-10 signaling	27	0	1.08	1.0		1.0		0	False
+Factor2	Reactome	Organelle biogenesis and maintenance	19	0	0.76	1.0		1.0		0	False
+Factor2	Reactome	Oncogenic MAPK signaling	12	0	0.48	1.0		1.0		0	False
+Factor2	Reactome	Olfactory Signaling Pathway	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	Nuclear signaling by ERBB4	12	0	0.48	1.0		1.0		0	False
+Factor2	Reactome	Nuclear Receptor transcription pathway	22	0	0.88	1.0		1.0		0	False
+Factor2	Reactome	Nuclear Events (kinase and transcription factor activation)	15	0	0.6	1.0		1.0		0	False
+Factor2	Reactome	Non-integrin membrane-ECM interactions	39	0	1.56	1.0		1.0		0	False
+Factor2	Reactome	Nitric oxide stimulates guanylate cyclase	13	0	0.52	1.0		1.0		0	False
+Factor2	Reactome	Neurotransmitter release cycle	26	0	1.04	1.0		1.0		0	False
+Factor2	Reactome	Phase 4 - resting membrane potential	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	Phase 0 - rapid depolarisation	20	0	0.8	1.0		1.0		0	False
+Factor2	Reactome	Peptide hormone metabolism	37	0	1.48	1.0		1.0		0	False
+Factor2	Reactome	Parasitic Infection Pathways	35	0	1.4	1.0		1.0		0	False
+Factor2	Reactome	Paradoxical activation of RAF signaling by kinase inactive BRAF	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Paracetamol ADME	16	0	0.64	1.0		1.0		0	False
+Factor2	Reactome	PPARA activates gene expression	18	0	0.72	1.0		1.0		0	False
+Factor2	Reactome	PLC beta mediated events	15	0	0.6	1.0		1.0		0	False
+Factor2	Reactome	PKR-mediated signaling	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	PI3K Cascade	15	0	0.6	1.0		1.0		0	False
+Factor2	Reactome	PI Metabolism	13	0	0.52	1.0		1.0		0	False
+Factor2	Reactome	PCP/CE pathway	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Integration of energy metabolism	26	0	1.04	1.0		1.0		0	False
+Factor2	Reactome	Insulin receptor signalling cascade	15	0	0.6	1.0		1.0		0	False
+Factor2	Reactome	Inositol phosphate metabolism	13	0	0.52	1.0		1.0		0	False
+Factor2	Reactome	Initiation of coagulation cascade	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Initial triggering of complement	15	0	0.6	1.0		1.0		0	False
+Factor2	Reactome	Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Infection with Enterobacteria	21	0	0.84	1.0		1.0		0	False
+Factor2	Reactome	Inactivation, recovery and regulation of the phototransduction cascade	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Potential therapeutics for SARS	14	0	0.56	1.0		1.0		0	False
+Factor2	Reactome	Platelet Aggregation (Plug Formation)	15	0	0.6	1.0		1.0		0	False
+Factor2	Reactome	Plasma lipoprotein remodeling	16	0	0.64	1.0		1.0		0	False
+Factor2	Reactome	Plasma lipoprotein assembly, remodeling, and clearance	20	0	0.8	1.0		1.0		0	False
+Factor2	Reactome	Phosphorylation of CD3 and TCR zeta chains	15	0	0.6	1.0		1.0		0	False
+Factor2	Reactome	IRS-related events triggered by IGF1R	18	0	0.72	1.0		1.0		0	False
+Factor2	Reactome	IRS-mediated signalling	15	0	0.6	1.0		1.0		0	False
+Factor2	Reactome	IGF1R signaling cascade	18	0	0.72	1.0		1.0		0	False
+Factor2	Reactome	High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	Heparan sulfate/heparin (HS-GAG) metabolism	14	0	0.56	1.0		1.0		0	False
+Factor2	Reactome	Hedgehog 'off' state	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	HS-GAG biosynthesis	13	0	0.52	1.0		1.0		0	False
+Factor2	Reactome	Golgi-to-ER retrograde transport	17	0	0.68	1.0		1.0		0	False
+Factor2	Reactome	Glycosaminoglycan-protein linkage region biosynthesis	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	RSV-host interactions	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	RAC3 GTPase cycle	13	0	0.52	1.0		1.0		0	False
+Factor2	Reactome	RA biosynthesis pathway	15	0	0.6	1.0		1.0		0	False
+Factor2	Reactome	Protein folding	13	0	0.52	1.0		1.0		0	False
+Factor2	Reactome	Programmed Cell Death	20	0	0.8	1.0		1.0		0	False
+Factor2	Reactome	Glutamate binding, activation of AMPA receptors and synaptic plasticity	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	Glutamate Neurotransmitter Release Cycle	13	0	0.52	1.0		1.0		0	False
+Factor2	Reactome	Glucuronidation	13	0	0.52	1.0		1.0		0	False
+Factor2	Reactome	Generation of second messenger molecules	17	0	0.68	1.0		1.0		0	False
+Factor2	Reactome	Gap junction trafficking and regulation	14	0	0.56	1.0		1.0		0	False
+Factor2	Reactome	Gap junction trafficking	14	0	0.56	1.0		1.0		0	False
+Factor2	Reactome	Gap junction assembly	14	0	0.56	1.0		1.0		0	False
+Factor2	Reactome	GABA receptor activation	24	0	0.96	1.0		1.0		0	False
+Factor2	Reactome	GABA B receptor activation	15	0	0.6	1.0		1.0		0	False
+Factor2	Reactome	G-protein mediated events	16	0	0.64	1.0		1.0		0	False
+Factor2	Reactome	Response of endothelial cells to shear stress	14	0	0.56	1.0		1.0		0	False
+Factor2	Reactome	Respiratory Syncytial Virus Infection Pathway	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	Reproduction	17	0	0.68	1.0		1.0		0	False
+Factor2	Reactome	Regulation of lipid metabolism by PPARalpha	18	0	0.72	1.0		1.0		0	False
+Factor2	Reactome	Regulation of insulin secretion	21	0	0.84	1.0		1.0		0	False
+Factor2	Reactome	Regulation of T cell activation by CD28 family	32	0	1.28	1.0		1.0		0	False
+Factor2	Reactome	Regulation of PD-L1(CD274) expression	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	G protein gated Potassium channels	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	G alpha (z) signalling events	16	0	0.64	1.0		1.0		0	False
+Factor2	Reactome	G alpha (12/13) signalling events	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	Formation of the nephric duct	15	0	0.6	1.0		1.0		0	False
+Factor2	Reactome	Formation of the dystrophin-glycoprotein complex (DGC)	14	0	0.56	1.0		1.0		0	False
+Factor2	Reactome	Fibronectin matrix formation	16	0	0.64	1.0		1.0		0	False
+Factor2	Reactome	Fc epsilon receptor (FCERI) signaling	12	0	0.48	1.0		1.0		0	False
+Factor2	Reactome	Fatty acyl-CoA biosynthesis	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	SUMOylation of intracellular receptors	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	SUMOylation	16	0	0.64	1.0		1.0		0	False
+Factor2	Reactome	SUMO E3 ligases SUMOylate target proteins	16	0	0.64	1.0		1.0		0	False
+Factor2	Reactome	SLC-mediated transport of organic anions	19	0	0.76	1.0		1.0		0	False
+Factor2	Reactome	Retinoid metabolism and transport	20	0	0.8	1.0		1.0		0	False
+Factor2	Reactome	FOXO-mediated transcription	14	0	0.56	1.0		1.0		0	False
+Factor2	Reactome	FGFR2 ligand binding and activation	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Extra-nuclear estrogen signaling	19	0	0.76	1.0		1.0		0	False
+Factor2	Reactome	Estrogen-dependent nuclear events downstream of ESR-membrane signaling	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Estrogen-dependent gene expression	16	0	0.64	1.0		1.0		0	False
+Factor2	Reactome	Epigenetic regulation of gene expression by MLL3 and MLL4 complexes	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	Epigenetic regulation of gene expression	18	0	0.72	1.0		1.0		0	False
+Factor2	Reactome	Epigenetic regulation of adipogenesis genes by MLL3 and MLL4 complexes	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	Epigenetic regulation by WDR5-containing histone modifying complexes	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	ESR-mediated signaling	30	0	1.2	1.0		1.0		0	False
+Factor2	Reactome	EPHA-mediated growth cone collapse	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	EPH-ephrin mediated repulsion of cells	15	0	0.6	1.0		1.0		0	False
+Factor2	Reactome	EPH-Ephrin signaling	19	0	0.76	1.0		1.0		0	False
+Factor2	Reactome	Downstream TCR signaling	16	0	0.64	1.0		1.0		0	False
+Factor2	Reactome	Dopamine Neurotransmitter Release Cycle	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Diseases of hemostasis	12	0	0.48	1.0		1.0		0	False
+Factor2	Reactome	Diseases of Immune System	13	0	0.52	1.0		1.0		0	False
+Factor2	Reactome	Diseases associated with the TLR signaling cascade	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	Diseases associated with glycosaminoglycan metabolism	15	0	0.6	1.0		1.0		0	False
+Factor2	Reactome	Signaling by ERBB2	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Signaling by EGFR	12	0	0.48	1.0		1.0		0	False
+Factor2	Reactome	Signaling by BRAF and RAF1 fusions	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	Signaling by ALK in cancer	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Signaling by ALK fusions and activated point mutants	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Sensory perception of taste	15	0	0.6	1.0		1.0		0	False
+Factor2	Reactome	Sensory perception of sweet, bitter, and umami (glutamate) taste	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	Differentiation of T cells	12	0	0.48	1.0		1.0		0	False
+Factor2	Reactome	Developmental Lineage of Pancreatic Endocrine Mid Progenitor Cells	19	0	0.76	1.0		1.0		0	False
+Factor2	Reactome	Developmental Lineage of Pancreatic Ductal Cells	18	0	0.72	1.0		1.0		0	False
+Factor2	Reactome	Developmental Cell Lineages of the Exocrine Pancreas	21	0	0.84	1.0		1.0		0	False
+Factor2	Reactome	Developmental Cell Lineages	24	0	0.96	1.0		1.0		0	False
+Factor2	Reactome	Signaling by Nuclear Receptors	57	0	2.28	1.0		1.0		0	False
+Factor2	Reactome	Signaling by NTRK1 (TRKA)	22	0	0.88	1.0		1.0		0	False
+Factor2	Reactome	Signaling by MET	26	0	1.04	1.0		1.0		0	False
+Factor2	Reactome	Signaling by Insulin receptor	18	0	0.72	1.0		1.0		0	False
+Factor2	Reactome	Signaling by FGFR2	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Signaling by FGFR1	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Signaling by FGFR in disease	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Signaling by FGFR	18	0	0.72	1.0		1.0		0	False
+Factor2	Reactome	Signaling by ERBB4	19	0	0.76	1.0		1.0		0	False
+Factor2	Reactome	Death Receptor Signaling	16	0	0.64	1.0		1.0		0	False
+Factor2	Reactome	DAP12 interactions	12	0	0.48	1.0		1.0		0	False
+Factor2	Reactome	DAG and IP3 signaling	12	0	0.48	1.0		1.0		0	False
+Factor2	Reactome	Crosslinking of collagen fibrils	12	0	0.48	1.0		1.0		0	False
+Factor2	Reactome	Co-inhibition by PD-1	24	0	0.96	1.0		1.0		0	False
+Factor2	Reactome	Class C/3 (Metabotropic glutamate/pheromone receptors)	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Cilium Assembly	16	0	0.64	1.0		1.0		0	False
+Factor2	Reactome	Chaperonin-mediated protein folding	13	0	0.52	1.0		1.0		0	False
+Factor2	Reactome	Cellular responses to mechanical stimuli	19	0	0.76	1.0		1.0		0	False
+Factor2	Reactome	Cellular Senescence	13	0	0.52	1.0		1.0		0	False
+Factor2	Reactome	Signaling downstream of RAS mutants	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Signaling by moderate kinase activity BRAF mutants	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Signaling by VEGF	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	19	0	0.76	1.0		1.0		0	False
+Factor2	Reactome	Signaling by TGF-beta Receptor Complex	12	0	0.48	1.0		1.0		0	False
+Factor2	Reactome	Signaling by Retinoic Acid	19	0	0.76	1.0		1.0		0	False
+Factor2	Reactome	Signaling by RAS mutants	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Signaling by RAF1 mutants	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Cell Cycle, Mitotic	18	0	0.72	1.0		1.0		0	False
+Factor2	Reactome	Cell Cycle	28	0	1.12	1.0		1.0		0	False
+Factor2	Reactome	Carboxyterminal post-translational modifications of tubulin	13	0	0.52	1.0		1.0		0	False
+Factor2	Reactome	Calmodulin induced events	12	0	0.48	1.0		1.0		0	False
+Factor2	Reactome	CaM pathway	12	0	0.48	1.0		1.0		0	False
+Factor2	Reactome	Ca2+ pathway	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Ca-dependent events	13	0	0.52	1.0		1.0		0	False
+Factor2	Reactome	CYP2E1 reactions	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	TRP channels	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	TNFs bind their physiological receptors	21	0	0.84	1.0		1.0		0	False
+Factor2	Reactome	TNFR2 non-canonical NF-kB pathway	26	0	1.04	1.0		1.0		0	False
+Factor2	Reactome	TCR signaling	22	0	0.88	1.0		1.0		0	False
+Factor2	Reactome	Synthesis of substrates in N-glycan biosythesis	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Syndecan interactions	14	0	0.56	1.0		1.0		0	False
+Factor2	Reactome	Striated Muscle Contraction	15	0	0.6	1.0		1.0		0	False
+Factor2	Reactome	COPI-dependent Golgi-to-ER retrograde traffic	14	0	0.56	1.0		1.0		0	False
+Factor2	Reactome	Blood group systems biosynthesis	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Biofilm formation	15	0	0.6	1.0		1.0		0	False
+Factor2	Reactome	Beta-catenin independent WNT signaling	18	0	0.72	1.0		1.0		0	False
+Factor2	Reactome	Basigin interactions	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	Transcriptional regulation by RUNX1	30	0	1.2	1.0		1.0		0	False
+Factor2	Reactome	Trafficking of AMPA receptors	11	0	0.44	1.0		1.0		0	False
+Factor2	Reactome	Thyroxine biosynthesis	12	0	0.48	1.0		1.0		0	False
+Factor2	Reactome	The phototransduction cascade	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	The canonical retinoid cycle in rods (twilight vision)	12	0	0.48	1.0		1.0		0	False
+Factor2	Reactome	Attachment of bacteria to epithelial cells	15	0	0.6	1.0		1.0		0	False
+Factor2	Reactome	Assembly of the 9+0 primary cilium	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Aspirin ADME	27	0	1.08	1.0		1.0		0	False
+Factor2	Reactome	Apoptosis	16	0	0.64	1.0		1.0		0	False
+Factor2	Reactome	Antimicrobial mechanism of IFN-stimulated genes	20	0	0.8	1.0		1.0		0	False
+Factor2	Reactome	Antigen processing-Cross presentation	14	0	0.56	1.0		1.0		0	False
+Factor2	Reactome	Anti-inflammatory response favouring Leishmania parasite infection	18	0	0.72	1.0		1.0		0	False
+Factor2	Reactome	Activation of GABAB receptors	15	0	0.6	1.0		1.0		0	False
+Factor2	Reactome	Xenobiotics	17	0	0.68	1.0		1.0		0	False
+Factor2	Reactome	p75 NTR receptor-mediated signalling	10	0	0.4	1.0		1.0		0	False
+Factor2	Reactome	Activation of G protein gated Potassium channels	10	0	0.4	1.0		1.0		0	False
+Factor2	Hallmark	Adipogenesis	24	4	0.96	0.014072932456971738	ANGPT1,CYP4B1,ITIH5,ORM1	0.394283536124053	0.25	4	False
+Factor2	Hallmark	KRAS Signaling Up	103	9	4.12	0.021312623574273135	BMP2,CMKLR1,DOCK2,IKZF1,IRF8,ITGB2,PEG3,PIGR,WNT7A	0.394283536124053	0.11	9	False
+Factor2	Hallmark	IL-2/STAT5 Signaling	53	5	2.12	0.05924228381076685	AGER,BMP2,COCH,IRF8,ITIH5	0.6850376784274042	0.2	5	False
+Factor2	Hallmark	UV Response Up	40	4	1.6	0.07405812739755721	BMP2,CDO1,NTRK3,SHOX2	0.6850376784274042	0.25	4	False
+Factor2	Hallmark	Interferon Gamma Response	48	4	1.92	0.1239315759440142	BANK1,CIITA,CMKLR1,IRF8	0.9170936619857051	0.25	4	False
+Factor2	Hallmark	mTORC1 Signaling	20	2	0.8	0.18948616805952986	GCLC,ITGB2	1.0	0.5	2	True
+Factor2	Hallmark	Bile Acid Metabolism	40	3	1.6	0.21400016427446358	ABCA3,CH25H,CYP27A1	1.0	0.33	3	False
+Factor2	Hallmark	heme Metabolism	30	2	1.2	0.3389977572776822	CTSE,GCLC	1.0	0.5	2	True
+Factor2	Hallmark	p53 Pathway	31	2	1.24	0.3537410621129223	BMP2,ZBTB16	1.0	0.5	2	True
+Factor2	Hallmark	Xenobiotic Metabolism	77	4	3.08	0.3710911697033409	CDO1,CYP27A1,GCLC,IRF8	1.0	0.25	4	False
+Factor2	Hallmark	KRAS Signaling Dn	114	5	4.56	0.482550670433127	CALCB,RYR2,SCGB1A1,SHOX2,ZBTB16	1.0	0.2	5	False
+Factor2	Hallmark	Inflammatory Response	90	4	3.6	0.48848797778604686	CCR7,CMKLR1,KCNA3,ROS1	1.0	0.25	4	False
+Factor2	Hallmark	Pancreas Beta Cells	17	1	0.68	0.5009803433381683	FOXA2	1.0		1	False
+Factor2	Hallmark	Spermatogenesis	42	2	1.68	0.505728928674676	CFTR,RPL39L	1.0	0.5	2	True
+Factor2	Hallmark	Apical Surface	18	1	0.72	0.5210092278118525	RTN4RL1	1.0		1	False
+Factor2	Hallmark	Estrogen Response Early	69	3	2.76	0.5259321798395324	ABCA3,DLC1,GFRA1	1.0	0.33	3	False
+Factor2	Hallmark	Pperoxisome	22	1	0.88	0.5934362482216682	SCGB1A1	1.0		1	False
+Factor2	Hallmark	UV Response Dn	34	1	1.36	0.7515824403330633	DLC1	1.0		1	False
+Factor2	Hallmark	Fatty Acid Metabolism	35	1	1.4	0.761587174914897	CA4	1.0		1	False
+Factor2	Hallmark	Apical Junction	69	2	2.76	0.770373409918	CLDN18,NEGR1	1.0	0.5	2	True
+Factor2	Hallmark	Apoptosis	36	1	1.44	0.7711909140925446	BMP2	1.0		1	False
+Factor2	Hallmark	Complement	72	2	2.88	0.790535592764036	LTF,SPOCK2	1.0	0.5	2	True
+Factor2	Hallmark	Glycolysis	45	1	1.8	0.8420205102671329	GCLC	1.0		1	False
+Factor2	Hallmark	Estrogen Response Late	84	2	3.36	0.8564054628512576	ABCA3,LTF	1.0	0.5	2	True
+Factor2	Hallmark	Allograft Rejection	86	2	3.44	0.8653513667354009	IRF8,ITGB2	1.0	0.5	2	True
+Factor2	Hallmark	TNF-alpha Signaling via NF-kB	60	1	2.4	0.9149222916996471	BMP2	1.0		1	False
+Factor2	Hallmark	Coagulation	67	1	2.68	0.9363061407216928	CTSE	1.0		1	False
+Factor2	Hallmark	Myogenesis	77	1	3.08	0.957909525167473	VIPR1	1.0		1	False
+Factor2	Hallmark	Epithelial Mesenchymal Transition	104	1	4.16	0.9863054820145108	ELN	1.0		1	False
+Factor2	Hallmark	Hedgehog Signaling	14	0	0.56	1.0		1.0		0	False
+Factor2	Hallmark	Androgen Response	17	0	0.68	1.0		1.0		0	False
+Factor2	Hallmark	Interferon Alpha Response	14	0	0.56	1.0		1.0		0	False
+Factor2	Hallmark	Angiogenesis	17	0	0.68	1.0		1.0		0	False
+Factor2	Hallmark	PI3K/AKT/mTOR  Signaling	17	0	0.68	1.0		1.0		0	False
+Factor2	Hallmark	IL-6/JAK/STAT3 Signaling	27	0	1.08	1.0		1.0		0	False
+Factor2	Hallmark	Hypoxia	55	0	2.2	1.0		1.0		0	False
+Factor2	Hallmark	Cholesterol Homeostasis	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	Biological oxidations	103	22	4.12	4.970251720265889e-11	AADAC,ADH1C,ADH7,ALDH1A1,ALDH3A1,CES1,CYP24A1,CYP26A1,CYP2C18,CYP2S1,CYP4F11,CYP4F12,CYP4F3,GLYATL2,GSTA1,GSTM2,UGT1A1,UGT1A10,UGT1A6,UGT1A7,UGT1A8,UGT1A9	2.3509290636857655e-08	0.27	15	False
+Factor4	Reactome	Formation of the cornified envelope	74	16	2.96	2.0482493190510325e-08	DSC3,DSG3,KRT13,KRT15,KRT5,KRT7,KRT77,PKP1,RPTN,SPRR1A,SPRR1B,SPRR2A,SPRR2D,SPRR2E,SPRR3,TCHH	4.8441096395556916e-06	0.5	5	True
+Factor4	Reactome	Keratinization	78	16	3.12	4.5447261907884605e-08	DSC3,DSG3,KRT13,KRT15,KRT5,KRT7,KRT77,PKP1,RPTN,SPRR1A,SPRR1B,SPRR2A,SPRR2D,SPRR2E,SPRR3,TCHH	7.165518294143139e-06	0.5	5	True
+Factor4	Reactome	Phase I - Functionalization of compounds	54	13	2.16	1.1864429674663149e-07	AADAC,ADH1C,ADH7,ALDH1A1,ALDH3A1,CES1,CYP24A1,CYP26A1,CYP2C18,CYP2S1,CYP4F11,CYP4F12,CYP4F3	1.4029688090289173e-05	0.15	11	False
+Factor4	Reactome	Metabolism	476	41	19.04	1.2065470443952645e-06	AADAC,ADH1C,ADH7,AKR1B10,AKR1C1,AKR1C2,AKR1C3,ALDH1A1,ALDH3A1,ALOX15,BCHE,CES1,CH25H,CHRM3,CHST2,CHST9,CYP24A1,CYP26A1,CYP2C18,CYP2S1,CYP4F11,CYP4F12,CYP4F3,GDA,GLYATL2,GPC3,GPX2,GSTA1,GSTM2,HAS3,HS3ST5,PCYT1B,PLA2G3,PLCH2,TH,UGT1A1,UGT1A10,UGT1A6,UGT1A7,UGT1A8,UGT1A9	0.00011413935039979203	0.15	31	False
+Factor4	Reactome	Glucuronidation	13	6	0.52	5.158582032390742e-06	UGT1A1,UGT1A10,UGT1A6,UGT1A7,UGT1A8,UGT1A9	0.0003979675149314793	1.0	1	True
+Factor4	Reactome	Aspirin ADME	27	8	1.08	6.567485979787185e-06	BCHE,CES1,GLYATL2,UGT1A1,UGT1A6,UGT1A7,UGT1A8,UGT1A9	0.0003979675149314793	0.62	4	True
+Factor4	Reactome	Drug ADME	54	11	2.16	6.730951626748064e-06	AKR1C1,BCHE,CES1,GLYATL2,GSTA1,UGT1A1,UGT1A10,UGT1A6,UGT1A7,UGT1A8,UGT1A9	0.0003979675149314793	0.55	6	True
+Factor4	Reactome	Phase II - Conjugation of compounds	44	9	1.76	4.592983385516668e-05	GLYATL2,GSTA1,GSTM2,UGT1A1,UGT1A10,UGT1A6,UGT1A7,UGT1A8,UGT1A9	0.002413867934832649	0.67	4	True
+Factor4	Reactome	Cytochrome P450 - arranged by substrate type	36	8	1.44	6.55966895312862e-05	ADH7,CYP24A1,CYP26A1,CYP2C18,CYP2S1,CYP4F11,CYP4F12,CYP4F3	0.003102723414829837	0.25	7	False
+Factor4	Reactome	Developmental Biology	412	30	16.48	0.0008199168000866346	ADAM23,ARTN,BMP7,DLX5,DSC3,DSG3,EPHB6,GFRA1,KRT13,KRT15,KRT5,KRT7,KRT77,LGI3,PAX6,PCDH19,PKP1,RGMA,RPTN,SEMA6D,SOX2,SPRR1A,SPRR1B,SPRR2A,SPRR2D,SPRR2E,SPRR3,TCHH,TUBB3,WNT3A	0.03525642240372529	0.27	19	False
+Factor4	Reactome	Fatty acids	12	4	0.48	0.0009548716840654464	ADH7,CYP4F11,CYP4F12,CYP4F3	0.037637858880246344	0.5	3	True
+Factor4	Reactome	Synthesis of bile acids and bile salts	13	4	0.52	0.0013363938396362934	AKR1C1,AKR1C2,AKR1C3,CH25H	0.0486241758575359	0.75	2	True
+Factor4	Reactome	Protein-protein interactions at synapses	44	7	1.76	0.0016032081356833667	DLGAP1,LRRTM1,NLGN1,NRXN3,PTPRD,SLITRK3,SYT7	0.05416553201273089	0.14	7	False
+Factor4	Reactome	RA biosynthesis pathway	15	4	0.6	0.002395476944936662	ADH1C,AKR1C3,ALDH1A1,CYP26A1	0.07553737299700275	0.25	4	False
+Factor4	Reactome	Paracetamol ADME	16	4	0.64	0.0030950904676275786	UGT1A1,UGT1A10,UGT1A6,UGT1A9	0.09149861194924029	1.0	1	True
+Factor4	Reactome	Neurexins and neuroligins	29	5	1.16	0.005279822298683296	DLGAP1,LRRTM1,NLGN1,NRXN3,SYT7	0.13835850747735584	0.2	5	False
+Factor4	Reactome	Signaling by Retinoic Acid	19	4	0.76	0.005999623841820059	ADH1C,AKR1C3,ALDH1A1,CYP26A1	0.13835850747735584	0.25	4	False
+Factor4	Reactome	Signaling by FGFR2	10	3	0.4	0.006142766716753642	FGFBP1,FGFBP2,FGFR2	0.13835850747735584	0.67	2	True
+Factor4	Reactome	Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol	10	3	0.4	0.006142766716753642	AKR1C1,AKR1C2,AKR1C3	0.13835850747735584	1.0	1	True
+Factor4	Reactome	FGFR2 ligand binding and activation	10	3	0.4	0.006142766716753642	FGFBP1,FGFBP2,FGFR2	0.13835850747735584	0.67	2	True
+Factor4	Reactome	Retinoid metabolism and transport	20	4	0.8	0.007268600388556237	AKR1B10,AKR1C1,AKR1C3,GPC3	0.1432519993244625	0.5	3	True
+Factor4	Reactome	Bile acid and bile salt metabolism	20	4	0.8	0.007268600388556237	AKR1C1,AKR1C2,AKR1C3,CH25H	0.1432519993244625	0.75	2	True
+Factor4	Reactome	Metabolism of fat-soluble vitamins	20	4	0.8	0.007268600388556237	AKR1B10,AKR1C1,AKR1C3,GPC3	0.1432519993244625	0.5	3	True
+Factor4	Reactome	Hedgehog 'off' state	11	3	0.44	0.00819991931853518	ADCY10,GLI2,TUBB3	0.1551424735066856	0.33	3	False
+Factor4	Reactome	Metabolism of steroids	34	5	1.36	0.010526260436792674	AKR1C1,AKR1C2,AKR1C3,CH25H,CYP24A1	0.17313325338052415	0.6	3	True
+Factor4	Reactome	Specification of the neural plate border	12	3	0.48	0.010614935196691756	DLX5,SOX2,WNT3A	0.17313325338052415	0.33	3	False
+Factor4	Reactome	Negative regulation of TCF-dependent signaling by WNT ligand antagonists	12	3	0.48	0.010614935196691756	SOST,WIF1,WNT3A	0.17313325338052415	0.33	3	False
+Factor4	Reactome	Synthesis of Leukotrienes (LT) and Eoxins (EX)	12	3	0.48	0.010614935196691756	ALOX15,CYP4F11,CYP4F3	0.17313325338052415	0.33	3	False
+Factor4	Reactome	Arachidonate metabolism	35	5	1.4	0.011891510870065519	AKR1C3,ALOX15,CYP4F11,CYP4F3,GPX2	0.18459053816288906	0.2	5	False
+Factor4	Reactome	Transcriptional Regulation by TP53	23	4	0.92	0.012097899964163977	CCNA1,GPX2,SESN3,TP63	0.18459053816288906	0.25	4	False
+Factor4	Reactome	Nitric oxide stimulates guanylate cyclase	13	3	0.52	0.0133984976038084	KCNMB2,NOS1,NOS2	0.1980465427062929	0.33	3	False
+Factor4	Reactome	Metabolism of lipids	167	13	6.68	0.015624141326362948	AKR1C1,AKR1C2,AKR1C3,ALOX15,BCHE,CH25H,CYP24A1,CYP4F11,CYP4F3,GPX2,PCYT1B,PLA2G3,UGT1A9	0.22394602567786892	0.23	11	False
+Factor4	Reactome	Apoptosis	16	3	0.64	0.024022850227996863	DSG3,PKP1,TP63	0.3342002399365446	0.33	3	False
+Factor4	Reactome	Glycosaminoglycan metabolism	43	5	1.72	0.027287571290870165	CHST2,CHST9,GPC3,HAS3,HS3ST5	0.36877203487375965	0.2	5	False
+Factor4	Reactome	TCF dependent signaling in response to WNT	30	4	1.2	0.030145375621469826	SOST,SOX2,WIF1,WNT3A	0.3960767408043119	0.25	4	False
+Factor4	Reactome	Signaling by FGFR	18	3	0.72	0.033018687392097075	FGFBP1,FGFBP2,FGFR2	0.4221037604449167	0.67	2	True
+Factor4	Reactome	Signaling by Hedgehog	20	3	0.8	0.04352290794057712	ADCY10,GLI2,TUBB3	0.5278547552793071	0.33	3	False
+Factor4	Reactome	Programmed Cell Death	20	3	0.8	0.04352290794057712	DSG3,PKP1,TP63	0.5278547552793071	0.33	3	False
+Factor4	Reactome	Ion transport by P-type ATPases	21	3	0.84	0.04932626647542705	ATP12A,ATP13A4,ATP13A5	0.5832831010719249	0.67	2	True
+Factor4	Reactome	Neuronal System	197	13	7.88	0.05080111471152036	BCHE,CACNA1B,DLGAP1,KCNMB2,LRRTM1,NEFL,NLGN1,NRXN3,PTPRD,SLC6A4,SLITRK3,SYT7,TUBB3	0.5860713965499788	0.15	12	False
+Factor4	Reactome	Metabolism of carbohydrates and carbohydrate derivatives	68	6	2.72	0.0533055595003498	ALDH1A1,CHST2,CHST9,GPC3,HAS3,HS3ST5	0.6003221343729871	0.17	6	False
+Factor4	Reactome	Peptide hormone metabolism	37	4	1.48	0.05862790518269781	BCHE,CES1,PAX6,PCSK2	0.6368545509657436	0.25	4	False
+Factor4	Reactome	Signaling by WNT	53	5	2.12	0.05924228381076685	SOST,SOX2,WIF1,WNT2B,WNT3A	0.6368545509657436	0.2	5	False
+Factor4	Reactome	Fatty acid metabolism	54	5	2.16	0.0632629457429818	AKR1C3,ALOX15,CYP4F11,CYP4F3,GPX2	0.653572461419706	0.2	5	False
+Factor4	Reactome	Visual phototransduction	38	4	1.52	0.06356095819303695	AKR1B10,AKR1C1,AKR1C3,GPC3	0.653572461419706	0.5	3	True
+Factor4	Reactome	Gastrulation	39	4	1.56	0.06870528573720998	DLX5,PAX6,SOX2,WNT3A	0.6783712404704797	0.25	4	False
+Factor4	Reactome	Glycerophospholipid biosynthesis	24	3	0.96	0.06884105611539751	BCHE,PCYT1B,PLA2G3	0.6783712404704797	0.33	3	False
+Factor4	Reactome	Platelet homeostasis	25	3	1.0	0.07601376319018241	KCNMB2,NOS1,NOS2	0.7337655099786996	0.33	3	False
+Factor4	Reactome	Receptor-type tyrosine-protein phosphatases	12	2	0.48	0.0807382144224382	PTPRD,SLITRK3	0.7488073612120248	0.5	2	True
+Factor4	Reactome	RET signaling	12	2	0.48	0.0807382144224382	ARTN,GFRA1	0.7488073612120248	0.5	2	True
+Factor4	Reactome	HS-GAG biosynthesis	13	2	0.52	0.0929817992985527	GPC3,HS3ST5	0.7996434739675532	0.5	2	True
+Factor4	Reactome	Chaperonin-mediated protein folding	13	2	0.52	0.0929817992985527	RGS6,TUBB3	0.7996434739675532	0.5	2	True
+Factor4	Reactome	Protein folding	13	2	0.52	0.0929817992985527	RGS6,TUBB3	0.7996434739675532	0.5	2	True
+Factor4	Reactome	Cellular Senescence	13	2	0.52	0.0929817992985527	CCNA1,MAPK10	0.7996434739675532	0.5	2	True
+Factor4	Reactome	Heparan sulfate/heparin (HS-GAG) metabolism	14	2	0.56	0.10571906391375659	GPC3,HS3ST5	0.8621571936414977	0.5	2	True
+Factor4	Reactome	Metabolic disorders of biological oxidation enzymes	14	2	0.56	0.10571906391375659	CYP24A1,UGT1A1	0.8621571936414977	0.5	2	True
+Factor4	Reactome	WNT ligand biogenesis and trafficking	14	2	0.56	0.10571906391375659	WNT2B,WNT3A	0.8621571936414977	0.5	2	True
+Factor4	Reactome	Metabolism of vitamins and cofactors	46	4	1.84	0.11035054207932286	AKR1B10,AKR1C1,AKR1C3,GPC3	0.8846746848054189	0.5	3	True
+Factor4	Reactome	Post-translational modification: synthesis of GPI-anchored proteins	49	4	1.96	0.1309770828799486	CNTN5,LY6G6C,NRN1,RAET1L	1.0	0.25	4	False
+Factor4	Reactome	Metal ion SLC transporters	16	2	0.64	0.1324440471683515	SLC9A3,SLC9A4	1.0	0.5	2	True
+Factor4	Reactome	Transcriptional and post-translational regulation of MITF-M expression and activity	16	2	0.64	0.1324440471683515	SOX2,WNT3A	1.0	0.5	2	True
+Factor4	Reactome	Sensory Perception	87	6	3.48	0.13384690948143385	AKR1B10,AKR1C1,AKR1C3,GPC3,PCDH15,USH1G	1.0	0.33	5	False
+Factor4	Reactome	Xenobiotics	17	2	0.68	0.14632590507516102	CYP2C18,CYP2S1	1.0	0.5	2	True
+Factor4	Reactome	Glutathione conjugation	17	2	0.68	0.14632590507516102	GSTA1,GSTM2	1.0	0.5	2	True
+Factor4	Reactome	Sensory processing of sound by outer hair cells of the cochlea	17	2	0.68	0.14632590507516102	PCDH15,USH1G	1.0	0.5	2	True
+Factor4	Reactome	Cell Cycle, Mitotic	18	2	0.72	0.1604893072855441	CCNA1,TUBB3	1.0	0.5	2	True
+Factor4	Reactome	Assembly and cell surface presentation of NMDA receptors	18	2	0.72	0.1604893072855441	NEFL,TUBB3	1.0	0.5	2	True
+Factor4	Reactome	Phospholipid metabolism	37	3	1.48	0.18290578381373068	BCHE,PCYT1B,PLA2G3	1.0	0.33	3	False
+Factor4	Reactome	Generic Transcription Pathway	182	10	7.28	0.19149965999357055	CCNA1,DLX5,GLI2,GPX2,SERPINB13,SESN3,SOX2,TP63,ZNF285,ZNF750	1.0	0.1	10	False
+Factor4	Reactome	Signaling by Nuclear Receptors	57	4	2.28	0.19267320854349368	ADH1C,AKR1C3,ALDH1A1,CYP26A1	1.0	0.25	4	False
+Factor4	Reactome	Cellular responses to stress	77	5	3.08	0.19375662218939063	CCNA1,GPX2,GSTA1,MAPK10,TUBB3	1.0	0.2	5	False
+Factor4	Reactome	RNA Polymerase II Transcription	183	10	7.32	0.19596302435072538	CCNA1,DLX5,GLI2,GPX2,SERPINB13,SESN3,SOX2,TP63,ZNF285,ZNF750	1.0	0.1	10	False
+Factor4	Reactome	Transcriptional regulation by RUNX2	21	2	0.84	0.2042398419104881	DLX5,GLI2	1.0	0.5	2	True
+Factor4	Reactome	Sensory processing of sound by inner hair cells of the cochlea	21	2	0.84	0.2042398419104881	PCDH15,USH1G	1.0	0.5	2	True
+Factor4	Reactome	Molecules associated with elastic fibres	21	2	0.84	0.2042398419104881	BMP7,EMILIN3	1.0	0.5	2	True
+Factor4	Reactome	Cellular responses to stimuli	103	6	4.12	0.22938455745290995	CCNA1,GPX2,GSTA1,MAPK10,MT1A,TUBB3	1.0	0.17	6	False
+Factor4	Reactome	Ion channel transport	62	4	2.48	0.23508029912216893	ATP12A,ATP13A4,ATP13A5,CLCA2	1.0	0.5	3	True
+Factor4	Reactome	Sensory processing of sound	24	2	0.96	0.24910060361100128	PCDH15,USH1G	1.0	0.5	2	True
+Factor4	Reactome	Elastic fibre formation	24	2	0.96	0.24910060361100128	BMP7,EMILIN3	1.0	0.5	2	True
+Factor4	Reactome	NCAM1 interactions	26	2	1.04	0.27920581420272955	ARTN,GFRA1	1.0	0.5	2	True
+Factor4	Reactome	Signaling by Interleukins	111	6	4.44	0.2836961398655378	ALOX15,MAPK10,NOS2,PTPRZ1,SERPINB2,SOX2	1.0	0.17	6	False
+Factor4	Reactome	Gene expression (Transcription)	202	10	8.08	0.2883945265932239	CCNA1,DLX5,GLI2,GPX2,SERPINB13,SESN3,SOX2,TP63,ZNF285,ZNF750	1.0	0.1	10	False
+Factor4	Reactome	Interleukin-4 and Interleukin-13 signaling	47	3	1.88	0.28996592086825096	ALOX15,NOS2,SOX2	1.0	0.33	3	False
+Factor4	Reactome	Metabolism of proteins	343	16	13.72	0.2959579210777956	BCHE,CALB1,CCNA1,CES1,CNTN5,EEF1A2,GPC3,LY6G6C,MGAT3,NRN1,PAX6,PCSK2,PCSK9,RAET1L,RGS6,TUBB3	1.0	0.06	16	False
+Factor4	Reactome	Cell Cycle	28	2	1.12	0.3092286786026642	CCNA1,TUBB3	1.0	0.5	2	True
+Factor4	Reactome	Post NMDA receptor activation events	28	2	1.12	0.3092286786026642	NEFL,TUBB3	1.0	0.5	2	True
+Factor4	Reactome	Transport to the Golgi and subsequent modification	29	2	1.16	0.32415455718056596	MGAT3,TUBB3	1.0	0.5	2	True
+Factor4	Reactome	NCAM signaling for neurite out-growth	29	2	1.16	0.32415455718056596	ARTN,GFRA1	1.0	0.5	2	True
+Factor4	Reactome	M Phase	10	1	0.4	0.3354169522286917	TUBB3	1.0		1	False
+Factor4	Reactome	Macroautophagy	10	1	0.4	0.3354169522286917	TUBB3	1.0		1	False
+Factor4	Reactome	CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling	10	1	0.4	0.3354169522286917	NEFL	1.0		1	False
+Factor4	Reactome	CYP2E1 reactions	10	1	0.4	0.3354169522286917	CYP2S1	1.0		1	False
+Factor4	Reactome	Signaling by FGFR in disease	10	1	0.4	0.3354169522286917	FGFR2	1.0		1	False
+Factor4	Reactome	RSV-host interactions	10	1	0.4	0.3354169522286917	GPC3	1.0		1	False
+Factor4	Reactome	Biosynthesis of DHA-derived SPMs	10	1	0.4	0.3354169522286917	ALOX15	1.0		1	False
+Factor4	Reactome	Ub-specific processing proteases	10	1	0.4	0.3354169522286917	CCNA1	1.0		1	False
+Factor4	Reactome	Acyl chain remodelling of PE	10	1	0.4	0.3354169522286917	PLA2G3	1.0		1	False
+Factor4	Reactome	Toll Like Receptor 7/8 (TLR7/8) Cascade	10	1	0.4	0.3354169522286917	MAPK10	1.0		1	False
+Factor4	Reactome	Assembly of the 9+0 primary cilium	10	1	0.4	0.3354169522286917	TUBB3	1.0		1	False
+Factor4	Reactome	Initiation of coagulation cascade	10	1	0.4	0.3354169522286917	GPC3	1.0		1	False
+Factor4	Reactome	HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand	10	1	0.4	0.3354169522286917	TUBB3	1.0		1	False
+Factor4	Reactome	PKR-mediated signaling	10	1	0.4	0.3354169522286917	TUBB3	1.0		1	False
+Factor4	Reactome	SLC-mediated transport of neurotransmitters	10	1	0.4	0.3354169522286917	SLC6A4	1.0		1	False
+Factor4	Reactome	Acyl chain remodelling of PC	10	1	0.4	0.3354169522286917	PLA2G3	1.0		1	False
+Factor4	Reactome	Toll Like Receptor 3 (TLR3) Cascade	10	1	0.4	0.3354169522286917	MAPK10	1.0		1	False
+Factor4	Reactome	RAF/MAP kinase cascade	74	4	2.96	0.34345020749604005	ARTN,FGFR2,GFRA1,NEFL	1.0	0.25	4	False
+Factor4	Reactome	MAPK1/MAPK3 signaling	75	4	3.0	0.3526636221105936	ARTN,FGFR2,GFRA1,NEFL	1.0	0.25	4	False
+Factor4	Reactome	Cellular response to chemical stress	31	2	1.24	0.3537410621129223	GPX2,GSTA1	1.0	0.5	2	True
+Factor4	Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	11	1	0.44	0.36205354732974593	PAX6	1.0		1	False
+Factor4	Reactome	Metabolism of Angiotensinogen to Angiotensins	11	1	0.44	0.36205354732974593	CES1	1.0		1	False
+Factor4	Reactome	Keratan sulfate biosynthesis	11	1	0.44	0.36205354732974593	CHST2	1.0		1	False
+Factor4	Reactome	Chondroitin sulfate/dermatan sulfate metabolism	11	1	0.44	0.36205354732974593	CHST9	1.0		1	False
+Factor4	Reactome	Glycosaminoglycan-protein linkage region biosynthesis	11	1	0.44	0.36205354732974593	GPC3	1.0		1	False
+Factor4	Reactome	Respiratory Syncytial Virus Infection Pathway	11	1	0.44	0.36205354732974593	GPC3	1.0		1	False
+Factor4	Reactome	Activation of HOX genes during differentiation	11	1	0.44	0.36205354732974593	PAX6	1.0		1	False
+Factor4	Reactome	Activation of NMDA receptors and postsynaptic events	33	2	1.32	0.3828665064459779	NEFL,TUBB3	1.0	0.5	2	True
+Factor4	Reactome	Negative regulation of NMDA receptor-mediated neuronal transmission	12	1	0.48	0.38762766850313773	NEFL	1.0		1	False
+Factor4	Reactome	Metabolism of nucleotides	12	1	0.48	0.38762766850313773	GDA	1.0		1	False
+Factor4	Reactome	Biosynthesis of specialized proresolving mediators (SPMs)	12	1	0.48	0.38762766850313773	ALOX15	1.0		1	False
+Factor4	Reactome	Amyloid fiber formation	12	1	0.48	0.38762766850313773	CALB1	1.0		1	False
+Factor4	Reactome	Fc epsilon receptor (FCERI) signaling	12	1	0.48	0.38762766850313773	MAPK10	1.0		1	False
+Factor4	Reactome	Regulation of beta-cell development	12	1	0.48	0.38762766850313773	PAX6	1.0		1	False
+Factor4	Reactome	COPI-mediated anterograde transport	12	1	0.48	0.38762766850313773	TUBB3	1.0		1	False
+Factor4	Reactome	Keratan sulfate/keratin metabolism	13	1	0.52	0.4121814909368531	CHST2	1.0		1	False
+Factor4	Reactome	RAC3 GTPase cycle	13	1	0.52	0.4121814909368531	SLITRK3	1.0		1	False
+Factor4	Reactome	Carboxyterminal post-translational modifications of tubulin	13	1	0.52	0.4121814909368531	TUBB3	1.0		1	False
+Factor4	Reactome	Digestion and absorption	13	1	0.52	0.4121814909368531	SLC5A1	1.0		1	False
+Factor4	Reactome	Unblocking of NMDA receptors, glutamate binding and activation	13	1	0.52	0.4121814909368531	NEFL	1.0		1	False
+Factor4	Reactome	Inositol phosphate metabolism	13	1	0.52	0.4121814909368531	PLCH2	1.0		1	False
+Factor4	Reactome	Autophagy	13	1	0.52	0.4121814909368531	TUBB3	1.0		1	False
+Factor4	Reactome	Bacterial Infection Pathways	36	2	1.44	0.42545630369722887	GBP6,NOS2	1.0	0.5	2	True
+Factor4	Reactome	MAPK family signaling cascades	83	4	3.32	0.42602815774474834	ARTN,FGFR2,GFRA1,NEFL	1.0	0.25	4	False
+Factor4	Reactome	COPI-dependent Golgi-to-ER retrograde traffic	14	1	0.56	0.43575552378478355	TUBB3	1.0		1	False
+Factor4	Reactome	Gap junction trafficking and regulation	14	1	0.56	0.43575552378478355	TUBB3	1.0		1	False
+Factor4	Reactome	Gap junction assembly	14	1	0.56	0.43575552378478355	TUBB3	1.0		1	False
+Factor4	Reactome	Gap junction trafficking	14	1	0.56	0.43575552378478355	TUBB3	1.0		1	False
+Factor4	Reactome	Deubiquitination	14	1	0.56	0.43575552378478355	CCNA1	1.0		1	False
+Factor4	Reactome	Kinesins	14	1	0.56	0.43575552378478355	TUBB3	1.0		1	False
+Factor4	Reactome	Kidney development	37	2	1.48	0.43931633340485765	GFRA1,PCDH19	1.0	0.5	2	True
+Factor4	Reactome	Transport of small molecules	230	10	9.2	0.439937129318209	ATP12A,ATP13A4,ATP13A5,CLCA2,PCSK9,RHCG,SLC5A1,SLC6A4,SLC9A3,SLC9A4	1.0	0.2	9	False
+Factor4	Reactome	MITF-M-regulated melanocyte development	38	2	1.52	0.45299305524426603	SOX2,WNT3A	1.0	0.5	2	True
+Factor4	Reactome	Transcriptional regulation of pluripotent stem cells	15	1	0.6	0.458388675658639	SOX2	1.0		1	False
+Factor4	Reactome	Adipogenesis	15	1	0.6	0.458388675658639	BMP7	1.0		1	False
+Factor4	Reactome	Diseases associated with glycosaminoglycan metabolism	15	1	0.6	0.458388675658639	GPC3	1.0		1	False
+Factor4	Reactome	EPH-ephrin mediated repulsion of cells	15	1	0.6	0.458388675658639	EPHB6	1.0		1	False
+Factor4	Reactome	Formation of the nephric duct	15	1	0.6	0.458388675658639	PCDH19	1.0		1	False
+Factor4	Reactome	Long-term potentiation	15	1	0.6	0.458388675658639	NEFL	1.0		1	False
+Factor4	Reactome	IRS-mediated signalling	15	1	0.6	0.458388675658639	FGFR2	1.0		1	False
+Factor4	Reactome	PI3K Cascade	15	1	0.6	0.458388675658639	FGFR2	1.0		1	False
+Factor4	Reactome	Netrin-1 signaling	15	1	0.6	0.458388675658639	RGMA	1.0		1	False
+Factor4	Reactome	Metabolism of amine-derived hormones	15	1	0.6	0.458388675658639	TH	1.0		1	False
+Factor4	Reactome	Insulin receptor signalling cascade	15	1	0.6	0.458388675658639	FGFR2	1.0		1	False
+Factor4	Reactome	Transmission across Chemical Synapses	113	5	4.52	0.47475391885526114	BCHE,CACNA1B,NEFL,SLC6A4,TUBB3	1.0	0.2	5	False
+Factor4	Reactome	Asparagine N-linked glycosylation	40	2	1.6	0.47976727816788695	MGAT3,TUBB3	1.0	0.5	2	True
+Factor4	Reactome	Class B/2 (Secretin family receptors)	40	2	1.6	0.47976727816788695	WNT2B,WNT3A	1.0	0.5	2	True
+Factor4	Reactome	Transcriptional Regulation by MECP2	16	1	0.64	0.4801183175579914	SOX2	1.0		1	False
+Factor4	Reactome	Cilium Assembly	16	1	0.64	0.4801183175579914	TUBB3	1.0		1	False
+Factor4	Reactome	Cytokine Signaling in Immune system	188	8	7.52	0.4812089219683808	ALOX15,GBP6,MAPK10,NOS2,PTPRZ1,SERPINB2,SOX2,TUBB3	1.0	0.12	8	False
+Factor4	Reactome	Axon guidance	140	6	5.6	0.49159345296905077	ARTN,EPHB6,GFRA1,RGMA,SEMA6D,TUBB3	1.0	0.17	6	False
+Factor4	Reactome	Semaphorin interactions	17	1	0.68	0.5009803433381683	SEMA6D	1.0		1	False
+Factor4	Reactome	Golgi-to-ER retrograde transport	17	1	0.68	0.5009803433381683	TUBB3	1.0		1	False
+Factor4	Reactome	Toll Like Receptor TLR6:TLR2 Cascade	17	1	0.68	0.5009803433381683	MAPK10	1.0		1	False
+Factor4	Reactome	MyD88:MAL(TIRAP) cascade initiated on plasma membrane	17	1	0.68	0.5009803433381683	MAPK10	1.0		1	False
+Factor4	Reactome	Dengue Virus-Host Interactions	17	1	0.68	0.5009803433381683	GPC3	1.0		1	False
+Factor4	Reactome	Cardiac conduction	67	3	2.68	0.5059684069781997	CES1,FGF12,NOS1	1.0	0.33	3	False
+Factor4	Reactome	Constitutive Signaling by Aberrant PI3K in Cancer	43	2	1.72	0.5183928483130266	FGFR2,NTRK2	1.0	0.5	2	True
+Factor4	Reactome	PPARA activates gene expression	18	1	0.72	0.5210092278118525	UGT1A9	1.0		1	False
+Factor4	Reactome	IRS-related events triggered by IGF1R	18	1	0.72	0.5210092278118525	FGFR2	1.0		1	False
+Factor4	Reactome	Regulation of lipid metabolism by PPARalpha	18	1	0.72	0.5210092278118525	UGT1A9	1.0		1	False
+Factor4	Reactome	Signaling by Insulin receptor	18	1	0.72	0.5210092278118525	FGFR2	1.0		1	False
+Factor4	Reactome	Intra-Golgi and retrograde Golgi-to-ER traffic	18	1	0.72	0.5210092278118525	TUBB3	1.0		1	False
+Factor4	Reactome	IGF1R signaling cascade	18	1	0.72	0.5210092278118525	FGFR2	1.0		1	False
+Factor4	Reactome	SLC-mediated transmembrane transport	94	4	3.76	0.5229408266582743	SLC5A1,SLC6A4,SLC9A3,SLC9A4	1.0	0.25	4	False
+Factor4	Reactome	PI3K/AKT Signaling in Cancer	44	2	1.76	0.5308404045491977	FGFR2,NTRK2	1.0	0.5	2	True
+Factor4	Reactome	Nervous system development	147	6	5.88	0.5399017685740354	ARTN,EPHB6,GFRA1,RGMA,SEMA6D,TUBB3	1.0	0.17	6	False
+Factor4	Reactome	KEAP1-NFE2L2 pathway	19	1	0.76	0.5402380825765308	GSTA1	1.0		1	False
+Factor4	Reactome	Nuclear events mediated by NFE2L2	19	1	0.76	0.5402380825765308	GSTA1	1.0		1	False
+Factor4	Reactome	EPH-Ephrin signaling	19	1	0.76	0.5402380825765308	EPHB6	1.0		1	False
+Factor4	Reactome	Organelle biogenesis and maintenance	19	1	0.76	0.5402380825765308	TUBB3	1.0		1	False
+Factor4	Reactome	Amine ligand-binding receptors	19	1	0.76	0.5402380825765308	CHRM3	1.0		1	False
+Factor4	Reactome	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	19	1	0.76	0.5402380825765308	FGFR2	1.0		1	False
+Factor4	Reactome	Negative regulation of the PI3K/AKT network	46	2	1.84	0.5550749184213598	FGFR2,NTRK2	1.0	0.5	2	True
+Factor4	Reactome	PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling	46	2	1.84	0.5550749184213598	FGFR2,NTRK2	1.0	0.5	2	True
+Factor4	Reactome	Toll Like Receptor 2 (TLR2) Cascade	20	1	0.8	0.5586987096563732	MAPK10	1.0		1	False
+Factor4	Reactome	Antimicrobial mechanism of IFN-stimulated genes	20	1	0.8	0.5586987096563732	TUBB3	1.0		1	False
+Factor4	Reactome	Toll Like Receptor TLR1:TLR2 Cascade	20	1	0.8	0.5586987096563732	MAPK10	1.0		1	False
+Factor4	Reactome	Formation of the ureteric bud	20	1	0.8	0.5586987096563732	GFRA1	1.0		1	False
+Factor4	Reactome	Phase 0 - rapid depolarisation	20	1	0.8	0.5586987096563732	FGF12	1.0		1	False
+Factor4	Reactome	Plasma lipoprotein assembly, remodeling, and clearance	20	1	0.8	0.5586987096563732	PCSK9	1.0		1	False
+Factor4	Reactome	Post-translational protein phosphorylation	47	2	1.88	0.5668575405348316	GPC3,PCSK9	1.0	0.5	2	True
+Factor4	Reactome	Infection with Enterobacteria	21	1	0.84	0.5764216530436673	GBP6	1.0		1	False
+Factor4	Reactome	Regulation of insulin secretion	21	1	0.84	0.5764216530436673	CHRM3	1.0		1	False
+Factor4	Reactome	Diseases of signal transduction by growth factor receptors and second messengers	75	3	3.0	0.5830477047682958	FGFR2,NTRK2,WNT3A	1.0	0.33	3	False
+Factor4	Reactome	ER to Golgi Anterograde Transport	22	1	0.88	0.5934362482216682	TUBB3	1.0		1	False
+Factor4	Reactome	Signaling by NTRK1 (TRKA)	22	1	0.88	0.5934362482216682	NTRK2	1.0		1	False
+Factor4	Reactome	Ion homeostasis	22	1	0.88	0.5934362482216682	NOS1	1.0		1	False
+Factor4	Reactome	Hemostasis	183	7	7.32	0.6040772177184335	GPC3,KCNMB2,NOS1,NOS2,P2RY1,SERPINB2,TUBB3	1.0	0.14	7	False
+Factor4	Reactome	G alpha (q) signalling events	78	3	3.12	0.6099302589652	CHRM3,NTS,P2RY1	1.0	0.33	3	False
+Factor4	Reactome	PIP3 activates AKT signaling	52	2	2.08	0.6223816822552343	FGFR2,NTRK2	1.0	0.5	2	True
+Factor4	Reactome	Regulation of clotting cascade	24	1	0.96	0.625451976970842	GPC3	1.0		1	False
+Factor4	Reactome	MITF-M-dependent gene expression	25	1	1.0	0.6405061579607598	SOX2	1.0		1	False
+Factor4	Reactome	Processing of antigen in germinal center B cells	25	1	1.0	0.6405061579607598	TUBB3	1.0		1	False
+Factor4	Reactome	Interferon Signaling	54	2	2.16	0.6430092488142456	GBP6,TUBB3	1.0	0.5	2	True
+Factor4	Reactome	Integration of energy metabolism	26	1	1.04	0.6549581717110811	CHRM3	1.0		1	False
+Factor4	Reactome	Factors involved in megakaryocyte development and platelet production	26	1	1.04	0.6549581717110811	TUBB3	1.0		1	False
+Factor4	Reactome	Toll Like Receptor 4 (TLR4) Cascade	26	1	1.04	0.6549581717110811	MAPK10	1.0		1	False
+Factor4	Reactome	Dengue Virus Infection	27	1	1.08	0.6688319886909332	GPC3	1.0		1	False
+Factor4	Reactome	MHC class II antigen presentation	28	1	1.12	0.6821506298053135	TUBB3	1.0		1	False
+Factor4	Reactome	SARS-CoV-2 Infection	28	1	1.12	0.6821506298053135	GPC3	1.0		1	False
+Factor4	Reactome	SLC transporter disorders	28	1	1.12	0.6821506298053135	SLC5A1	1.0		1	False
+Factor4	Reactome	Signaling by TGFB family members	28	1	1.12	0.6821506298053135	FST	1.0		1	False
+Factor4	Reactome	Post-translational protein modification	254	9	10.16	0.695851018912092	CCNA1,CNTN5,GPC3,LY6G6C,MGAT3,NRN1,PCSK9,RAET1L,TUBB3	1.0	0.11	9	False
+Factor4	Reactome	Signaling by Receptor Tyrosine Kinases	145	5	5.8	0.6962870013351987	FGFBP1,FGFBP2,FGFR2,NTRK2,PTPRZ1	1.0	0.4	4	False
+Factor4	Reactome	Diseases of metabolism	90	3	3.6	0.7055749400014361	CYP24A1,GPC3,UGT1A1	1.0	0.33	3	False
+Factor4	Reactome	Muscle contraction	90	3	3.6	0.7055749400014361	CES1,FGF12,NOS1	1.0	0.33	3	False
+Factor4	Reactome	Signaling by NTRKs	30	1	1.2	0.707209943363831	NTRK2	1.0		1	False
+Factor4	Reactome	Transcriptional regulation by RUNX1	30	1	1.2	0.707209943363831	SERPINB13	1.0		1	False
+Factor4	Reactome	Coagulation pathway	30	1	1.2	0.707209943363831	GPC3	1.0		1	False
+Factor4	Reactome	Cell junction organization	61	2	2.44	0.7082557938040532	KRT5,SDK1	1.0	0.5	2	True
+Factor4	Reactome	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	62	2	2.48	0.7167214906993578	GPC3,PCSK9	1.0	0.5	2	True
+Factor4	Reactome	RHO GTPase Effectors	31	1	1.24	0.7189922394055277	TUBB3	1.0		1	False
+Factor4	Reactome	Toll-like Receptor Cascades	32	1	1.28	0.7303026745270601	MAPK10	1.0		1	False
+Factor4	Reactome	Intracellular signaling by second messengers	64	2	2.56	0.733037043171149	FGFR2,NTRK2	1.0	0.5	2	True
+Factor4	Reactome	Interferon gamma signaling	33	1	1.32	0.7411600547795938	GBP6	1.0		1	False
+Factor4	Reactome	Cell-Cell communication	69	2	2.76	0.770373409918	KRT5,SDK1	1.0	0.5	2	True
+Factor4	Reactome	Stimuli-sensing channels	38	1	1.52	0.7892587496666214	CLCA2	1.0		1	False
+Factor4	Reactome	Disorders of transmembrane transporters	39	1	1.56	0.7977529556453953	SLC5A1	1.0		1	False
+Factor4	Reactome	Signaling by Rho GTPases	75	2	3.0	0.8091282242381197	SLITRK3,TUBB3	1.0	0.5	2	True
+Factor4	Reactome	Signaling by Rho GTPases, Miro GTPases and RHOBTB3	76	2	3.04	0.81499285650885	SLITRK3,TUBB3	1.0	0.5	2	True
+Factor4	Reactome	Neurotransmitter receptors and postsynaptic signal transmission	77	2	3.08	0.8206967155948828	NEFL,TUBB3	1.0	0.5	2	True
+Factor4	Reactome	SARS-CoV Infections	43	1	1.72	0.828455844607979	GPC3	1.0		1	False
+Factor4	Reactome	L1CAM interactions	44	1	1.76	0.8353771339116718	TUBB3	1.0		1	False
+Factor4	Reactome	Infectious disease	149	4	5.96	0.8546464168785364	GBP6,GPC3,NOS2,TUBB3	1.0	0.25	4	False
+Factor4	Reactome	Viral Infection Pathways	84	2	3.36	0.8564054628512576	GPC3,TUBB3	1.0	0.5	2	True
+Factor4	Reactome	Neutrophil degranulation	124	3	4.96	0.8802230075503978	ABCA13,ADAM8,PKP1	1.0	0.33	3	False
+Factor4	Reactome	Affinity selection of immunoglobulins	52	1	2.08	0.8816219294362735	TUBB3	1.0		1	False
+Factor4	Reactome	Immunoglobulin maturation	52	1	2.08	0.8816219294362735	TUBB3	1.0		1	False
+Factor4	Reactome	Cell-cell junction organization	53	1	2.12	0.8864068150694071	SDK1	1.0		1	False
+Factor4	Reactome	Diseases of glycosylation	55	1	2.2	0.8954068555431701	GPC3	1.0		1	False
+Factor4	Reactome	RHO GTPase cycle	57	1	2.28	0.9036971014573051	SLITRK3	1.0		1	False
+Factor4	Reactome	GPCR ligand binding	201	5	8.04	0.9116930922156135	CHRM3,NTS,P2RY1,WNT2B,WNT3A	1.0	0.2	5	False
+Factor4	Reactome	Potassium Channels	60	1	2.4	0.9149222916996471	KCNMB2	1.0		1	False
+Factor4	Reactome	Disease	365	10	14.6	0.9280261759021611	CYP24A1,FGFR2,GBP6,GPC3,NOS2,NTRK2,SLC5A1,TUBB3,UGT1A1,WNT3A	1.0	0.1	10	False
+Factor4	Reactome	Class A/1 (Rhodopsin-like receptors)	151	3	6.04	0.9458690669292225	CHRM3,NTS,P2RY1	1.0	0.33	3	False
+Factor4	Reactome	Innate Immune System	255	6	10.2	0.9480671609583698	ABCA13,ADAM8,MAPK10,NOS1,NOS2,PKP1	1.0	0.17	6	False
+Factor4	Reactome	Signaling by GPCR	258	6	10.32	0.9517799518533668	CHRM3,NTS,P2RY1,RGS6,WNT2B,WNT3A	1.0	0.17	6	False
+Factor4	Reactome	Platelet activation, signaling and aggregation	77	1	3.08	0.957909525167473	P2RY1	1.0		1	False
+Factor4	Reactome	Membrane Trafficking	78	1	3.12	0.9596194774255484	TUBB3	1.0		1	False
+Factor4	Reactome	Extracellular matrix organization	161	3	6.44	0.9602184476319232	ADAM8,BMP7,EMILIN3	1.0	0.33	3	False
+Factor4	Reactome	Degradation of the extracellular matrix	81	1	3.24	0.9643455419445178	ADAM8	1.0		1	False
+Factor4	Reactome	Metabolism of amino acids and derivatives	86	1	3.44	0.9710304218187277	TH	1.0		1	False
+Factor4	Reactome	GPCR downstream signalling	227	4	9.08	0.983469161689655	CHRM3,NTS,P2RY1,RGS6	1.0	0.25	4	False
+Factor4	Reactome	Peptide ligand-binding receptors	103	1	4.12	0.9857223643655652	NTS	1.0		1	False
+Factor4	Reactome	Vesicle-mediated transport	104	1	4.16	0.9863054820145108	TUBB3	1.0		1	False
+Factor4	Reactome	G alpha (i) signalling events	127	1	5.08	0.9947642177967115	RGS6	1.0		1	False
+Factor4	Reactome	Adaptive Immune System	184	1	7.36	0.9995264024756649	TUBB3	1.0		1	False
+Factor4	Reactome	Vasopressin regulates renal water homeostasis via Aquaporins	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	VEGFA-VEGFR2 Pathway	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	Translocation of ZAP-70 to Immunological synapse	15	0	0.6	1.0		1.0		0	False
+Factor4	Reactome	Transcriptional regulation of white adipocyte differentiation	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	Transcriptional regulation of testis differentiation	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors	14	0	0.56	1.0		1.0		0	False
+Factor4	Reactome	Amino acid transport across the plasma membrane	14	0	0.56	1.0		1.0		0	False
+Factor4	Reactome	Aflatoxin activation and detoxification	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	Adherens junctions interactions	38	0	1.52	1.0		1.0		0	False
+Factor4	Reactome	Acyl chain remodelling of PS	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Activation of Matrix Metalloproteinases	18	0	0.72	1.0		1.0		0	False
+Factor4	Reactome	Activation of GABAB receptors	15	0	0.6	1.0		1.0		0	False
+Factor4	Reactome	Metabolism of steroid hormones	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	Metabolism of RNA	20	0	0.8	1.0		1.0		0	False
+Factor4	Reactome	MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	MET promotes cell motility	21	0	0.84	1.0		1.0		0	False
+Factor4	Reactome	MET activates PTK2 signaling	20	0	0.8	1.0		1.0		0	False
+Factor4	Reactome	Leishmania parasite growth and survival	18	0	0.72	1.0		1.0		0	False
+Factor4	Reactome	Leishmania infection	35	0	1.4	1.0		1.0		0	False
+Factor4	Reactome	Late SARS-CoV-2 Infection Events	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Laminin interactions	13	0	0.52	1.0		1.0		0	False
+Factor4	Reactome	Iron uptake and transport	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Inwardly rectifying K+ channels	14	0	0.56	1.0		1.0		0	False
+Factor4	Reactome	Interleukin-10 signaling	27	0	1.08	1.0		1.0		0	False
+Factor4	Reactome	Interleukin-1 signaling	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Interleukin-1 family signaling	17	0	0.68	1.0		1.0		0	False
+Factor4	Reactome	Interferon alpha/beta signaling	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Neddylation	16	0	0.64	1.0		1.0		0	False
+Factor4	Reactome	NGF-stimulated transcription	14	0	0.56	1.0		1.0		0	False
+Factor4	Reactome	Metabolism of water-soluble vitamins and cofactors	24	0	0.96	1.0		1.0		0	False
+Factor4	Reactome	Interaction between L1 and Ankyrins	21	0	0.84	1.0		1.0		0	False
+Factor4	Reactome	Integrin cell surface interactions	52	0	2.08	1.0		1.0		0	False
+Factor4	Reactome	Initial triggering of complement	15	0	0.6	1.0		1.0		0	False
+Factor4	Reactome	Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Inactivation, recovery and regulation of the phototransduction cascade	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell	74	0	2.96	1.0		1.0		0	False
+Factor4	Reactome	Oncogenic MAPK signaling	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	Olfactory Signaling Pathway	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	O-linked glycosylation of mucins	26	0	1.04	1.0		1.0		0	False
+Factor4	Reactome	O-linked glycosylation	56	0	2.24	1.0		1.0		0	False
+Factor4	Reactome	O-glycosylation of TSR domain-containing proteins	28	0	1.12	1.0		1.0		0	False
+Factor4	Reactome	Nuclear signaling by ERBB4	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	Nuclear Receptor transcription pathway	22	0	0.88	1.0		1.0		0	False
+Factor4	Reactome	Nuclear Events (kinase and transcription factor activation)	15	0	0.6	1.0		1.0		0	False
+Factor4	Reactome	Non-integrin membrane-ECM interactions	39	0	1.56	1.0		1.0		0	False
+Factor4	Reactome	Neurotransmitter release cycle	26	0	1.04	1.0		1.0		0	False
+Factor4	Reactome	High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	Glycosphingolipid metabolism	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	Glutamate binding, activation of AMPA receptors and synaptic plasticity	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	Glutamate Neurotransmitter Release Cycle	13	0	0.52	1.0		1.0		0	False
+Factor4	Reactome	Glucagon-type ligand receptors	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Generation of second messenger molecules	17	0	0.68	1.0		1.0		0	False
+Factor4	Reactome	GABA receptor activation	24	0	0.96	1.0		1.0		0	False
+Factor4	Reactome	GABA B receptor activation	15	0	0.6	1.0		1.0		0	False
+Factor4	Reactome	G-protein mediated events	16	0	0.64	1.0		1.0		0	False
+Factor4	Reactome	G protein gated Potassium channels	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	G alpha (z) signalling events	16	0	0.64	1.0		1.0		0	False
+Factor4	Reactome	Parasitic Infection Pathways	35	0	1.4	1.0		1.0		0	False
+Factor4	Reactome	Paradoxical activation of RAF signaling by kinase inactive BRAF	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	PLC beta mediated events	15	0	0.6	1.0		1.0		0	False
+Factor4	Reactome	PI Metabolism	13	0	0.52	1.0		1.0		0	False
+Factor4	Reactome	PCP/CE pathway	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Opioid Signalling	21	0	0.84	1.0		1.0		0	False
+Factor4	Reactome	G alpha (s) signalling events	51	0	2.04	1.0		1.0		0	False
+Factor4	Reactome	G alpha (12/13) signalling events	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	Formation of the dystrophin-glycoprotein complex (DGC)	14	0	0.56	1.0		1.0		0	False
+Factor4	Reactome	Fibronectin matrix formation	16	0	0.64	1.0		1.0		0	False
+Factor4	Reactome	Fibrin formation	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	Fatty acyl-CoA biosynthesis	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	FOXO-mediated transcription	14	0	0.56	1.0		1.0		0	False
+Factor4	Reactome	Platelet degranulation	50	0	2.0	1.0		1.0		0	False
+Factor4	Reactome	Platelet Aggregation (Plug Formation)	15	0	0.6	1.0		1.0		0	False
+Factor4	Reactome	Plasma lipoprotein remodeling	16	0	0.64	1.0		1.0		0	False
+Factor4	Reactome	Phosphorylation of CD3 and TCR zeta chains	15	0	0.6	1.0		1.0		0	False
+Factor4	Reactome	Phase 4 - resting membrane potential	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	Extra-nuclear estrogen signaling	19	0	0.76	1.0		1.0		0	False
+Factor4	Reactome	Estrogen-dependent nuclear events downstream of ESR-membrane signaling	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Estrogen-dependent gene expression	16	0	0.64	1.0		1.0		0	False
+Factor4	Reactome	Epigenetic regulation of gene expression by MLL3 and MLL4 complexes	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	Epigenetic regulation of gene expression	18	0	0.72	1.0		1.0		0	False
+Factor4	Reactome	Epigenetic regulation of adipogenesis genes by MLL3 and MLL4 complexes	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	Epigenetic regulation by WDR5-containing histone modifying complexes	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	Endogenous sterols	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	ESR-mediated signaling	30	0	1.2	1.0		1.0		0	False
+Factor4	Reactome	EPHA-mediated growth cone collapse	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	ECM proteoglycans	45	0	1.8	1.0		1.0		0	False
+Factor4	Reactome	Downstream TCR signaling	16	0	0.64	1.0		1.0		0	False
+Factor4	Reactome	Dopamine Neurotransmitter Release Cycle	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Diseases of hemostasis	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	Diseases of Immune System	13	0	0.52	1.0		1.0		0	False
+Factor4	Reactome	Diseases associated with the TLR signaling cascade	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	Diseases associated with surfactant metabolism	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Diseases associated with O-glycosylation of proteins	40	0	1.6	1.0		1.0		0	False
+Factor4	Reactome	RHOA GTPase cycle	16	0	0.64	1.0		1.0		0	False
+Factor4	Reactome	RAC2 GTPase cycle	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	RAC1 GTPase cycle	27	0	1.08	1.0		1.0		0	False
+Factor4	Reactome	Potential therapeutics for SARS	14	0	0.56	1.0		1.0		0	False
+Factor4	Reactome	Reproduction	17	0	0.68	1.0		1.0		0	False
+Factor4	Reactome	Regulation of expression of SLITs and ROBOs	14	0	0.56	1.0		1.0		0	False
+Factor4	Reactome	Regulation of TLR by endogenous ligand	13	0	0.52	1.0		1.0		0	False
+Factor4	Reactome	Regulation of T cell activation by CD28 family	32	0	1.28	1.0		1.0		0	False
+Factor4	Reactome	Regulation of PD-L1(CD274) expression	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	Regulation of Homotypic Cell-Cell Adhesion	22	0	0.88	1.0		1.0		0	False
+Factor4	Reactome	Regulation of Expression and Function of Type I Classical Cadherins	13	0	0.52	1.0		1.0		0	False
+Factor4	Reactome	Regulation of Complement cascade	28	0	1.12	1.0		1.0		0	False
+Factor4	Reactome	Regulation of CDH1 Expression and Function	13	0	0.52	1.0		1.0		0	False
+Factor4	Reactome	Digestion	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Differentiation of T cells	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	Developmental Lineage of Pancreatic Endocrine Mid Progenitor Cells	19	0	0.76	1.0		1.0		0	False
+Factor4	Reactome	Developmental Lineage of Pancreatic Ductal Cells	18	0	0.72	1.0		1.0		0	False
+Factor4	Reactome	Developmental Cell Lineages of the Exocrine Pancreas	21	0	0.84	1.0		1.0		0	False
+Factor4	Reactome	Developmental Cell Lineages	24	0	0.96	1.0		1.0		0	False
+Factor4	Reactome	Defective GALNT3 causes HFTC	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	Defective GALNT12 causes CRCS1	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	Defective C1GALT1C1 causes TNPS	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	Defective B3GALTL causes PpS	28	0	1.12	1.0		1.0		0	False
+Factor4	Reactome	Dectin-2 family	16	0	0.64	1.0		1.0		0	False
+Factor4	Reactome	SUMO E3 ligases SUMOylate target proteins	16	0	0.64	1.0		1.0		0	False
+Factor4	Reactome	SLC-mediated transport of organic anions	19	0	0.76	1.0		1.0		0	False
+Factor4	Reactome	SLC-mediated transport of inorganic anions	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	SLC-mediated transport of amino acids	19	0	0.76	1.0		1.0		0	False
+Factor4	Reactome	SARS-CoV-2-host interactions	13	0	0.52	1.0		1.0		0	False
+Factor4	Reactome	SARS-CoV-1-host interactions	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	SARS-CoV-1 Infection	13	0	0.52	1.0		1.0		0	False
+Factor4	Reactome	Response to elevated platelet cytosolic Ca2+	52	0	2.08	1.0		1.0		0	False
+Factor4	Reactome	Response of endothelial cells to shear stress	14	0	0.56	1.0		1.0		0	False
+Factor4	Reactome	Signaling by BRAF and RAF1 fusions	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	Signaling by BMP	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Signaling by ALK in cancer	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Signaling by ALK fusions and activated point mutants	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Sensory perception of taste	15	0	0.6	1.0		1.0		0	False
+Factor4	Reactome	Sensory perception of sweet, bitter, and umami (glutamate) taste	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	Selenoamino acid metabolism	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	Scavenging of heme from plasma	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Scavenging by Class A Receptors	13	0	0.52	1.0		1.0		0	False
+Factor4	Reactome	SUMOylation of intracellular receptors	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	SUMOylation	16	0	0.64	1.0		1.0		0	False
+Factor4	Reactome	Death Receptor Signaling	16	0	0.64	1.0		1.0		0	False
+Factor4	Reactome	DAP12 interactions	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	DAG and IP3 signaling	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	Crosslinking of collagen fibrils	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	Complement cascade	35	0	1.4	1.0		1.0		0	False
+Factor4	Reactome	Collagen formation	54	0	2.16	1.0		1.0		0	False
+Factor4	Reactome	Collagen degradation	44	0	1.76	1.0		1.0		0	False
+Factor4	Reactome	Collagen chain trimerization	35	0	1.4	1.0		1.0		0	False
+Factor4	Reactome	Collagen biosynthesis and modifying enzymes	42	0	1.68	1.0		1.0		0	False
+Factor4	Reactome	Co-inhibition by PD-1	24	0	0.96	1.0		1.0		0	False
+Factor4	Reactome	Clathrin-mediated endocytosis	30	0	1.2	1.0		1.0		0	False
+Factor4	Reactome	Class I MHC mediated antigen processing & presentation	31	0	1.24	1.0		1.0		0	False
+Factor4	Reactome	Class C/3 (Metabotropic glutamate/pheromone receptors)	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Chromatin organization	20	0	0.8	1.0		1.0		0	False
+Factor4	Reactome	Chemokine receptors bind chemokines	40	0	1.6	1.0		1.0		0	False
+Factor4	Reactome	Cellular responses to mechanical stimuli	19	0	0.76	1.0		1.0		0	False
+Factor4	Reactome	Cell surface interactions at the vascular wall	47	0	1.88	1.0		1.0		0	False
+Factor4	Reactome	Signaling by Non-Receptor Tyrosine Kinases	15	0	0.6	1.0		1.0		0	False
+Factor4	Reactome	Signaling by NOTCH	14	0	0.56	1.0		1.0		0	False
+Factor4	Reactome	Signaling by MET	26	0	1.04	1.0		1.0		0	False
+Factor4	Reactome	Signaling by FGFR1	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Signaling by ERBB4	19	0	0.76	1.0		1.0		0	False
+Factor4	Reactome	Signaling by ERBB2	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Signaling by EGFR	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	Cargo recognition for clathrin-mediated endocytosis	27	0	1.08	1.0		1.0		0	False
+Factor4	Reactome	Cargo concentration in the ER	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Cardiogenesis	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	Calmodulin induced events	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	CaM pathway	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	Ca2+ pathway	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Ca-dependent events	13	0	0.52	1.0		1.0		0	False
+Factor4	Reactome	COPII-mediated vesicle transport	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Signaling by moderate kinase activity BRAF mutants	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Signaling by VEGF	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	Signaling by TGF-beta Receptor Complex	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	Signaling by ROBO receptors	22	0	0.88	1.0		1.0		0	False
+Factor4	Reactome	Signaling by RAS mutants	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Signaling by RAF1 mutants	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Signaling by PTK6	15	0	0.6	1.0		1.0		0	False
+Factor4	Reactome	Signaling by PDGF	20	0	0.8	1.0		1.0		0	False
+Factor4	Reactome	TNFs bind their physiological receptors	21	0	0.84	1.0		1.0		0	False
+Factor4	Reactome	TNFR2 non-canonical NF-kB pathway	26	0	1.04	1.0		1.0		0	False
+Factor4	Reactome	TCR signaling	22	0	0.88	1.0		1.0		0	False
+Factor4	Reactome	Synthesis of substrates in N-glycan biosythesis	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Synthesis of PA	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Syndecan interactions	14	0	0.56	1.0		1.0		0	False
+Factor4	Reactome	Surfactant metabolism	17	0	0.68	1.0		1.0		0	False
+Factor4	Reactome	Striated Muscle Contraction	15	0	0.6	1.0		1.0		0	False
+Factor4	Reactome	Sphingolipid metabolism	20	0	0.8	1.0		1.0		0	False
+Factor4	Reactome	Signaling downstream of RAS mutants	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	CDC42 GTPase cycle	17	0	0.68	1.0		1.0		0	False
+Factor4	Reactome	C-type lectin receptors (CLRs)	25	0	1.0	1.0		1.0		0	False
+Factor4	Reactome	Blood group systems biosynthesis	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Biofilm formation	15	0	0.6	1.0		1.0		0	False
+Factor4	Reactome	Binding and Uptake of Ligands by Scavenger Receptors	27	0	1.08	1.0		1.0		0	False
+Factor4	Reactome	Beta-catenin independent WNT signaling	18	0	0.72	1.0		1.0		0	False
+Factor4	Reactome	Basigin interactions	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	Trafficking of AMPA receptors	11	0	0.44	1.0		1.0		0	False
+Factor4	Reactome	Tight junction interactions	13	0	0.52	1.0		1.0		0	False
+Factor4	Reactome	Thyroxine biosynthesis	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	The phototransduction cascade	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	The canonical retinoid cycle in rods (twilight vision)	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	Termination of O-glycan biosynthesis	13	0	0.52	1.0		1.0		0	False
+Factor4	Reactome	TRP channels	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Attachment of bacteria to epithelial cells	15	0	0.6	1.0		1.0		0	False
+Factor4	Reactome	Assembly of collagen fibrils and other multimeric structures	41	0	1.64	1.0		1.0		0	False
+Factor4	Reactome	Aquaporin-mediated transport	16	0	0.64	1.0		1.0		0	False
+Factor4	Reactome	Antimicrobial peptides	23	0	0.92	1.0		1.0		0	False
+Factor4	Reactome	Antigen processing: Ubiquitination & Proteasome degradation	16	0	0.64	1.0		1.0		0	False
+Factor4	Reactome	Antigen processing-Cross presentation	14	0	0.56	1.0		1.0		0	False
+Factor4	Reactome	Anti-inflammatory response favouring Leishmania parasite infection	18	0	0.72	1.0		1.0		0	False
+Factor4	Reactome	Anchoring fibril formation	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	Activation of G protein gated Potassium channels	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	Voltage gated Potassium channels	29	0	1.16	1.0		1.0		0	False
+Factor4	Reactome	ATP-dependent chromatin remodelers	12	0	0.48	1.0		1.0		0	False
+Factor4	Reactome	ABC-family protein mediated transport	19	0	0.76	1.0		1.0		0	False
+Factor4	Reactome	p75 NTR receptor-mediated signalling	10	0	0.4	1.0		1.0		0	False
+Factor4	Reactome	ABC transporter disorders	11	0	0.44	1.0		1.0		0	False
+Factor4	Hallmark	Xenobiotic Metabolism	77	10	3.08	0.0008826342304364057	ADH1C,ADH7,AKR1C2,AKR1C3,ALDH3A1,CES1,CYP26A1,CYP2C18,CYP2S1,FETUB	0.03265746652614701	0.2	8	False
+Factor4	Hallmark	KRAS Signaling Dn	114	11	4.56	0.005538533613967304	AKR1B10,CCNA1,CHST2,KRT13,KRT15,KRT5,NOS1,PKP1,SCGB1A1,SERPINB2,SPRR3	0.10246287185839513	0.18	10	False
+Factor4	Hallmark	p53 Pathway	31	4	1.24	0.033562329927163015	CLCA2,GPX2,TCHH,TP63	0.41060171289575653	0.25	4	False
+Factor4	Hallmark	Fatty Acid Metabolism	35	4	1.4	0.04940444040181375	ADH1C,ADH7,ALDH1A1,ALDH3A1	0.41060171289575653	0.5	3	True
+Factor4	Hallmark	Pperoxisome	22	3	0.88	0.05548671795888601	ALDH1A1,CACNA1B,SCGB1A1	0.41060171289575653	0.33	3	False
+Factor4	Hallmark	Estrogen Response Late	84	6	3.36	0.118502764682908	CCNA1,CYP4F11,HR,KRT13,RAPGEFL1,TH	0.6597893743961258	0.33	5	False
+Factor4	Hallmark	Estrogen Response Early	69	5	2.76	0.14085562661564713	GFRA1,HR,KRT13,KRT15,RAPGEFL1	0.6597893743961258	0.6	3	True
+Factor4	Hallmark	Pancreas Beta Cells	17	2	0.68	0.14632590507516102	PAX6,PCSK2	0.6597893743961258	0.5	2	True
+Factor4	Hallmark	Apical Surface	18	2	0.72	0.1604893072855441	PCSK9,RHCG	0.6597893743961258	0.5	2	True
+Factor4	Hallmark	Spermatogenesis	42	3	1.68	0.23531965806073868	ALOX15,CCNA1,NOS1	0.8706827348247332	0.33	3	False
+Factor4	Hallmark	Glycolysis	45	3	1.8	0.2679347555222918	ARTN,CHST2,GPC3	0.9012350867567996	0.33	3	False
+Factor4	Hallmark	Hypoxia	55	3	2.2	0.3785985889903503	CHST2,GPC3,PKP1	1.0	0.33	3	False
+Factor4	Hallmark	Cholesterol Homeostasis	12	1	0.48	0.38762766850313773	GSTM2	1.0		1	False
+Factor4	Hallmark	UV Response Up	40	2	1.6	0.47976727816788695	PTPRD,TCHH	1.0	0.5	2	True
+Factor4	Hallmark	Bile Acid Metabolism	40	2	1.6	0.47976727816788695	ALDH1A1,CH25H	1.0	0.5	2	True
+Factor4	Hallmark	PI3K/AKT/mTOR  Signaling	17	1	0.68	0.5009803433381683	MAPK10	1.0		1	False
+Factor4	Hallmark	Coagulation	67	3	2.68	0.5059684069781997	GDA,P2RY1,SERPINB2	1.0	0.33	3	False
+Factor4	Hallmark	Inflammatory Response	90	3	3.6	0.7055749400014361	CHST2,GPC3,KCNMB2	1.0	0.33	3	False
+Factor4	Hallmark	Apical Junction	69	2	2.76	0.770373409918	ADAM23,DSC3	1.0	0.5	2	True
+Factor4	Hallmark	Apoptosis	36	1	1.44	0.7711909140925446	CCNA1	1.0		1	False
+Factor4	Hallmark	Complement	72	2	2.88	0.790535592764036	PCSK9,SERPINB2	1.0	0.5	2	True
+Factor4	Hallmark	Myogenesis	77	2	3.08	0.8206967155948828	FST,NOS1	1.0	0.5	2	True
+Factor4	Hallmark	Interferon Gamma Response	48	1	1.92	0.860392024065789	GBP6	1.0		1	False
+Factor4	Hallmark	TNF-alpha Signaling via NF-kB	60	1	2.4	0.9149222916996471	SERPINB2	1.0		1	False
+Factor4	Hallmark	Allograft Rejection	86	1	3.44	0.9710304218187277	NOS2	1.0		1	False
+Factor4	Hallmark	KRAS Signaling Up	103	1	4.12	0.9857223643655652	ADAM8	1.0		1	False
+Factor4	Hallmark	mTORC1 Signaling	20	0	0.8	1.0		1.0		0	False
+Factor4	Hallmark	Interferon Alpha Response	14	0	0.56	1.0		1.0		0	False
+Factor4	Hallmark	Hedgehog Signaling	14	0	0.56	1.0		1.0		0	False
+Factor4	Hallmark	IL-6/JAK/STAT3 Signaling	27	0	1.08	1.0		1.0		0	False
+Factor4	Hallmark	Androgen Response	17	0	0.68	1.0		1.0		0	False
+Factor4	Hallmark	Adipogenesis	24	0	0.96	1.0		1.0		0	False
+Factor4	Hallmark	IL-2/STAT5 Signaling	53	0	2.12	1.0		1.0		0	False
+Factor4	Hallmark	UV Response Dn	34	0	1.36	1.0		1.0		0	False
+Factor4	Hallmark	Angiogenesis	17	0	0.68	1.0		1.0		0	False
+Factor4	Hallmark	heme Metabolism	30	0	1.2	1.0		1.0		0	False
+Factor4	Hallmark	Epithelial Mesenchymal Transition	104	0	4.16	1.0		1.0		0	False
+Factor5	Reactome	Formation of the cornified envelope	74	16	2.96	2.0482493190510325e-08	DSC3,DSG3,IVL,KLK8,KRT14,KRT16,KRT17,KRT5,KRT6A,KRT6B,KRT6C,PI3,SPRR1A,SPRR1B,SPRR2D,SPRR3	9.688219279111383e-06	0.31	6	False
+Factor5	Reactome	Keratinization	78	16	3.12	4.5447261907884605e-08	DSC3,DSG3,IVL,KLK8,KRT14,KRT16,KRT17,KRT5,KRT6A,KRT6B,KRT6C,PI3,SPRR1A,SPRR1B,SPRR2D,SPRR3	1.074827744121471e-05	0.31	6	False
+Factor5	Reactome	Gap junction trafficking	14	6	0.56	8.728104619063458e-06	GJB2,GJB3,GJB4,GJB5,GJB6,TUBB2B	0.0008256786969634032	0.5	3	True
+Factor5	Reactome	Gap junction trafficking and regulation	14	6	0.56	8.728104619063458e-06	GJB2,GJB3,GJB4,GJB5,GJB6,TUBB2B	0.0008256786969634032	0.5	3	True
+Factor5	Reactome	Gap junction assembly	14	6	0.56	8.728104619063458e-06	GJB2,GJB3,GJB4,GJB5,GJB6,TUBB2B	0.0008256786969634032	0.5	3	True
+Factor5	Reactome	Developmental Biology	412	33	16.48	7.103057888921768e-05	BCL2,DKK1,DOK6,DSC3,DSCAML1,DSG3,GFRA1,GFRA3,INSM1,IVL,KIT,KLK8,KRT14,KRT16,KRT17,KRT5,KRT6A,KRT6B,KRT6C,LAMC2,MYRIP,NCAM1,PAX7,PI3,PRDM16,RET,SEMA3E,SPRR1A,SPRR1B,SPRR2D,SPRR3,TFAP2B,TUBB2B	0.005599577302433327	0.15	23	False
+Factor5	Reactome	Diseases associated with surfactant metabolism	10	4	0.4	0.0004315537072871233	ABCA3,SFTA3,SFTPB,SFTPC	0.029160700506687044	0.25	4	False
+Factor5	Reactome	Vesicle-mediated transport	104	12	4.16	0.000815792759682951	EREG,GJB2,GJB3,GJB4,GJB5,GJB6,KIF1A,KIF5C,LRP2,S100A9,SAA1,TUBB2B	0.04625067084768252	0.25	9	False
+Factor5	Reactome	RET signaling	12	4	0.48	0.0009548716840654464	DOK6,GFRA1,GFRA3,RET	0.04625067084768252	0.25	4	False
+Factor5	Reactome	Membrane Trafficking	78	10	3.12	0.000977815451325212	EREG,GJB2,GJB3,GJB4,GJB5,GJB6,KIF1A,KIF5C,LRP2,TUBB2B	0.04625067084768252	0.3	7	False
+Factor5	Reactome	Antimicrobial peptides	23	5	0.92	0.0018178992146301186	PI3,PRSS3,S100A7,S100A8,S100A9	0.0781696662290951	0.6	3	True
+Factor5	Reactome	Surfactant metabolism	17	4	0.68	0.003922291244672673	ABCA3,SFTA3,SFTPB,SFTPC	0.15460364656084788	0.25	4	False
+Factor5	Reactome	Programmed Cell Death	20	4	0.8	0.007268600388556237	BCL2,DSG3,IL1A,TP63	0.26306604045575	0.25	4	False
+Factor5	Reactome	ABC transporter disorders	11	3	0.44	0.00819991931853518	ABCA3,ABCC8,KCNJ11	0.26306604045575	0.67	2	True
+Factor5	Reactome	Regulation of insulin secretion	21	4	0.84	0.008702756731477548	ABCC8,ADCY5,CACNA2D2,KCNJ11	0.26306604045575	0.5	3	True
+Factor5	Reactome	RAF/MAP kinase cascade	74	8	2.96	0.008898639846283299	CAMK2B,EREG,GFRA1,GFRA3,KIT,KSR2,NCAM1,RET	0.26306604045575	0.12	8	False
+Factor5	Reactome	MAPK1/MAPK3 signaling	75	8	3.0	0.009628954666663955	CAMK2B,EREG,GFRA1,GFRA3,KIT,KSR2,NCAM1,RET	0.26424986756861757	0.12	8	False
+Factor5	Reactome	Disease	365	24	14.6	0.0100560203303068	ABCA3,ABCC8,ADAMTS18,ADCY5,ANO1,CAMK2B,DKK1,EREG,GBP6,GPC5,IL1A,KCNJ11,KIT,KSR2,LAMC2,MUC16,PAH,S100A8,S100A9,SFTA3,SFTPB,SFTPC,SV2A,TUBB2B	0.26424986756861757	0.08	22	False
+Factor5	Reactome	Post-translational modification: synthesis of GPI-anchored proteins	49	6	1.96	0.012658193272491404	CNTN4,LY6D,LY6K,LYPD3,NRN1,PSCA	0.31512239041518075	0.5	4	True
+Factor5	Reactome	Kinesins	14	3	0.56	0.016558211607329423	KIF1A,KIF5C,TUBB2B	0.3637131657548118	0.33	3	False
+Factor5	Reactome	COPI-dependent Golgi-to-ER retrograde traffic	14	3	0.56	0.016558211607329423	KIF1A,KIF5C,TUBB2B	0.3637131657548118	0.33	3	False
+Factor5	Reactome	MAPK family signaling cascades	83	8	3.32	0.017172922181598053	CAMK2B,EREG,GFRA1,GFRA3,KIT,KSR2,NCAM1,RET	0.3637131657548118	0.12	8	False
+Factor5	Reactome	Metabolism of proteins	343	22	13.72	0.01768584104093165	ABCA3,ADAMTS18,CALCA,CNTN4,KIF5C,LY6D,LY6K,LYPD3,MMP1,MUC16,MYRIP,NRN1,PCSK2,PSCA,SAA1,SFTA3,SFTPB,SFTPC,TFAP2B,TUBB2B,USP44,ZBTB16	0.3637131657548118	0.14	20	False
+Factor5	Reactome	Integration of energy metabolism	26	4	1.04	0.01860807742247361	ABCC8,ADCY5,CACNA2D2,KCNJ11	0.366734192534584	0.5	3	True
+Factor5	Reactome	Apoptosis	16	3	0.64	0.024022850227996863	BCL2,DSG3,TP63	0.44667144620745763	0.33	3	False
+Factor5	Reactome	Neuronal System	197	14	7.88	0.025334749659365868	ABCC8,ADCY5,APBA2,CACNA2D2,CAMK2B,DLGAP1,GRIN3B,KCNB2,KCNH2,KCNJ11,NRXN3,PPM1E,SYN3,TUBB2B	0.44667144620745763	0.14	13	False
+Factor5	Reactome	Diseases of metabolism	90	8	3.6	0.02665767893417883	ABCA3,ADAMTS18,GPC5,MUC16,PAH,SFTA3,SFTPB,SFTPC	0.44667144620745763	0.12	8	False
+Factor5	Reactome	Toll Like Receptor TLR6:TLR2 Cascade	17	3	0.68	0.02833011286728061	S100A8,S100A9,SAA1	0.44667144620745763	0.67	2	True
+Factor5	Reactome	MyD88:MAL(TIRAP) cascade initiated on plasma membrane	17	3	0.68	0.02833011286728061	S100A8,S100A9,SAA1	0.44667144620745763	0.67	2	True
+Factor5	Reactome	Golgi-to-ER retrograde transport	17	3	0.68	0.02833011286728061	KIF1A,KIF5C,TUBB2B	0.44667144620745763	0.33	3	False
+Factor5	Reactome	Intra-Golgi and retrograde Golgi-to-ER traffic	18	3	0.72	0.033018687392097075	KIF1A,KIF5C,TUBB2B	0.4678712603612041	0.33	3	False
+Factor5	Reactome	Assembly and cell surface presentation of NMDA receptors	18	3	0.72	0.033018687392097075	CAMK2B,GRIN3B,TUBB2B	0.4678712603612041	0.33	3	False
+Factor5	Reactome	Metabolism of vitamins and cofactors	46	5	1.84	0.03531753754904843	AKR1B10,GPC5,LRP2,PRSS3,TCN1	0.4678712603612041	0.2	5	False
+Factor5	Reactome	Cytokine Signaling in Immune system	188	13	7.52	0.03704878766788588	BCL2,CAMK2B,CRLF1,GBP6,IL1A,IL20RB,MMP1,MMP3,NCAM1,SAA1,SERPINB2,TRIM29,TUBB2B	0.4678712603612041	0.15	11	False
+Factor5	Reactome	Extra-nuclear estrogen signaling	19	3	0.76	0.03808476180777399	BCL2,EREG,MMP3	0.4678712603612041	0.33	3	False
+Factor5	Reactome	Interleukin-4 and Interleukin-13 signaling	47	5	1.88	0.03828614249211137	BCL2,IL1A,MMP1,MMP3,SAA1	0.4678712603612041	0.4	4	False
+Factor5	Reactome	Interferon gamma signaling	33	4	1.32	0.041047720453147585	CAMK2B,GBP6,NCAM1,TRIM29	0.4678712603612041	0.25	4	False
+Factor5	Reactome	Activation of NMDA receptors and postsynaptic events	33	4	1.32	0.041047720453147585	CAMK2B,GRIN3B,PPM1E,TUBB2B	0.4678712603612041	0.25	4	False
+Factor5	Reactome	Degradation of the extracellular matrix	81	7	3.24	0.042205090879052734	ADAMTS18,COL17A1,FBN3,KLK7,LAMC2,MMP1,MMP3	0.4678712603612041	0.29	6	False
+Factor5	Reactome	Retinoid metabolism and transport	20	3	0.8	0.04352290794057712	AKR1B10,GPC5,LRP2	0.4678712603612041	0.33	3	False
+Factor5	Reactome	Metabolism of fat-soluble vitamins	20	3	0.8	0.04352290794057712	AKR1B10,GPC5,LRP2	0.4678712603612041	0.33	3	False
+Factor5	Reactome	Toll Like Receptor 2 (TLR2) Cascade	20	3	0.8	0.04352290794057712	S100A8,S100A9,SAA1	0.4678712603612041	0.67	2	True
+Factor5	Reactome	Signaling by Hedgehog	20	3	0.8	0.04352290794057712	ADCY5,GPC5,TUBB2B	0.4678712603612041	0.33	3	False
+Factor5	Reactome	Toll Like Receptor TLR1:TLR2 Cascade	20	3	0.8	0.04352290794057712	S100A8,S100A9,SAA1	0.4678712603612041	0.67	2	True
+Factor5	Reactome	Opioid Signalling	21	3	0.84	0.04932626647542705	ADCY5,CAMK2B,PPP1R1B	0.5184738676194888	0.33	3	False
+Factor5	Reactome	Paradoxical activation of RAF signaling by kinase inactive BRAF	10	2	0.4	0.05798716814549041	CAMK2B,KSR2	0.5274602025541724	0.5	2	True
+Factor5	Reactome	Interleukin-1 signaling	10	2	0.4	0.05798716814549041	IL1A,SAA1	0.5274602025541724	0.5	2	True
+Factor5	Reactome	Signaling by RAF1 mutants	10	2	0.4	0.05798716814549041	CAMK2B,KSR2	0.5274602025541724	0.5	2	True
+Factor5	Reactome	Estrogen-dependent nuclear events downstream of ESR-membrane signaling	10	2	0.4	0.05798716814549041	BCL2,EREG	0.5274602025541724	0.5	2	True
+Factor5	Reactome	Signaling by RAS mutants	10	2	0.4	0.05798716814549041	CAMK2B,KSR2	0.5274602025541724	0.5	2	True
+Factor5	Reactome	Signaling downstream of RAS mutants	10	2	0.4	0.05798716814549041	CAMK2B,KSR2	0.5274602025541724	0.5	2	True
+Factor5	Reactome	Signaling by moderate kinase activity BRAF mutants	10	2	0.4	0.05798716814549041	CAMK2B,KSR2	0.5274602025541724	0.5	2	True
+Factor5	Reactome	Interferon Signaling	54	5	2.16	0.0632629457429818	CAMK2B,GBP6,NCAM1,TRIM29,TUBB2B	0.5443520596030598	0.2	5	False
+Factor5	Reactome	Visual phototransduction	38	4	1.52	0.06356095819303695	AKR1B10,GPC5,LRP2,PDE6B	0.5443520596030598	0.25	4	False
+Factor5	Reactome	Signaling by Receptor Tyrosine Kinases	145	10	5.8	0.06394592740188265	ASCL1,ATP6V1B1,EREG,FAM83A,FGFBP1,FOSL1,KIT,LAMC2,THBS4,TNS4	0.5443520596030598	0.1	10	False
+Factor5	Reactome	Metabolism of water-soluble vitamins and cofactors	24	3	0.96	0.06884105611539751	LRP2,PRSS3,TCN1	0.5443520596030598	0.33	3	False
+Factor5	Reactome	Hedgehog 'off' state	11	2	0.44	0.06905100121814711	ADCY5,TUBB2B	0.5443520596030598	0.5	2	True
+Factor5	Reactome	Vasopressin regulates renal water homeostasis via Aquaporins	11	2	0.44	0.06905100121814711	ADCY5,AQP4	0.5443520596030598	0.5	2	True
+Factor5	Reactome	Signaling by BRAF and RAF1 fusions	11	2	0.44	0.06905100121814711	CAMK2B,KSR2	0.5443520596030598	0.5	2	True
+Factor5	Reactome	Diseases associated with the TLR signaling cascade	11	2	0.44	0.06905100121814711	S100A8,S100A9	0.5443520596030598	1.0	1	True
+Factor5	Reactome	Signaling by Interleukins	111	8	4.44	0.07529261963142192	BCL2,CRLF1,IL1A,IL20RB,MMP1,MMP3,SAA1,SERPINB2	0.5455596488830466	0.25	6	False
+Factor5	Reactome	Amyloid fiber formation	12	2	0.48	0.0807382144224382	CALCA,SAA1	0.5455596488830466	0.5	2	True
+Factor5	Reactome	DAG and IP3 signaling	12	2	0.48	0.0807382144224382	ADCY5,CAMK2B	0.5455596488830466	0.5	2	True
+Factor5	Reactome	Specification of the neural plate border	12	2	0.48	0.0807382144224382	PAX7,TFAP2B	0.5455596488830466	0.5	2	True
+Factor5	Reactome	Signaling by EGFR	12	2	0.48	0.0807382144224382	EREG,FAM83A	0.5455596488830466	0.5	2	True
+Factor5	Reactome	Negative regulation of NMDA receptor-mediated neuronal transmission	12	2	0.48	0.0807382144224382	CAMK2B,PPM1E	0.5455596488830466	0.5	2	True
+Factor5	Reactome	Negative regulation of TCF-dependent signaling by WNT ligand antagonists	12	2	0.48	0.0807382144224382	DKK1,WIF1	0.5455596488830466	0.5	2	True
+Factor5	Reactome	CaM pathway	12	2	0.48	0.0807382144224382	ADCY5,CAMK2B	0.5455596488830466	0.5	2	True
+Factor5	Reactome	Calmodulin induced events	12	2	0.48	0.0807382144224382	ADCY5,CAMK2B	0.5455596488830466	0.5	2	True
+Factor5	Reactome	Oncogenic MAPK signaling	12	2	0.48	0.0807382144224382	CAMK2B,KSR2	0.5455596488830466	0.5	2	True
+Factor5	Reactome	Factors involved in megakaryocyte development and platelet production	26	3	1.04	0.08350146133379657	KIF1A,KIF5C,TUBB2B	0.5485582112623024	0.33	3	False
+Factor5	Reactome	Toll Like Receptor 4 (TLR4) Cascade	26	3	1.04	0.08350146133379657	S100A8,S100A9,SAA1	0.5485582112623024	0.67	2	True
+Factor5	Reactome	Ca-dependent events	13	2	0.52	0.0929817992985527	ADCY5,CAMK2B	0.5864052142428723	0.5	2	True
+Factor5	Reactome	Regulation of TLR by endogenous ligand	13	2	0.52	0.0929817992985527	S100A8,S100A9	0.5864052142428723	1.0	1	True
+Factor5	Reactome	Diseases of Immune System	13	2	0.52	0.0929817992985527	S100A8,S100A9	0.5864052142428723	1.0	1	True
+Factor5	Reactome	Cell junction organization	61	5	2.44	0.09556594210480313	COL17A1,KRT14,KRT5,LAMC2,SDK1	0.5947722449417352	0.2	5	False
+Factor5	Reactome	Ion channel transport	62	5	2.48	0.10075855068987691	ANO1,ATP6V1B1,ATP8B3,CAMK2B,CLCA2	0.6173471263111959	0.2	5	False
+Factor5	Reactome	Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors	14	2	0.56	0.10571906391375659	KIT,TFAP2B	0.6173471263111959	0.5	2	True
+Factor5	Reactome	NGF-stimulated transcription	14	2	0.56	0.10571906391375659	ASCL1,FOSL1	0.6173471263111959	0.5	2	True
+Factor5	Reactome	Inwardly rectifying K+ channels	14	2	0.56	0.10571906391375659	ABCC8,KCNJ11	0.6173471263111959	1.0	1	True
+Factor5	Reactome	Antigen processing-Cross presentation	14	2	0.56	0.10571906391375659	S100A8,S100A9	0.6173471263111959	1.0	1	True
+Factor5	Reactome	Neurexins and neuroligins	29	3	1.16	0.10772931780099136	APBA2,DLGAP1,NRXN3	0.6214142356081575	0.33	3	False
+Factor5	Reactome	ESR-mediated signaling	30	3	1.2	0.11634975582093815	BCL2,EREG,MMP3	0.6463865636957682	0.33	3	False
+Factor5	Reactome	Nuclear Events (kinase and transcription factor activation)	15	2	0.6	0.11889139755080726	ASCL1,FOSL1	0.6463865636957682	0.5	2	True
+Factor5	Reactome	PLC beta mediated events	15	2	0.6	0.11889139755080726	ADCY5,CAMK2B	0.6463865636957682	0.5	2	True
+Factor5	Reactome	Signaling by PTK6	15	2	0.6	0.11889139755080726	EREG,KHDRBS2	0.6463865636957682	0.5	2	True
+Factor5	Reactome	Signaling by Non-Receptor Tyrosine Kinases	15	2	0.6	0.11889139755080726	EREG,KHDRBS2	0.6463865636957682	0.5	2	True
+Factor5	Reactome	Class I MHC mediated antigen processing & presentation	31	3	1.24	0.12521983716669985	S100A8,S100A9,ZBTB16	0.6654941907848205	0.67	2	True
+Factor5	Reactome	RHO GTPase Effectors	31	3	1.24	0.12521983716669985	S100A8,S100A9,TUBB2B	0.6654941907848205	0.67	2	True
+Factor5	Reactome	Transport of small molecules	230	13	9.2	0.129610479376734	ABCA3,ADCY5,ANO1,AQP4,ATP6V1B1,ATP8B3,CAMK2B,CLCA2,ESYT3,KCNJ11,RHCG,SLC13A5,SLC14A2	0.6809351555503289	0.08	13	False
+Factor5	Reactome	Aquaporin-mediated transport	16	2	0.64	0.1324440471683515	ADCY5,AQP4	0.6809351555503289	0.5	2	True
+Factor5	Reactome	G-protein mediated events	16	2	0.64	0.1324440471683515	ADCY5,CAMK2B	0.6809351555503289	0.5	2	True
+Factor5	Reactome	Toll-like Receptor Cascades	32	3	1.28	0.13432573423640237	S100A8,S100A9,SAA1	0.6831835730518099	0.67	2	True
+Factor5	Reactome	Cell-Cell communication	69	5	2.76	0.14085562661564713	COL17A1,KRT14,KRT5,LAMC2,SDK1	0.7028438226242643	0.2	5	False
+Factor5	Reactome	Infectious disease	149	9	5.96	0.14116313562220953	ADCY5,ANO1,CAMK2B,GBP6,GPC5,IL1A,LAMC2,SV2A,TUBB2B	0.7028438226242643	0.11	9	False
+Factor5	Reactome	Interleukin-1 family signaling	17	2	0.68	0.14632590507516102	IL1A,SAA1	0.7135273515520738	0.5	2	True
+Factor5	Reactome	Dengue Virus-Host Interactions	17	2	0.68	0.14632590507516102	CAMK2B,GPC5	0.7135273515520738	0.5	2	True
+Factor5	Reactome	Activation of Matrix Metalloproteinases	18	2	0.72	0.1604893072855441	MMP1,MMP3	0.7678986365305188	1.0	1	True
+Factor5	Reactome	Signaling by WNT	53	4	2.12	0.1607229704366202	DKK1,PDE6B,WIF1,WNT7A	0.7678986365305188	0.25	4	False
+Factor5	Reactome	Transmission across Chemical Synapses	113	7	4.52	0.16531375429214432	ADCY5,CACNA2D2,CAMK2B,GRIN3B,PPM1E,SYN3,TUBB2B	0.7819340578018427	0.14	7	False
+Factor5	Reactome	Bacterial Infection Pathways	36	3	1.44	0.17282919905986327	GBP6,LAMC2,SV2A	0.8093882292605479	0.33	3	False
+Factor5	Reactome	ABC-family protein mediated transport	19	2	0.76	0.17488984204763458	ABCA3,KCNJ11	0.8110087773385408	0.5	2	True
+Factor5	Reactome	Diseases of signal transduction by growth factor receptors and second messengers	75	5	3.0	0.1799120980877118	CAMK2B,DKK1,EREG,KIT,KSR2	0.8261982756843465	0.2	5	False
+Factor5	Reactome	Peptide hormone metabolism	37	3	1.48	0.18290578381373068	KIF5C,MYRIP,PCSK2	0.8318695744605251	0.33	3	False
+Factor5	Reactome	Phase 0 - rapid depolarisation	20	2	0.8	0.18948616805952986	CACNA2D2,CAMK2B	0.8331534754143798	0.5	2	True
+Factor5	Reactome	Formation of the ureteric bud	20	2	0.8	0.18948616805952986	GFRA1,RET	0.8331534754143798	0.5	2	True
+Factor5	Reactome	Chromatin organization	20	2	0.8	0.18948616805952986	PADI1,PRDM16	0.8331534754143798	0.5	2	True
+Factor5	Reactome	MITF-M-regulated melanocyte development	38	3	1.52	0.19313534029550444	BCL2,KIT,MYRIP	0.8331534754143798	0.33	3	False
+Factor5	Reactome	Neurotransmitter receptors and postsynaptic signal transmission	77	5	3.08	0.19375662218939063	ADCY5,CAMK2B,GRIN3B,PPM1E,TUBB2B	0.8331534754143798	0.2	5	False
+Factor5	Reactome	Cellular responses to stress	77	5	3.08	0.19375662218939063	ATP6V1B1,BCL2,CAMK2B,IL1A,TUBB2B	0.8331534754143798	0.2	5	False
+Factor5	Reactome	Axon guidance	140	8	5.6	0.19672066210189362	DOK6,DSCAML1,GFRA1,GFRA3,NCAM1,RET,SEMA3E,TUBB2B	0.8382781367044656	0.12	8	False
+Factor5	Reactome	Disorders of transmembrane transporters	39	3	1.56	0.2035045115086956	ABCA3,ABCC8,KCNJ11	0.8400473497709642	0.67	2	True
+Factor5	Reactome	Ion transport by P-type ATPases	21	2	0.84	0.2042398419104881	ATP8B3,CAMK2B	0.8400473497709642	0.5	2	True
+Factor5	Reactome	MET promotes cell motility	21	2	0.84	0.2042398419104881	LAMC2,TNS4	0.8400473497709642	0.5	2	True
+Factor5	Reactome	Infection with Enterobacteria	21	2	0.84	0.2042398419104881	GBP6,LAMC2	0.8400473497709642	0.5	2	True
+Factor5	Reactome	Class B/2 (Secretin family receptors)	40	3	1.6	0.21400016427446358	CALCA,CALCB,WNT7A	0.8709367057695104	0.67	2	True
+Factor5	Reactome	Potassium Channels	60	4	2.4	0.21783415444134693	ABCC8,KCNB2,KCNH2,KCNJ11	0.8709367057695104	0.5	3	True
+Factor5	Reactome	Signaling by NTRK1 (TRKA)	22	2	0.88	0.21911515430564849	ASCL1,FOSL1	0.8709367057695104	0.5	2	True
+Factor5	Reactome	Ion homeostasis	22	2	0.88	0.21911515430564849	CAMK2B,KCNJ11	0.8709367057695104	0.5	2	True
+Factor5	Reactome	Assembly of collagen fibrils and other multimeric structures	41	3	1.64	0.22460941599843512	COL17A1,LAMC2,MMP3	0.8853354480604985	0.33	3	False
+Factor5	Reactome	Cellular responses to stimuli	103	6	4.12	0.22938455745290995	ADCY5,ATP6V1B1,BCL2,CAMK2B,IL1A,TUBB2B	0.8966850882250116	0.17	6	False
+Factor5	Reactome	Nervous system development	147	8	5.88	0.23415520317462346	DOK6,DSCAML1,GFRA1,GFRA3,NCAM1,RET,SEMA3E,TUBB2B	0.9078312385376794	0.12	8	False
+Factor5	Reactome	Intracellular signaling by second messengers	64	4	2.56	0.25264321258321154	ADCY5,CAMK2B,EREG,KIT	0.9659393927249619	0.25	4	False
+Factor5	Reactome	Protein-protein interactions at synapses	44	3	1.76	0.2569941673534544	APBA2,DLGAP1,NRXN3	0.9659393927249619	0.33	3	False
+Factor5	Reactome	Collagen degradation	44	3	1.76	0.2569941673534544	COL17A1,MMP1,MMP3	0.9659393927249619	0.67	2	True
+Factor5	Reactome	Processing of antigen in germinal center B cells	25	2	1.0	0.26415163321281177	KIF5C,TUBB2B	0.9659393927249619	0.5	2	True
+Factor5	Reactome	MITF-M-dependent gene expression	25	2	1.0	0.26415163321281177	BCL2,MYRIP	0.9659393927249619	0.5	2	True
+Factor5	Reactome	Sensory Perception	87	5	3.48	0.2677871378213856	AKR1B10,CACNA2D2,GPC5,LRP2,PDE6B	0.9659393927249619	0.2	5	False
+Factor5	Reactome	Signaling by MET	26	2	1.04	0.27920581420272955	LAMC2,TNS4	0.9659393927249619	0.5	2	True
+Factor5	Reactome	NCAM1 interactions	26	2	1.04	0.27920581420272955	GFRA1,NCAM1	0.9659393927249619	0.5	2	True
+Factor5	Reactome	Cardiac conduction	67	4	2.68	0.2794691716074424	CACNA2D2,CAMK2B,KCNH2,KCNJ11	0.9659393927249619	0.25	4	False
+Factor5	Reactome	Dengue Virus Infection	27	2	1.08	0.29423893023492964	CAMK2B,GPC5	0.9659393927249619	0.5	2	True
+Factor5	Reactome	Binding and Uptake of Ligands by Scavenger Receptors	27	2	1.08	0.29423893023492964	S100A9,SAA1	0.9659393927249619	0.5	2	True
+Factor5	Reactome	Cargo recognition for clathrin-mediated endocytosis	27	2	1.08	0.29423893023492964	EREG,LRP2	0.9659393927249619	0.5	2	True
+Factor5	Reactome	Post NMDA receptor activation events	28	2	1.12	0.3092286786026642	CAMK2B,TUBB2B	0.9659393927249619	0.5	2	True
+Factor5	Reactome	MHC class II antigen presentation	28	2	1.12	0.3092286786026642	KIF5C,TUBB2B	0.9659393927249619	0.5	2	True
+Factor5	Reactome	SARS-CoV-2 Infection	28	2	1.12	0.3092286786026642	ANO1,GPC5	0.9659393927249619	0.5	2	True
+Factor5	Reactome	Extracellular matrix organization	161	8	6.44	0.31530838289045027	ADAMTS18,COL17A1,FBN3,KLK7,LAMC2,MMP1,MMP3,NCAM1	0.9659393927249619	0.25	7	False
+Factor5	Reactome	Post-translational protein modification	254	12	10.16	0.3167906343743488	ADAMTS18,CNTN4,LY6D,LY6K,LYPD3,MUC16,NRN1,PSCA,TFAP2B,TUBB2B,USP44,ZBTB16	0.9659393927249619	0.25	10	False
+Factor5	Reactome	NCAM signaling for neurite out-growth	29	2	1.16	0.32415455718056596	GFRA1,NCAM1	0.9659393927249619	0.5	2	True
+Factor5	Reactome	Voltage gated Potassium channels	29	2	1.16	0.32415455718056596	KCNB2,KCNH2	0.9659393927249619	0.5	2	True
+Factor5	Reactome	G alpha (s) signalling events	51	3	2.04	0.3343331262573577	ADCY5,CALCA,CALCB	0.9659393927249619	0.67	2	True
+Factor5	Reactome	Macroautophagy	10	1	0.4	0.3354169522286917	TUBB2B	0.9659393927249619		1	False
+Factor5	Reactome	M Phase	10	1	0.4	0.3354169522286917	TUBB2B	0.9659393927249619		1	False
+Factor5	Reactome	Toll Like Receptor 7/8 (TLR7/8) Cascade	10	1	0.4	0.3354169522286917	SAA1	0.9659393927249619		1	False
+Factor5	Reactome	PKR-mediated signaling	10	1	0.4	0.3354169522286917	TUBB2B	0.9659393927249619		1	False
+Factor5	Reactome	Toll Like Receptor 3 (TLR3) Cascade	10	1	0.4	0.3354169522286917	SAA1	0.9659393927249619		1	False
+Factor5	Reactome	The phototransduction cascade	10	1	0.4	0.3354169522286917	PDE6B	0.9659393927249619		1	False
+Factor5	Reactome	Ub-specific processing proteases	10	1	0.4	0.3354169522286917	USP44	0.9659393927249619		1	False
+Factor5	Reactome	HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand	10	1	0.4	0.3354169522286917	TUBB2B	0.9659393927249619		1	False
+Factor5	Reactome	Initiation of coagulation cascade	10	1	0.4	0.3354169522286917	GPC5	0.9659393927249619		1	False
+Factor5	Reactome	Inactivation, recovery and regulation of the phototransduction cascade	10	1	0.4	0.3354169522286917	PDE6B	0.9659393927249619		1	False
+Factor5	Reactome	Iron uptake and transport	10	1	0.4	0.3354169522286917	ATP6V1B1	0.9659393927249619		1	False
+Factor5	Reactome	Late SARS-CoV-2 Infection Events	10	1	0.4	0.3354169522286917	ANO1	0.9659393927249619		1	False
+Factor5	Reactome	RSV-host interactions	10	1	0.4	0.3354169522286917	GPC5	0.9659393927249619		1	False
+Factor5	Reactome	Ca2+ pathway	10	1	0.4	0.3354169522286917	PDE6B	0.9659393927249619		1	False
+Factor5	Reactome	CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling	10	1	0.4	0.3354169522286917	CAMK2B	0.9659393927249619		1	False
+Factor5	Reactome	Signaling by ERBB2	10	1	0.4	0.3354169522286917	EREG	0.9659393927249619		1	False
+Factor5	Reactome	Signaling by FGFR2	10	1	0.4	0.3354169522286917	FGFBP1	0.9659393927249619		1	False
+Factor5	Reactome	Dopamine Neurotransmitter Release Cycle	10	1	0.4	0.3354169522286917	SYN3	0.9659393927249619		1	False
+Factor5	Reactome	FGFR2 ligand binding and activation	10	1	0.4	0.3354169522286917	FGFBP1	0.9659393927249619		1	False
+Factor5	Reactome	Digestion	10	1	0.4	0.3354169522286917	CHIA	0.9659393927249619		1	False
+Factor5	Reactome	Assembly of the 9+0 primary cilium	10	1	0.4	0.3354169522286917	TUBB2B	0.9659393927249619		1	False
+Factor5	Reactome	Signaling by NTRKs	30	2	1.2	0.3389977572776822	ASCL1,FOSL1	0.9659393927249619	0.5	2	True
+Factor5	Reactome	Clathrin-mediated endocytosis	30	2	1.2	0.3389977572776822	EREG,LRP2	0.9659393927249619	0.5	2	True
+Factor5	Reactome	TCF dependent signaling in response to WNT	30	2	1.2	0.3389977572776822	DKK1,WIF1	0.9659393927249619	0.5	2	True
+Factor5	Reactome	Signaling by Rho GTPases	75	4	3.0	0.3526636221105936	PLEKHG4B,S100A8,S100A9,TUBB2B	0.9785790164969704	0.5	3	True
+Factor5	Reactome	Signaling by Rho GTPases, Miro GTPases and RHOBTB3	76	4	3.04	0.3618789854169017	PLEKHG4B,S100A8,S100A9,TUBB2B	0.9785790164969704	0.5	3	True
+Factor5	Reactome	Trafficking of AMPA receptors	11	1	0.44	0.36205354732974593	CAMK2B	0.9785790164969704		1	False
+Factor5	Reactome	Glutamate binding, activation of AMPA receptors and synaptic plasticity	11	1	0.44	0.36205354732974593	CAMK2B	0.9785790164969704		1	False
+Factor5	Reactome	Respiratory Syncytial Virus Infection Pathway	11	1	0.44	0.36205354732974593	GPC5	0.9785790164969704		1	False
+Factor5	Reactome	Basigin interactions	11	1	0.44	0.36205354732974593	MMP1	0.9785790164969704		1	False
+Factor5	Reactome	Metabolism of steroid hormones	11	1	0.44	0.36205354732974593	AKR1B15	0.9785790164969704		1	False
+Factor5	Reactome	Glycosaminoglycan-protein linkage region biosynthesis	11	1	0.44	0.36205354732974593	GPC5	0.9785790164969704		1	False
+Factor5	Reactome	High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells	11	1	0.44	0.36205354732974593	ADCY5	0.9785790164969704		1	False
+Factor5	Reactome	Collagen formation	54	3	2.16	0.3675721966893541	COL17A1,LAMC2,MMP3	0.9797077648901081	0.33	3	False
+Factor5	Reactome	Neutrophil degranulation	124	6	4.96	0.3766620750003514	PRSS3,S100A7,S100A8,S100A9,SERPINB3,TCN1	0.9797077648901081	0.5	4	True
+Factor5	Reactome	Diseases of glycosylation	55	3	2.2	0.3785985889903503	ADAMTS18,GPC5,MUC16	0.9797077648901081	0.33	3	False
+Factor5	Reactome	Nuclear signaling by ERBB4	12	1	0.48	0.38762766850313773	EREG	0.9797077648901081		1	False
+Factor5	Reactome	Regulation of beta-cell development	12	1	0.48	0.38762766850313773	INSM1	0.9797077648901081		1	False
+Factor5	Reactome	COPI-mediated anterograde transport	12	1	0.48	0.38762766850313773	TUBB2B	0.9797077648901081		1	False
+Factor5	Reactome	Anchoring fibril formation	12	1	0.48	0.38762766850313773	LAMC2	0.9797077648901081		1	False
+Factor5	Reactome	Defective GALNT3 causes HFTC	12	1	0.48	0.38762766850313773	MUC16	0.9797077648901081		1	False
+Factor5	Reactome	Defective C1GALT1C1 causes TNPS	12	1	0.48	0.38762766850313773	MUC16	0.9797077648901081		1	False
+Factor5	Reactome	Defective GALNT12 causes CRCS1	12	1	0.48	0.38762766850313773	MUC16	0.9797077648901081		1	False
+Factor5	Reactome	Metabolism of steroids	34	2	1.36	0.39722133151511213	AKR1B15,LRP2	0.9797077648901081	0.5	2	True
+Factor5	Reactome	Signaling by Nuclear Receptors	57	3	2.28	0.40052477980600537	BCL2,EREG,MMP3	0.9797077648901081	0.33	3	False
+Factor5	Reactome	Leishmania infection	35	2	1.4	0.41142146455070877	ADCY5,IL1A	0.9797077648901081	0.5	2	True
+Factor5	Reactome	Parasitic Infection Pathways	35	2	1.4	0.41142146455070877	ADCY5,IL1A	0.9797077648901081	0.5	2	True
+Factor5	Reactome	Termination of O-glycan biosynthesis	13	1	0.52	0.4121814909368531	MUC16	0.9797077648901081		1	False
+Factor5	Reactome	Digestion and absorption	13	1	0.52	0.4121814909368531	CHIA	0.9797077648901081		1	False
+Factor5	Reactome	Protein folding	13	1	0.52	0.4121814909368531	TUBB2B	0.9797077648901081		1	False
+Factor5	Reactome	Laminin interactions	13	1	0.52	0.4121814909368531	LAMC2	0.9797077648901081		1	False
+Factor5	Reactome	Carboxyterminal post-translational modifications of tubulin	13	1	0.52	0.4121814909368531	TUBB2B	0.9797077648901081		1	False
+Factor5	Reactome	HS-GAG biosynthesis	13	1	0.52	0.4121814909368531	GPC5	0.9797077648901081		1	False
+Factor5	Reactome	Chaperonin-mediated protein folding	13	1	0.52	0.4121814909368531	TUBB2B	0.9797077648901081		1	False
+Factor5	Reactome	Autophagy	13	1	0.52	0.4121814909368531	TUBB2B	0.9797077648901081		1	False
+Factor5	Reactome	Unblocking of NMDA receptors, glutamate binding and activation	13	1	0.52	0.4121814909368531	CAMK2B	0.9797077648901081		1	False
+Factor5	Reactome	Cellular Senescence	13	1	0.52	0.4121814909368531	IL1A	0.9797077648901081		1	False
+Factor5	Reactome	Viral Infection Pathways	84	4	3.36	0.43508645331392237	ANO1,CAMK2B,GPC5,TUBB2B	0.9830994121425538	0.25	4	False
+Factor5	Reactome	Heparan sulfate/heparin (HS-GAG) metabolism	14	1	0.56	0.43575552378478355	GPC5	0.9830994121425538		1	False
+Factor5	Reactome	Formation of the dystrophin-glycoprotein complex (DGC)	14	1	0.56	0.43575552378478355	LAMC2	0.9830994121425538		1	False
+Factor5	Reactome	Deubiquitination	14	1	0.56	0.43575552378478355	USP44	0.9830994121425538		1	False
+Factor5	Reactome	Response of endothelial cells to shear stress	14	1	0.56	0.43575552378478355	ADCY5	0.9830994121425538		1	False
+Factor5	Reactome	WNT ligand biogenesis and trafficking	14	1	0.56	0.43575552378478355	WNT7A	0.9830994121425538		1	False
+Factor5	Reactome	Kidney development	37	2	1.48	0.43931633340485765	GFRA1,RET	0.9830994121425538	0.5	2	True
+Factor5	Reactome	Innate Immune System	255	11	10.2	0.44297820603046223	ATP6V1B1,BCL2,MUC16,PI3,PRSS3,S100A7,S100A8,S100A9,SAA1,SERPINB3,TCN1	0.9830994121425538	0.27	8	False
+Factor5	Reactome	Stimuli-sensing channels	38	2	1.52	0.45299305524426603	ANO1,CLCA2	0.9830994121425538	0.5	2	True
+Factor5	Reactome	Attachment of bacteria to epithelial cells	15	1	0.6	0.458388675658639	LAMC2	0.9830994121425538		1	False
+Factor5	Reactome	GABA B receptor activation	15	1	0.6	0.458388675658639	ADCY5	0.9830994121425538		1	False
+Factor5	Reactome	Formation of the nephric duct	15	1	0.6	0.458388675658639	RET	0.9830994121425538		1	False
+Factor5	Reactome	Diseases associated with glycosaminoglycan metabolism	15	1	0.6	0.458388675658639	GPC5	0.9830994121425538		1	False
+Factor5	Reactome	Transcriptional regulation of pluripotent stem cells	15	1	0.6	0.458388675658639	DKK1	0.9830994121425538		1	False
+Factor5	Reactome	Adipogenesis	15	1	0.6	0.458388675658639	PRDM16	0.9830994121425538		1	False
+Factor5	Reactome	Activation of GABAB receptors	15	1	0.6	0.458388675658639	ADCY5	0.9830994121425538		1	False
+Factor5	Reactome	Netrin-1 signaling	15	1	0.6	0.458388675658639	DSCAML1	0.9830994121425538		1	False
+Factor5	Reactome	Metabolism of amine-derived hormones	15	1	0.6	0.458388675658639	DDC	0.9830994121425538		1	False
+Factor5	Reactome	Biofilm formation	15	1	0.6	0.458388675658639	LAMC2	0.9830994121425538		1	False
+Factor5	Reactome	Long-term potentiation	15	1	0.6	0.458388675658639	CAMK2B	0.9830994121425538		1	False
+Factor5	Reactome	Gastrulation	39	2	1.56	0.46647892247321576	PAX7,TFAP2B	0.9830994121425538	0.5	2	True
+Factor5	Reactome	Diseases associated with O-glycosylation of proteins	40	2	1.6	0.47976727816788695	ADAMTS18,MUC16	0.9830994121425538	0.5	2	True
+Factor5	Reactome	SUMOylation	16	1	0.64	0.4801183175579914	TFAP2B	0.9830994121425538		1	False
+Factor5	Reactome	Transcriptional Regulation by MECP2	16	1	0.64	0.4801183175579914	CAMK2B	0.9830994121425538		1	False
+Factor5	Reactome	SUMO E3 ligases SUMOylate target proteins	16	1	0.64	0.4801183175579914	TFAP2B	0.9830994121425538		1	False
+Factor5	Reactome	Estrogen-dependent gene expression	16	1	0.64	0.4801183175579914	BCL2	0.9830994121425538		1	False
+Factor5	Reactome	Dectin-2 family	16	1	0.64	0.4801183175579914	MUC16	0.9830994121425538		1	False
+Factor5	Reactome	Antigen processing: Ubiquitination & Proteasome degradation	16	1	0.64	0.4801183175579914	ZBTB16	0.9830994121425538		1	False
+Factor5	Reactome	Neddylation	16	1	0.64	0.4801183175579914	ZBTB16	0.9830994121425538		1	False
+Factor5	Reactome	Transcriptional and post-translational regulation of MITF-M expression and activity	16	1	0.64	0.4801183175579914	KIT	0.9830994121425538		1	False
+Factor5	Reactome	G alpha (z) signalling events	16	1	0.64	0.4801183175579914	ADCY5	0.9830994121425538		1	False
+Factor5	Reactome	Cilium Assembly	16	1	0.64	0.4801183175579914	TUBB2B	0.9830994121425538		1	False
+Factor5	Reactome	Muscle contraction	90	4	3.6	0.48848797778604686	CACNA2D2,CAMK2B,KCNH2,KCNJ11	0.9959259202275869	0.25	4	False
+Factor5	Reactome	Semaphorin interactions	17	1	0.68	0.5009803433381683	SEMA3E	1.0		1	False
+Factor5	Reactome	CDC42 GTPase cycle	17	1	0.68	0.5009803433381683	PLEKHG4B	1.0		1	False
+Factor5	Reactome	Constitutive Signaling by Aberrant PI3K in Cancer	43	2	1.72	0.5183928483130266	EREG,KIT	1.0	0.5	2	True
+Factor5	Reactome	SARS-CoV Infections	43	2	1.72	0.5183928483130266	ANO1,GPC5	1.0	0.5	2	True
+Factor5	Reactome	Signaling by Insulin receptor	18	1	0.72	0.5210092278118525	ATP6V1B1	1.0		1	False
+Factor5	Reactome	Signaling by FGFR	18	1	0.72	0.5210092278118525	FGFBP1	1.0		1	False
+Factor5	Reactome	Leishmania parasite growth and survival	18	1	0.72	0.5210092278118525	ADCY5	1.0		1	False
+Factor5	Reactome	Anti-inflammatory response favouring Leishmania parasite infection	18	1	0.72	0.5210092278118525	ADCY5	1.0		1	False
+Factor5	Reactome	Developmental Lineage of Pancreatic Ductal Cells	18	1	0.72	0.5210092278118525	LAMC2	1.0		1	False
+Factor5	Reactome	Cell Cycle, Mitotic	18	1	0.72	0.5210092278118525	TUBB2B	1.0		1	False
+Factor5	Reactome	Beta-catenin independent WNT signaling	18	1	0.72	0.5210092278118525	PDE6B	1.0		1	False
+Factor5	Reactome	PI3K/AKT Signaling in Cancer	44	2	1.76	0.5308404045491977	EREG,KIT	1.0	0.5	2	True
+Factor5	Reactome	L1CAM interactions	44	2	1.76	0.5308404045491977	NCAM1,TUBB2B	1.0	0.5	2	True
+Factor5	Reactome	Developmental Lineage of Pancreatic Endocrine Mid Progenitor Cells	19	1	0.76	0.5402380825765308	LAMC2	1.0		1	False
+Factor5	Reactome	Signaling by ERBB4	19	1	0.76	0.5402380825765308	EREG	1.0		1	False
+Factor5	Reactome	Nuclear events mediated by NFE2L2	19	1	0.76	0.5402380825765308	BCL2	1.0		1	False
+Factor5	Reactome	Organelle biogenesis and maintenance	19	1	0.76	0.5402380825765308	TUBB2B	1.0		1	False
+Factor5	Reactome	KEAP1-NFE2L2 pathway	19	1	0.76	0.5402380825765308	BCL2	1.0		1	False
+Factor5	Reactome	SLC-mediated transport of organic anions	19	1	0.76	0.5402380825765308	SLC13A5	1.0		1	False
+Factor5	Reactome	Cellular responses to mechanical stimuli	19	1	0.76	0.5402380825765308	ADCY5	1.0		1	False
+Factor5	Reactome	PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling	46	2	1.84	0.5550749184213598	EREG,KIT	1.0	0.5	2	True
+Factor5	Reactome	Negative regulation of the PI3K/AKT network	46	2	1.84	0.5550749184213598	EREG,KIT	1.0	0.5	2	True
+Factor5	Reactome	MET activates PTK2 signaling	20	1	0.8	0.5586987096563732	LAMC2	1.0		1	False
+Factor5	Reactome	Signaling by PDGF	20	1	0.8	0.5586987096563732	THBS4	1.0		1	False
+Factor5	Reactome	Antimicrobial mechanism of IFN-stimulated genes	20	1	0.8	0.5586987096563732	TUBB2B	1.0		1	False
+Factor5	Reactome	Developmental Cell Lineages of the Exocrine Pancreas	21	1	0.84	0.5764216530436673	LAMC2	1.0		1	False
+Factor5	Reactome	Molecules associated with elastic fibres	21	1	0.84	0.5764216530436673	FBN3	1.0		1	False
+Factor5	Reactome	Sensory processing of sound by inner hair cells of the cochlea	21	1	0.84	0.5764216530436673	CACNA2D2	1.0		1	False
+Factor5	Reactome	ER to Golgi Anterograde Transport	22	1	0.88	0.5934362482216682	TUBB2B	1.0		1	False
+Factor5	Reactome	Transcriptional Regulation by TP53	23	1	0.92	0.6097706697475153	TP63	1.0		1	False
+Factor5	Reactome	Affinity selection of immunoglobulins	52	2	2.08	0.6223816822552343	KIF5C,TUBB2B	1.0	0.5	2	True
+Factor5	Reactome	Immunoglobulin maturation	52	2	2.08	0.6223816822552343	KIF5C,TUBB2B	1.0	0.5	2	True
+Factor5	Reactome	PIP3 activates AKT signaling	52	2	2.08	0.6223816822552343	EREG,KIT	1.0	0.5	2	True
+Factor5	Reactome	Regulation of clotting cascade	24	1	0.96	0.625451976970842	GPC5	1.0		1	False
+Factor5	Reactome	GABA receptor activation	24	1	0.96	0.625451976970842	ADCY5	1.0		1	False
+Factor5	Reactome	Elastic fibre formation	24	1	0.96	0.625451976970842	FBN3	1.0		1	False
+Factor5	Reactome	Sensory processing of sound	24	1	0.96	0.625451976970842	CACNA2D2	1.0		1	False
+Factor5	Reactome	Developmental Cell Lineages	24	1	0.96	0.625451976970842	LAMC2	1.0		1	False
+Factor5	Reactome	C-type lectin receptors (CLRs)	25	1	1.0	0.6405061579607598	MUC16	1.0		1	False
+Factor5	Reactome	Neurotransmitter release cycle	26	1	1.04	0.6549581717110811	SYN3	1.0		1	False
+Factor5	Reactome	O-linked glycosylation of mucins	26	1	1.04	0.6549581717110811	MUC16	1.0		1	False
+Factor5	Reactome	O-linked glycosylation	56	2	2.24	0.6627426312711523	ADAMTS18,MUC16	1.0	0.5	2	True
+Factor5	Reactome	Interleukin-10 signaling	27	1	1.08	0.6688319886909332	IL1A	1.0		1	False
+Factor5	Reactome	Cell Cycle	28	1	1.12	0.6821506298053135	TUBB2B	1.0		1	False
+Factor5	Reactome	Defective B3GALTL causes PpS	28	1	1.12	0.6821506298053135	ADAMTS18	1.0		1	False
+Factor5	Reactome	O-glycosylation of TSR domain-containing proteins	28	1	1.12	0.6821506298053135	ADAMTS18	1.0		1	False
+Factor5	Reactome	Transport to the Golgi and subsequent modification	29	1	1.16	0.6949362038276258	TUBB2B	1.0		1	False
+Factor5	Reactome	Coagulation pathway	30	1	1.2	0.707209943363831	GPC5	1.0		1	False
+Factor5	Reactome	Cellular response to chemical stress	31	1	1.24	0.7189922394055277	BCL2	1.0		1	False
+Factor5	Reactome	Hemostasis	183	6	7.32	0.7487583142324816	GPC5,KIF1A,KIF5C,MMP1,SERPINB2,TUBB2B	1.0	0.17	6	False
+Factor5	Reactome	Adaptive Immune System	184	6	7.36	0.753438793078594	COL17A1,KIF5C,S100A8,S100A9,TUBB2B,ZBTB16	1.0	0.33	5	False
+Factor5	Reactome	G alpha (i) signalling events	127	4	5.08	0.7553862260005899	ADCY5,CAMK2B,PPP1R1B,SAA1	1.0	0.25	4	False
+Factor5	Reactome	Collagen chain trimerization	35	1	1.4	0.761587174914897	COL17A1	1.0		1	False
+Factor5	Reactome	Non-integrin membrane-ECM interactions	39	1	1.56	0.7977529556453953	LAMC2	1.0		1	False
+Factor5	Reactome	Asparagine N-linked glycosylation	40	1	1.6	0.8059064345550749	TUBB2B	1.0		1	False
+Factor5	Reactome	GPCR downstream signalling	227	7	9.08	0.8122415481869072	ADCY5,CALCA,CALCB,CAMK2B,MMP3,PPP1R1B,SAA1	1.0	0.29	6	False
+Factor5	Reactome	Signaling by GPCR	258	8	10.32	0.819829330358675	ADCY5,CALCA,CALCB,CAMK2B,MMP3,PPP1R1B,SAA1,WNT7A	1.0	0.25	7	False
+Factor5	Reactome	Collagen biosynthesis and modifying enzymes	42	1	1.68	0.8212450772522826	COL17A1	1.0		1	False
+Factor5	Reactome	G alpha (q) signalling events	78	2	3.12	0.826243201295664	MMP3,SAA1	1.0	0.5	2	True
+Factor5	Reactome	Glycosaminoglycan metabolism	43	1	1.72	0.828455844607979	GPC5	1.0		1	False
+Factor5	Reactome	ECM proteoglycans	45	1	1.8	0.8420205102671329	NCAM1	1.0		1	False
+Factor5	Reactome	Cell surface interactions at the vascular wall	47	1	1.88	0.854517503723512	MMP1	1.0		1	False
+Factor5	Reactome	Generic Transcription Pathway	182	5	7.28	0.8612191312454195	CAMK2B,KIT,RET,TFAP2B,TP63	1.0	0.2	5	False
+Factor5	Reactome	RNA Polymerase II Transcription	183	5	7.32	0.8643781429592661	CAMK2B,KIT,RET,TFAP2B,TP63	1.0	0.2	5	False
+Factor5	Reactome	Metabolism of amino acids and derivatives	86	2	3.44	0.8653513667354009	DDC,PAH	1.0	0.5	2	True
+Factor5	Reactome	Cell-cell junction organization	53	1	2.12	0.8864068150694071	SDK1	1.0		1	False
+Factor5	Reactome	SLC-mediated transmembrane transport	94	2	3.76	0.8962649573530995	SLC13A5,SLC14A2	1.0	0.5	2	True
+Factor5	Reactome	RHO GTPase cycle	57	1	2.28	0.9036971014573051	PLEKHG4B	1.0		1	False
+Factor5	Reactome	Gene expression (Transcription)	202	5	8.08	0.913839837470124	CAMK2B,KIT,RET,TFAP2B,TP63	1.0	0.2	5	False
+Factor5	Reactome	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	62	1	2.48	0.9216723930465172	MMP1	1.0		1	False
+Factor5	Reactome	Metabolism of carbohydrates and carbohydrate derivatives	68	1	2.72	0.938888498689595	GPC5	1.0		1	False
+Factor5	Reactome	Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell	74	1	2.96	0.952335274895923	COL17A1	1.0		1	False
+Factor5	Reactome	GPCR ligand binding	201	4	8.04	0.9642554926053886	CALCA,CALCB,SAA1,WNT7A	1.0	0.5	3	True
+Factor5	Reactome	Metabolism	476	12	19.04	0.9743103573210069	ABCC8,ADCY5,AKR1B10,AKR1B15,CACNA2D2,DDC,GPC5,KCNJ11,LRP2,PAH,PRSS3,TCN1	1.0	0.17	10	False
+Factor5	Reactome	Peptide ligand-binding receptors	103	1	4.12	0.9857223643655652	SAA1	1.0		1	False
+Factor5	Reactome	Metabolism of lipids	167	2	6.68	0.9920167339510184	AKR1B15,LRP2	1.0	0.5	2	True
+Factor5	Reactome	Class A/1 (Rhodopsin-like receptors)	151	1	6.04	0.9980896620216908	SAA1	1.0		1	False
+Factor5	Reactome	VEGFA-VEGFR2 Pathway	11	0	0.44	1.0		1.0		0	False
+Factor5	Reactome	Translocation of ZAP-70 to Immunological synapse	15	0	0.6	1.0		1.0		0	False
+Factor5	Reactome	Transcriptional regulation of white adipocyte differentiation	11	0	0.44	1.0		1.0		0	False
+Factor5	Reactome	Transcriptional regulation of testis differentiation	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Transcriptional regulation by RUNX2	21	0	0.84	1.0		1.0		0	False
+Factor5	Reactome	Amino acid transport across the plasma membrane	14	0	0.56	1.0		1.0		0	False
+Factor5	Reactome	Amine ligand-binding receptors	19	0	0.76	1.0		1.0		0	False
+Factor5	Reactome	Aflatoxin activation and detoxification	11	0	0.44	1.0		1.0		0	False
+Factor5	Reactome	Adherens junctions interactions	38	0	1.52	1.0		1.0		0	False
+Factor5	Reactome	Acyl chain remodelling of PS	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Acyl chain remodelling of PE	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Acyl chain remodelling of PC	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	11	0	0.44	1.0		1.0		0	False
+Factor5	Reactome	Activation of HOX genes during differentiation	11	0	0.44	1.0		1.0		0	False
+Factor5	Reactome	Potential therapeutics for SARS	14	0	0.56	1.0		1.0		0	False
+Factor5	Reactome	Post-translational protein phosphorylation	47	0	1.88	1.0		1.0		0	False
+Factor5	Reactome	Platelet homeostasis	25	0	1.0	1.0		1.0		0	False
+Factor5	Reactome	Platelet degranulation	50	0	2.0	1.0		1.0		0	False
+Factor5	Reactome	Platelet activation, signaling and aggregation	77	0	3.08	1.0		1.0		0	False
+Factor5	Reactome	Platelet Aggregation (Plug Formation)	15	0	0.6	1.0		1.0		0	False
+Factor5	Reactome	Plasma lipoprotein remodeling	16	0	0.64	1.0		1.0		0	False
+Factor5	Reactome	Plasma lipoprotein assembly, remodeling, and clearance	20	0	0.8	1.0		1.0		0	False
+Factor5	Reactome	Phosphorylation of CD3 and TCR zeta chains	15	0	0.6	1.0		1.0		0	False
+Factor5	Reactome	Phospholipid metabolism	37	0	1.48	1.0		1.0		0	False
+Factor5	Reactome	Phase II - Conjugation of compounds	44	0	1.76	1.0		1.0		0	False
+Factor5	Reactome	Phase I - Functionalization of compounds	54	0	2.16	1.0		1.0		0	False
+Factor5	Reactome	Phase 4 - resting membrane potential	11	0	0.44	1.0		1.0		0	False
+Factor5	Reactome	Paracetamol ADME	16	0	0.64	1.0		1.0		0	False
+Factor5	Reactome	PPARA activates gene expression	18	0	0.72	1.0		1.0		0	False
+Factor5	Reactome	PI3K Cascade	15	0	0.6	1.0		1.0		0	False
+Factor5	Reactome	PI Metabolism	13	0	0.52	1.0		1.0		0	False
+Factor5	Reactome	PCP/CE pathway	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Olfactory Signaling Pathway	11	0	0.44	1.0		1.0		0	False
+Factor5	Reactome	Nuclear Receptor transcription pathway	22	0	0.88	1.0		1.0		0	False
+Factor5	Reactome	Nitric oxide stimulates guanylate cyclase	13	0	0.52	1.0		1.0		0	False
+Factor5	Reactome	Metal ion SLC transporters	16	0	0.64	1.0		1.0		0	False
+Factor5	Reactome	Metabolism of nucleotides	12	0	0.48	1.0		1.0		0	False
+Factor5	Reactome	Metabolism of RNA	20	0	0.8	1.0		1.0		0	False
+Factor5	Reactome	Metabolism of Angiotensinogen to Angiotensins	11	0	0.44	1.0		1.0		0	False
+Factor5	Reactome	Metabolic disorders of biological oxidation enzymes	14	0	0.56	1.0		1.0		0	False
+Factor5	Reactome	MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis	11	0	0.44	1.0		1.0		0	False
+Factor5	Reactome	Receptor-type tyrosine-protein phosphatases	12	0	0.48	1.0		1.0		0	False
+Factor5	Reactome	RHOA GTPase cycle	16	0	0.64	1.0		1.0		0	False
+Factor5	Reactome	RAC3 GTPase cycle	13	0	0.52	1.0		1.0		0	False
+Factor5	Reactome	RAC2 GTPase cycle	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	RAC1 GTPase cycle	27	0	1.08	1.0		1.0		0	False
+Factor5	Reactome	RA biosynthesis pathway	15	0	0.6	1.0		1.0		0	False
+Factor5	Reactome	Keratan sulfate/keratin metabolism	13	0	0.52	1.0		1.0		0	False
+Factor5	Reactome	Keratan sulfate biosynthesis	11	0	0.44	1.0		1.0		0	False
+Factor5	Reactome	Reproduction	17	0	0.68	1.0		1.0		0	False
+Factor5	Reactome	Regulation of lipid metabolism by PPARalpha	18	0	0.72	1.0		1.0		0	False
+Factor5	Reactome	Regulation of expression of SLITs and ROBOs	14	0	0.56	1.0		1.0		0	False
+Factor5	Reactome	Regulation of T cell activation by CD28 family	32	0	1.28	1.0		1.0		0	False
+Factor5	Reactome	Regulation of PD-L1(CD274) expression	11	0	0.44	1.0		1.0		0	False
+Factor5	Reactome	Regulation of Homotypic Cell-Cell Adhesion	22	0	0.88	1.0		1.0		0	False
+Factor5	Reactome	Regulation of Expression and Function of Type I Classical Cadherins	13	0	0.52	1.0		1.0		0	False
+Factor5	Reactome	Regulation of Complement cascade	28	0	1.12	1.0		1.0		0	False
+Factor5	Reactome	Regulation of CDH1 Expression and Function	13	0	0.52	1.0		1.0		0	False
+Factor5	Reactome	Interferon alpha/beta signaling	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Interaction between L1 and Ankyrins	21	0	0.84	1.0		1.0		0	False
+Factor5	Reactome	Integrin cell surface interactions	52	0	2.08	1.0		1.0		0	False
+Factor5	Reactome	Insulin receptor signalling cascade	15	0	0.6	1.0		1.0		0	False
+Factor5	Reactome	Inositol phosphate metabolism	13	0	0.52	1.0		1.0		0	False
+Factor5	Reactome	Initial triggering of complement	15	0	0.6	1.0		1.0		0	False
+Factor5	Reactome	Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	SUMOylation of intracellular receptors	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	SLC-mediated transport of neurotransmitters	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	SLC-mediated transport of inorganic anions	12	0	0.48	1.0		1.0		0	False
+Factor5	Reactome	SLC-mediated transport of amino acids	19	0	0.76	1.0		1.0		0	False
+Factor5	Reactome	SLC transporter disorders	28	0	1.12	1.0		1.0		0	False
+Factor5	Reactome	SARS-CoV-2-host interactions	13	0	0.52	1.0		1.0		0	False
+Factor5	Reactome	SARS-CoV-1-host interactions	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	SARS-CoV-1 Infection	13	0	0.52	1.0		1.0		0	False
+Factor5	Reactome	Response to elevated platelet cytosolic Ca2+	52	0	2.08	1.0		1.0		0	False
+Factor5	Reactome	IRS-related events triggered by IGF1R	18	0	0.72	1.0		1.0		0	False
+Factor5	Reactome	IRS-mediated signalling	15	0	0.6	1.0		1.0		0	False
+Factor5	Reactome	IGF1R signaling cascade	18	0	0.72	1.0		1.0		0	False
+Factor5	Reactome	Glycosphingolipid metabolism	12	0	0.48	1.0		1.0		0	False
+Factor5	Reactome	Glycerophospholipid biosynthesis	24	0	0.96	1.0		1.0		0	False
+Factor5	Reactome	Glutathione conjugation	17	0	0.68	1.0		1.0		0	False
+Factor5	Reactome	Glutamate Neurotransmitter Release Cycle	13	0	0.52	1.0		1.0		0	False
+Factor5	Reactome	Glucuronidation	13	0	0.52	1.0		1.0		0	False
+Factor5	Reactome	Glucagon-type ligand receptors	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Generation of second messenger molecules	17	0	0.68	1.0		1.0		0	False
+Factor5	Reactome	Signaling by BMP	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Signaling by ALK in cancer	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Signaling by ALK fusions and activated point mutants	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Sensory processing of sound by outer hair cells of the cochlea	17	0	0.68	1.0		1.0		0	False
+Factor5	Reactome	Sensory perception of taste	15	0	0.6	1.0		1.0		0	False
+Factor5	Reactome	Sensory perception of sweet, bitter, and umami (glutamate) taste	11	0	0.44	1.0		1.0		0	False
+Factor5	Reactome	Selenoamino acid metabolism	11	0	0.44	1.0		1.0		0	False
+Factor5	Reactome	Scavenging of heme from plasma	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Scavenging by Class A Receptors	13	0	0.52	1.0		1.0		0	False
+Factor5	Reactome	G protein gated Potassium channels	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	G alpha (12/13) signalling events	11	0	0.44	1.0		1.0		0	False
+Factor5	Reactome	Fibronectin matrix formation	16	0	0.64	1.0		1.0		0	False
+Factor5	Reactome	Fibrin formation	11	0	0.44	1.0		1.0		0	False
+Factor5	Reactome	Fc epsilon receptor (FCERI) signaling	12	0	0.48	1.0		1.0		0	False
+Factor5	Reactome	Fatty acyl-CoA biosynthesis	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Fatty acids	12	0	0.48	1.0		1.0		0	False
+Factor5	Reactome	Fatty acid metabolism	54	0	2.16	1.0		1.0		0	False
+Factor5	Reactome	FOXO-mediated transcription	14	0	0.56	1.0		1.0		0	False
+Factor5	Reactome	Epigenetic regulation of gene expression by MLL3 and MLL4 complexes	11	0	0.44	1.0		1.0		0	False
+Factor5	Reactome	Epigenetic regulation of gene expression	18	0	0.72	1.0		1.0		0	False
+Factor5	Reactome	Epigenetic regulation of adipogenesis genes by MLL3 and MLL4 complexes	11	0	0.44	1.0		1.0		0	False
+Factor5	Reactome	Epigenetic regulation by WDR5-containing histone modifying complexes	11	0	0.44	1.0		1.0		0	False
+Factor5	Reactome	Endogenous sterols	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	EPHA-mediated growth cone collapse	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Signaling by NOTCH	14	0	0.56	1.0		1.0		0	False
+Factor5	Reactome	Signaling by FGFR1	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Signaling by FGFR in disease	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	EPH-ephrin mediated repulsion of cells	15	0	0.6	1.0		1.0		0	False
+Factor5	Reactome	EPH-Ephrin signaling	19	0	0.76	1.0		1.0		0	False
+Factor5	Reactome	Drug ADME	54	0	2.16	1.0		1.0		0	False
+Factor5	Reactome	Downstream TCR signaling	16	0	0.64	1.0		1.0		0	False
+Factor5	Reactome	Diseases of hemostasis	12	0	0.48	1.0		1.0		0	False
+Factor5	Reactome	Differentiation of T cells	12	0	0.48	1.0		1.0		0	False
+Factor5	Reactome	Signaling by VEGF	11	0	0.44	1.0		1.0		0	False
+Factor5	Reactome	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	19	0	0.76	1.0		1.0		0	False
+Factor5	Reactome	Signaling by TGFB family members	28	0	1.12	1.0		1.0		0	False
+Factor5	Reactome	Signaling by TGF-beta Receptor Complex	12	0	0.48	1.0		1.0		0	False
+Factor5	Reactome	Signaling by Retinoic Acid	19	0	0.76	1.0		1.0		0	False
+Factor5	Reactome	Signaling by ROBO receptors	22	0	0.88	1.0		1.0		0	False
+Factor5	Reactome	Death Receptor Signaling	16	0	0.64	1.0		1.0		0	False
+Factor5	Reactome	DAP12 interactions	12	0	0.48	1.0		1.0		0	False
+Factor5	Reactome	Cytochrome P450 - arranged by substrate type	36	0	1.44	1.0		1.0		0	False
+Factor5	Reactome	Crosslinking of collagen fibrils	12	0	0.48	1.0		1.0		0	False
+Factor5	Reactome	Complement cascade	35	0	1.4	1.0		1.0		0	False
+Factor5	Reactome	Co-inhibition by PD-1	24	0	0.96	1.0		1.0		0	False
+Factor5	Reactome	TRP channels	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	TNFs bind their physiological receptors	21	0	0.84	1.0		1.0		0	False
+Factor5	Reactome	TNFR2 non-canonical NF-kB pathway	26	0	1.04	1.0		1.0		0	False
+Factor5	Reactome	TCR signaling	22	0	0.88	1.0		1.0		0	False
+Factor5	Reactome	Synthesis of substrates in N-glycan biosythesis	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Synthesis of bile acids and bile salts	13	0	0.52	1.0		1.0		0	False
+Factor5	Reactome	Synthesis of PA	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Synthesis of Leukotrienes (LT) and Eoxins (EX)	12	0	0.48	1.0		1.0		0	False
+Factor5	Reactome	Syndecan interactions	14	0	0.56	1.0		1.0		0	False
+Factor5	Reactome	Striated Muscle Contraction	15	0	0.6	1.0		1.0		0	False
+Factor5	Reactome	Sphingolipid metabolism	20	0	0.8	1.0		1.0		0	False
+Factor5	Reactome	Class C/3 (Metabotropic glutamate/pheromone receptors)	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Chondroitin sulfate/dermatan sulfate metabolism	11	0	0.44	1.0		1.0		0	False
+Factor5	Reactome	Chemokine receptors bind chemokines	40	0	1.6	1.0		1.0		0	False
+Factor5	Reactome	Cargo concentration in the ER	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Cardiogenesis	12	0	0.48	1.0		1.0		0	False
+Factor5	Reactome	CYP2E1 reactions	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	COPII-mediated vesicle transport	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Blood group systems biosynthesis	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Biosynthesis of specialized proresolving mediators (SPMs)	12	0	0.48	1.0		1.0		0	False
+Factor5	Reactome	Biosynthesis of DHA-derived SPMs	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Biological oxidations	103	0	4.12	1.0		1.0		0	False
+Factor5	Reactome	Bile acid and bile salt metabolism	20	0	0.8	1.0		1.0		0	False
+Factor5	Reactome	Transcriptional regulation by RUNX1	30	0	1.2	1.0		1.0		0	False
+Factor5	Reactome	Tight junction interactions	13	0	0.52	1.0		1.0		0	False
+Factor5	Reactome	Thyroxine biosynthesis	12	0	0.48	1.0		1.0		0	False
+Factor5	Reactome	The canonical retinoid cycle in rods (twilight vision)	12	0	0.48	1.0		1.0		0	False
+Factor5	Reactome	Aspirin ADME	27	0	1.08	1.0		1.0		0	False
+Factor5	Reactome	Arachidonate metabolism	35	0	1.4	1.0		1.0		0	False
+Factor5	Reactome	Activation of G protein gated Potassium channels	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	Xenobiotics	17	0	0.68	1.0		1.0		0	False
+Factor5	Reactome	p75 NTR receptor-mediated signalling	10	0	0.4	1.0		1.0		0	False
+Factor5	Reactome	ATP-dependent chromatin remodelers	12	0	0.48	1.0		1.0		0	False
+Factor5	Hallmark	p53 Pathway	31	7	1.24	0.00017104253129864038	CLCA2,IL1A,KLK8,KRT17,SERPINB5,TP63,ZBTB16	0.006328573658049694	0.14	7	False
+Factor5	Hallmark	KRAS Signaling Dn	114	12	4.56	0.0018352875845911124	AKR1B10,ATP6V1B1,CALCB,KLK7,KLK8,KRT5,LYPD3,PDE6B,SERPINB2,SPRR3,TFAP2B,ZBTB16	0.03395282031493558	0.17	11	False
+Factor5	Hallmark	Estrogen Response Late	84	9	3.36	0.005984853679445795	ABCA3,ASCL1,BCL2,CACNA2D2,GJB3,LAMC2,RET,S100A9,TRIM29	0.07381319537983147	0.11	9	False
+Factor5	Hallmark	Pancreas Beta Cells	17	3	0.68	0.02833011286728061	ABCC8,INSM1,PCSK2	0.26205354402234565	0.33	3	False
+Factor5	Hallmark	Estrogen Response Early	69	5	2.76	0.14085562661564713	ABCA3,BCL2,GFRA1,RET,TUBB2B	0.9896840615941888	0.2	5	False
+Factor5	Hallmark	Apical Surface	18	2	0.72	0.1604893072855441	LYPD3,RHCG	0.9896840615941888	0.5	2	True
+Factor5	Hallmark	Coagulation	67	4	2.68	0.2794691716074424	KLK8,MMP1,MMP3,SERPINB2	1.0	0.5	3	True
+Factor5	Hallmark	Apical Junction	69	4	2.76	0.29760114489931594	COL17A1,DSC3,KCNH2,LAMC2	1.0	0.25	4	False
+Factor5	Hallmark	Complement	72	4	2.88	0.3250504115878277	HPCAL4,PRSS3,S100A9,SERPINB2	1.0	0.25	4	False
+Factor5	Hallmark	Epithelial Mesenchymal Transition	104	5	4.16	0.4032512129306136	CRLF1,DKK1,LAMC2,MMP1,MMP3	1.0	0.4	4	False
+Factor5	Hallmark	Apoptosis	36	2	1.44	0.42545630369722887	EREG,IL1A	1.0	0.5	2	True
+Factor5	Hallmark	TNF-alpha Signaling via NF-kB	60	3	2.4	0.43299310677638153	FOSL1,IL1A,SERPINB2	1.0	0.33	3	False
+Factor5	Hallmark	UV Response Up	40	2	1.6	0.47976727816788695	KCNH2,RET	1.0	0.5	2	True
+Factor5	Hallmark	Bile Acid Metabolism	40	2	1.6	0.47976727816788695	ABCA3,BMP6	1.0	0.5	2	True
+Factor5	Hallmark	Pperoxisome	22	1	0.88	0.5934362482216682	ABCC8	1.0		1	False
+Factor5	Hallmark	KRAS Signaling Up	103	4	4.12	0.5961244156679253	ANO1,EREG,KIF5C,WNT7A	1.0	0.25	4	False
+Factor5	Hallmark	Myogenesis	77	3	3.08	0.6010981407826235	CAMK2B,KCNH2,NCAM1	1.0	0.33	3	False
+Factor5	Hallmark	UV Response Dn	34	1	1.36	0.7515824403330633	KIT	1.0		1	False
+Factor5	Hallmark	Glycolysis	45	1	1.8	0.8420205102671329	GPR87	1.0		1	False
+Factor5	Hallmark	Interferon Gamma Response	48	1	1.92	0.860392024065789	GBP6	1.0		1	False
+Factor5	Hallmark	Inflammatory Response	90	2	3.6	0.8817338334107208	EREG,IL1A	1.0	0.5	2	True
+Factor5	Hallmark	IL-2/STAT5 Signaling	53	1	2.12	0.8864068150694071	BCL2	1.0		1	False
+Factor5	Hallmark	Hypoxia	55	1	2.2	0.8954068555431701	BCL2	1.0		1	False
+Factor5	Hallmark	Xenobiotic Metabolism	77	1	3.08	0.957909525167473	DDC	1.0		1	False
+Factor5	Hallmark	Allograft Rejection	86	1	3.44	0.9710304218187277	EREG	1.0		1	False
+Factor5	Hallmark	Interferon Alpha Response	14	0	0.56	1.0		1.0		0	False
+Factor5	Hallmark	Androgen Response	17	0	0.68	1.0		1.0		0	False
+Factor5	Hallmark	mTORC1 Signaling	20	0	0.8	1.0		1.0		0	False
+Factor5	Hallmark	Hedgehog Signaling	14	0	0.56	1.0		1.0		0	False
+Factor5	Hallmark	Cholesterol Homeostasis	12	0	0.48	1.0		1.0		0	False
+Factor5	Hallmark	IL-6/JAK/STAT3 Signaling	27	0	1.08	1.0		1.0		0	False
+Factor5	Hallmark	Adipogenesis	24	0	0.96	1.0		1.0		0	False
+Factor5	Hallmark	Angiogenesis	17	0	0.68	1.0		1.0		0	False
+Factor5	Hallmark	heme Metabolism	30	0	1.2	1.0		1.0		0	False
+Factor5	Hallmark	PI3K/AKT/mTOR  Signaling	17	0	0.68	1.0		1.0		0	False
+Factor5	Hallmark	Fatty Acid Metabolism	35	0	1.4	1.0		1.0		0	False
+Factor5	Hallmark	Spermatogenesis	42	0	1.68	1.0		1.0		0	False

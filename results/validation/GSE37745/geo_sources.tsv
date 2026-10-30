@@ -1,0 +1,3 @@
+url	file	bytes	sha256	accessed_utc
+https://ftp.ncbi.nlm.nih.gov/geo/series/GSE37nnn/GSE37745/matrix/GSE37745_series_matrix.txt.gz	data\raw\geo\GSE37745_series_matrix.txt.gz	58310722	9a448a7f41796f4f664f5cfd343f1e962e63d5783268ae980b20c9e02c094ea8	2026-10-18
+https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPLnnn/GPL570/annot/GPL570.annot.gz	data\raw\geo\GPL570.annot.gz	8471521	d7cd44352127b1e34f3a720ebea86093ef255a38f1612a85a2962b71bde8f394	2026-10-18

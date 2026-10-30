@@ -1,0 +1,20 @@
+# Sample inventory — TCGA LUAD/LUSC (Xena TCGA hub)
+
+Primary tumours (type 01), one per patient.
+
+| layers            | cohort    |   early |   intermediate |   late |   missing |   total |
+|:------------------|:----------|--------:|---------------:|-------:|----------:|--------:|
+| RNA only          | LUAD      |     275 |            122 |    110 |         8 |     515 |
+| RNA only          | LUSC      |     244 |            162 |     91 |         5 |     502 |
+| RNA only          | LUAD+LUSC |     519 |            284 |    201 |        13 |    1017 |
+| RNA+meth          | LUAD      |     245 |            111 |     93 |         5 |     454 |
+| RNA+meth          | LUSC      |     172 |            135 |     60 |         4 |     371 |
+| RNA+meth          | LUAD+LUSC |     417 |            246 |    153 |         9 |     825 |
+| RNA+meth+CNV      | LUAD      |     244 |            111 |     91 |         5 |     451 |
+| RNA+meth+CNV      | LUSC      |     170 |            134 |     60 |         3 |     367 |
+| RNA+meth+CNV      | LUAD+LUSC |     414 |            245 |    151 |         8 |     818 |
+| RNA+meth+CNV+RPPA | LUAD      |     101 |             42 |     46 |         3 |     192 |
+| RNA+meth+CNV+RPPA | LUSC      |      63 |             39 |     19 |         2 |     123 |
+| RNA+meth+CNV+RPPA | LUAD+LUSC |     164 |             81 |     65 |         5 |     315 |
+
+Solid-tissue normals (type 11): LUAD 70, LUSC 86

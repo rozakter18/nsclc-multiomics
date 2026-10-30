@@ -1,0 +1,11 @@
+cohort	layer	dataset
+LUAD	rna	TCGA.LUAD.sampleMap/HiSeqV2_percentile
+LUAD	methylation	TCGA.LUAD.sampleMap/HumanMethylation450
+LUAD	cnv	TCGA.LUAD.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes
+LUAD	mutation	""
+LUAD	rppa	TCGA.LUAD.sampleMap/RPPA_RBN
+LUSC	rna	TCGA.LUSC.sampleMap/HiSeqV2_percentile
+LUSC	methylation	TCGA.LUSC.sampleMap/HumanMethylation450
+LUSC	cnv	TCGA.LUSC.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes
+LUSC	mutation	""
+LUSC	rppa	TCGA.LUSC.sampleMap/RPPA_RBN

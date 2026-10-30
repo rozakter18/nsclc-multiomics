@@ -1,0 +1,44 @@
+# Python environments and generated interpreter files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Test, type-checker, and linter caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Downloaded inputs and regenerable large matrices
+data/raw/
+data/processed/*.parquet
+data/processed/**/*.parquet
+data/processed/metadata.tsv
+data/processed/samples/
+
+# Patient- and sample-level analysis outputs
+results/inventory/layer_samples.tsv
+results/model/oof_predictions.tsv
+results/mofa/factors.tsv
+results/mofa/model_seed*.hdf5
+results/validation/GSE37745/scores.tsv
+results/validation/GSE37745/sample_characteristics.tsv
+
+# External knowledge-resource caches and incomplete downloads
+results/knowledge/cache/
+results/knowledge/gene_support_Factor*.tsv
+results/knowledge/knowledge_graph.graphml
+*.part
+*.log

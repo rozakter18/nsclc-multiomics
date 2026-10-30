@@ -1,0 +1,141 @@
+model	cv	repeat	auroc
+clinical (age+sex)	patient	1	0.5438061874140192
+clinical (age+sex)	patient	2	0.556771283232556
+clinical (age+sex)	patient	3	0.5489650318328694
+clinical (age+sex)	patient	4	0.5467335316889017
+clinical (age+sex)	patient	5	0.5394231692100969
+clinical (age+sex)	patient	6	0.5533400518283904
+clinical (age+sex)	patient	7	0.5604424608887609
+clinical (age+sex)	patient	8	0.5346802316281153
+clinical (age+sex)	patient	9	0.5176920369837156
+clinical (age+sex)	patient	10	0.5542998368365486
+clinical (age+sex)	site	1	0.5475893399878428
+clinical (age+sex)	site	2	0.5567792814409572
+clinical (age+sex)	site	3	0.5138848897846882
+clinical (age+sex)	site	4	0.5421585564833478
+clinical (age+sex)	site	5	0.5537719550820617
+clinical (age+sex)	site	6	0.5411187893911764
+clinical (age+sex)	site	7	0.4865870045109895
+clinical (age+sex)	site	8	0.5366237962696355
+clinical (age+sex)	site	9	0.5464295997696516
+clinical (age+sex)	site	10	0.5516844226893176
+MOFA factors	patient	1	0.5996576766804236
+MOFA factors	patient	2	0.6048245193076751
+MOFA factors	patient	3	0.6092875195956107
+MOFA factors	patient	4	0.5854528585596825
+MOFA factors	patient	5	0.622676520459417
+MOFA factors	patient	6	0.5968423073231597
+MOFA factors	patient	7	0.5990338164251208
+MOFA factors	patient	8	0.6063761717375308
+MOFA factors	patient	9	0.5875643855776306
+MOFA factors	patient	10	0.6169817960776787
+MOFA factors	site	1	0.5877403461624596
+MOFA factors	site	2	0.5939469558818824
+MOFA factors	site	3	0.6047605336404646
+MOFA factors	site	4	0.6116229964487956
+MOFA factors	site	5	0.5886681383370126
+MOFA factors	site	6	0.613270627379467
+MOFA factors	site	7	0.6174456921649552
+MOFA factors	site	8	0.6030329206257798
+MOFA factors	site	9	0.6105192436894136
+MOFA factors	site	10	0.5970182679079886
+MOFA factors + clinical	patient	1	0.5930031672905268
+MOFA factors + clinical	patient	2	0.6045685766388329
+MOFA factors + clinical	patient	3	0.598010045749752
+MOFA factors + clinical	patient	4	0.5763029081485747
+MOFA factors + clinical	patient	5	0.6159260325687046
+MOFA factors + clinical	patient	6	0.5963304219854754
+MOFA factors + clinical	patient	7	0.5938509773810666
+MOFA factors + clinical	patient	8	0.5985699203378443
+MOFA factors + clinical	patient	9	0.5729756534536264
+MOFA factors + clinical	patient	10	0.6127427456249801
+MOFA factors + clinical	site	1	0.5855808298941038
+MOFA factors + clinical	site	2	0.5932111207089612
+MOFA factors + clinical	site	3	0.5886361455034073
+MOFA factors + clinical	site	4	0.5993537447611735
+MOFA factors + clinical	site	5	0.5869565217391305
+MOFA factors + clinical	site	6	0.6049045013916883
+MOFA factors + clinical	site	7	0.585916754646959
+MOFA factors + clinical	site	8	0.5965703682375147
+MOFA factors + clinical	site	9	0.6032408740442141
+MOFA factors + clinical	site	10	0.5971302428256071
+RNA only	patient	1	0.5935150526282114
+RNA only	patient	2	0.6304827718591035
+RNA only	patient	3	0.6089835876763605
+RNA only	patient	4	0.6091915410947948
+RNA only	patient	5	0.6108871612758742
+RNA only	patient	6	0.5759189941453114
+RNA only	patient	7	0.6160700003199284
+RNA only	patient	8	0.619029337428416
+RNA only	patient	9	0.6010333685254503
+RNA only	patient	10	0.6269315673289182
+RNA only	site	1	0.605048469142912
+RNA only	site	2	0.6086316665067025
+RNA only	site	3	0.5948907444732381
+RNA only	site	4	0.5969702786575808
+RNA only	site	5	0.6040406948843459
+RNA only	site	6	0.6028249672073456
+RNA only	site	7	0.6003775154365423
+RNA only	site	8	0.6019291678663978
+RNA only	site	9	0.6210928751959561
+RNA only	site	10	0.6145823335572832
+methylation only	patient	1	0.5747672521355216
+methylation only	patient	2	0.5488210640816457
+methylation only	patient	3	0.5446140064625524
+methylation only	patient	4	0.5699363342611254
+methylation only	patient	5	0.5563553763956873
+methylation only	patient	6	0.5395591387529193
+methylation only	patient	7	0.5529641360335285
+methylation only	patient	8	0.5669130114854273
+methylation only	patient	9	0.5476693220718559
+methylation only	patient	10	0.5766068400678248
+methylation only	site	1	0.5405669130114854
+methylation only	site	2	0.5429023898646703
+methylation only	site	3	0.5631058642863999
+methylation only	site	4	0.5683846818312698
+methylation only	site	5	0.5605624340147807
+methylation only	site	6	0.5540998816265156
+methylation only	site	7	0.5419586012733147
+methylation only	site	8	0.5636817352912947
+methylation only	site	9	0.5625459896983076
+methylation only	site	10	0.5540358959593051
+CNV only	patient	1	0.5379834916978596
+CNV only	patient	2	0.5205074063409797
+CNV only	patient	3	0.5093818984547461
+CNV only	patient	4	0.5260901558050997
+CNV only	patient	5	0.5342403301660428
+CNV only	patient	6	0.5309930575551076
+CNV only	patient	7	0.49658476501263715
+CNV only	patient	8	0.5317288927280289
+CNV only	patient	9	0.5166282752663403
+CNV only	patient	10	0.5721678344050933
+CNV only	site	1	0.5312649966407526
+CNV only	site	2	0.5253783152573823
+CNV only	site	3	0.5387353232875836
+CNV only	site	4	0.523530729116678
+CNV only	site	5	0.49568096746328827
+CNV only	site	6	0.5141248360367278
+CNV only	site	7	0.48972230220430624
+CNV only	site	8	0.5044390056627317
+CNV only	site	9	0.5387753143295901
+CNV only	site	10	0.5204034296317624
+all omics concatenated	patient	1	0.5908276546053683
+all omics concatenated	patient	2	0.5893719806763285
+all omics concatenated	patient	3	0.5462296445596186
+all omics concatenated	patient	4	0.6093515052628211
+all omics concatenated	patient	5	0.5678248072431775
+all omics concatenated	patient	6	0.5712480404389417
+all omics concatenated	patient	7	0.6086316665067025
+all omics concatenated	patient	8	0.6169817960776787
+all omics concatenated	patient	9	0.5872604536583805
+all omics concatenated	patient	10	0.6156380970662572
+all omics concatenated	site	1	0.5723677896151261
+all omics concatenated	site	2	0.5796941485107335
+all omics concatenated	site	3	0.5814697507758262
+all omics concatenated	site	4	0.5941229164667114
+all omics concatenated	site	5	0.5791982595898519
+all omics concatenated	site	6	0.5825894999520108
+all omics concatenated	site	7	0.574175384713824
+all omics concatenated	site	8	0.6102633010205714
+all omics concatenated	site	9	0.5930511565409349
+all omics concatenated	site	10	0.5839331989634322
