@@ -124,8 +124,9 @@ Enrichr, and STRING API/data terms still require manual confirmation.
 Aggregate reports, tables, and figures are shared subject to the applicable
 terms for source datasets and resources; aggregation does not itself confer
 redistribution rights. This documentation is not legal clearance. The
-project's own code and documentation have no repository license file yet;
-their licensing is a separate decision.
+repository's root `LICENSE` file applies the MIT License to this project's
+code and documentation, not to third-party datasets or external resources;
+their applicable terms must be reviewed separately.
 
 ## Environment and execution
 

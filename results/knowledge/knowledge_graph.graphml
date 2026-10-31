@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key id="type" for="node" attr.name="type" attr.type="string"/>
+<key id="rel" for="edge" attr.name="relation" attr.type="string"/>
+<key id="w" for="edge" attr.name="weight" attr.type="double"/>
+<graph id="nsclc_knowledge" edgedefault="undirected">
+<node id="gene:ZIC1"><data key="type">gene</data></node>
+<node id="gene:SOX2"><data key="type">gene</data></node>
+<node id="gene:ABCA3"><data key="type">gene</data></node>
+<node id="gene:SFTPC"><data key="type">gene</data></node>
+<node id="gene:IRX1"><data key="type">gene</data></node>
+<node id="gene:HNF1B"><data key="type">gene</data></node>
+<node id="factor:Factor2"><data key="type">factor</data></node>
+<node id="gene:KNDC1"><data key="type">gene</data></node>
+<node id="gene:CFTR"><data key="type">gene</data></node>
+<node id="disease:NSCLC"><data key="type">disease</data></node>
+<node id="gene:SFTA3"><data key="type">gene</data></node>
+<node id="gene:AFF3"><data key="type">gene</data></node>
+<node id="gene:SCGB3A1"><data key="type">gene</data></node>
+<node id="gene:PTPRN2"><data key="type">gene</data></node>
+<node id="gene:HOXB13"><data key="type">gene</data></node>
+<node id="gene:TCF21"><data key="type">gene</data></node>
+<node id="gene:MUC5B"><data key="type">gene</data></node>
+<node id="gene:MMP28"><data key="type">gene</data></node>
+<node id="gene:PARP15"><data key="type">gene</data></node>
+<node id="gene:NECAB2"><data key="type">gene</data></node>
+<node id="gene:SORCS2"><data key="type">gene</data></node>
+<node id="gene:TMEM132D"><data key="type">gene</data></node>
+<node id="gene:PRDM16"><data key="type">gene</data></node>
+<node id="gene:SCARA5"><data key="type">gene</data></node>
+<node id="gene:LMO3"><data key="type">gene</data></node>
+<node id="gene:PPP1R16B"><data key="type">gene</data></node>
+<node id="gene:IGF2BP1"><data key="type">gene</data></node>
+<node id="gene:HOXC6"><data key="type">gene</data></node>
+<node id="gene:CALCB"><data key="type">gene</data></node>
+<node id="gene:TMEM145"><data key="type">gene</data></node>
+<node id="gene:RASGRF1"><data key="type">gene</data></node>
+<node id="gene:NME5"><data key="type">gene</data></node>
+<node id="gene:PKNOX2"><data key="type">gene</data></node>
+<node id="gene:TNXB"><data key="type">gene</data></node>
+<node id="gene:GCLC"><data key="type">gene</data></node>
+<node id="gene:CLDN18"><data key="type">gene</data></node>
+<node id="gene:IGF2BP3"><data key="type">gene</data></node>
+<node id="gene:PPP1R1B"><data key="type">gene</data></node>
+<node id="gene:ABCC9"><data key="type">gene</data></node>
+<node id="gene:PGC"><data key="type">gene</data></node>
+<node id="gene:COL14A1"><data key="type">gene</data></node>
+<node id="gene:SFTPA1"><data key="type">gene</data></node>
+<node id="gene:ERN2"><data key="type">gene</data></node>
+<node id="gene:MSLN"><data key="type">gene</data></node>
+<node id="gene:ZBTB16"><data key="type">gene</data></node>
+<node id="gene:SFTPA2"><data key="type">gene</data></node>
+<node id="gene:TBX4"><data key="type">gene</data></node>
+<node id="gene:FAM92B"><data key="type">gene</data></node>
+<node id="gene:PEBP4"><data key="type">gene</data></node>
+<node id="gene:TEPP"><data key="type">gene</data></node>
+<node id="gene:KCNA3"><data key="type">gene</data></node>
+<node id="gene:C16orf89"><data key="type">gene</data></node>
+<node id="gene:AQP4"><data key="type">gene</data></node>
+<node id="gene:PRDM13"><data key="type">gene</data></node>
+<node id="gene:SCGB3A2"><data key="type">gene</data></node>
+<node id="gene:ADHFE1"><data key="type">gene</data></node>
+<node id="gene:ANGPT1"><data key="type">gene</data></node>
+<node id="gene:KHDRBS2"><data key="type">gene</data></node>
+<node id="gene:CLIC6"><data key="type">gene</data></node>
+<node id="gene:GRIN2A"><data key="type">gene</data></node>
+<node id="gene:GFRA1"><data key="type">gene</data></node>
+<node id="gene:SEMA5A"><data key="type">gene</data></node>
+<node id="gene:FILIP1"><data key="type">gene</data></node>
+<node id="gene:CCDC37"><data key="type">gene</data></node>
+<node id="gene:C5orf38"><data key="type">gene</data></node>
+<node id="gene:GPR133"><data key="type">gene</data></node>
+<node id="gene:DMBT1"><data key="type">gene</data></node>
+<node id="gene:RTN4RL1"><data key="type">gene</data></node>
+<node id="gene:DNAI2"><data key="type">gene</data></node>
+<node id="gene:DLX6"><data key="type">gene</data></node>
+<node id="gene:CTSE"><data key="type">gene</data></node>
+<node id="gene:SCTR"><data key="type">gene</data></node>
+<node id="gene:PNMA2"><data key="type">gene</data></node>
+<node id="gene:C1QL1"><data key="type">gene</data></node>
+<node id="gene:SFTPB"><data key="type">gene</data></node>
+<node id="gene:SHOX2"><data key="type">gene</data></node>
+<node id="gene:WIF1"><data key="type">gene</data></node>
+<node id="gene:CYP4B1"><data key="type">gene</data></node>
+<node id="gene:LRRK2"><data key="type">gene</data></node>
+<node id="gene:ATP10A"><data key="type">gene</data></node>
+<node id="gene:SFTPD"><data key="type">gene</data></node>
+<node id="gene:ALOX5"><data key="type">gene</data></node>
+<node id="gene:NAPSA"><data key="type">gene</data></node>
+<node id="gene:PCDHGB7"><data key="type">gene</data></node>
+<node id="gene:BMP2"><data key="type">gene</data></node>
+<node id="gene:DLEC1"><data key="type">gene</data></node>
+<node id="gene:PIGR"><data key="type">gene</data></node>
+<node id="gene:ADH1B"><data key="type">gene</data></node>
+<node id="gene:ITIH5"><data key="type">gene</data></node>
+<node id="gene:C8orf34"><data key="type">gene</data></node>
+<node id="gene:HOXD10"><data key="type">gene</data></node>
+<node id="gene:C4BPA"><data key="type">gene</data></node>
+<node id="gene:PLCXD3"><data key="type">gene</data></node>
+<node id="gene:COL6A6"><data key="type">gene</data></node>
+<node id="gene:ISM1"><data key="type">gene</data></node>
+<node id="gene:ADAMTS20"><data key="type">gene</data></node>
+<node id="gene:DLX5"><data key="type">gene</data></node>
+<node id="gene:GATA6"><data key="type">gene</data></node>
+<node id="gene:CA3"><data key="type">gene</data></node>
+<node id="gene:C7"><data key="type">gene</data></node>
+<node id="gene:HP"><data key="type">gene</data></node>
+<node id="gene:FOLR1"><data key="type">gene</data></node>
+<node id="pathway:Surfactant metabolism"><data key="type">pathway</data></node>
+<node id="pathway:Diseases associated with surfactant metabolism"><data key="type">pathway</data></node>
+<node id="pathway:Diseases of metabolism"><data key="type">pathway</data></node>
+<node id="pathway:Toll Like Receptor 4 (TLR4) Cascade"><data key="type">pathway</data></node>
+<node id="pathway:Metabolism of proteins"><data key="type">pathway</data></node>
+<node id="gene:CYP4F3"><data key="type">gene</data></node>
+<node id="gene:CYP4F11"><data key="type">gene</data></node>
+<node id="gene:ALDH1A1"><data key="type">gene</data></node>
+<node id="factor:Factor4"><data key="type">factor</data></node>
+<node id="gene:CALML3"><data key="type">gene</data></node>
+<node id="gene:LRRC4"><data key="type">gene</data></node>
+<node id="gene:FAM83C"><data key="type">gene</data></node>
+<node id="gene:RAPGEFL1"><data key="type">gene</data></node>
+<node id="gene:ADH7"><data key="type">gene</data></node>
+<node id="gene:NTRK2"><data key="type">gene</data></node>
+<node id="gene:KRT7"><data key="type">gene</data></node>
+<node id="gene:GLI2"><data key="type">gene</data></node>
+<node id="gene:NLGN1"><data key="type">gene</data></node>
+<node id="gene:RGMA"><data key="type">gene</data></node>
+<node id="gene:ADAM23"><data key="type">gene</data></node>
+<node id="gene:ADAM8"><data key="type">gene</data></node>
+<node id="gene:GSTA1"><data key="type">gene</data></node>
+<node id="gene:PCDH15"><data key="type">gene</data></node>
+<node id="gene:HAS3"><data key="type">gene</data></node>
+<node id="gene:CYP26A1"><data key="type">gene</data></node>
+<node id="gene:SOST"><data key="type">gene</data></node>
+<node id="gene:FEZF1"><data key="type">gene</data></node>
+<node id="gene:FETUB"><data key="type">gene</data></node>
+<node id="gene:PTPRT"><data key="type">gene</data></node>
+<node id="gene:NTS"><data key="type">gene</data></node>
+<node id="gene:UGT1A7"><data key="type">gene</data></node>
+<node id="gene:KRT13"><data key="type">gene</data></node>
+<node id="gene:SPRR3"><data key="type">gene</data></node>
+<node id="gene:FOXE1"><data key="type">gene</data></node>
+<node id="gene:PTPRZ1"><data key="type">gene</data></node>
+<node id="gene:GDA"><data key="type">gene</data></node>
+<node id="gene:SPRR1A"><data key="type">gene</data></node>
+<node id="gene:PAX6"><data key="type">gene</data></node>
+<node id="gene:SYT7"><data key="type">gene</data></node>
+<node id="gene:TUBB3"><data key="type">gene</data></node>
+<node id="gene:DSG3"><data key="type">gene</data></node>
+<node id="gene:ALDH3A1"><data key="type">gene</data></node>
+<node id="gene:GBP6"><data key="type">gene</data></node>
+<node id="gene:LGI3"><data key="type">gene</data></node>
+<node id="gene:BCHE"><data key="type">gene</data></node>
+<node id="gene:CHST2"><data key="type">gene</data></node>
+<node id="gene:MRAP2"><data key="type">gene</data></node>
+<node id="gene:DMRT2"><data key="type">gene</data></node>
+<node id="gene:CLCA2"><data key="type">gene</data></node>
+<node id="gene:NRXN3"><data key="type">gene</data></node>
+<node id="gene:ZBTB7C"><data key="type">gene</data></node>
+<node id="gene:USH1G"><data key="type">gene</data></node>
+<node id="gene:TP63"><data key="type">gene</data></node>
+<node id="gene:SDK1"><data key="type">gene</data></node>
+<node id="gene:C11orf88"><data key="type">gene</data></node>
+<node id="gene:ZNF750"><data key="type">gene</data></node>
+<node id="gene:CHST9"><data key="type">gene</data></node>
+<node id="gene:CHP2"><data key="type">gene</data></node>
+<node id="gene:SERPINB13"><data key="type">gene</data></node>
+<node id="gene:EEF1A2"><data key="type">gene</data></node>
+<node id="gene:SOSTDC1"><data key="type">gene</data></node>
+<node id="gene:MIAT"><data key="type">gene</data></node>
+<node id="gene:NRN1"><data key="type">gene</data></node>
+<node id="gene:AKR1C1"><data key="type">gene</data></node>
+<node id="gene:AKR1C2"><data key="type">gene</data></node>
+<node id="gene:CNTNAP2"><data key="type">gene</data></node>
+<node id="gene:CYP24A1"><data key="type">gene</data></node>
+<node id="gene:ABCA13"><data key="type">gene</data></node>
+<node id="gene:UGT1A6"><data key="type">gene</data></node>
+<node id="gene:DAPL1"><data key="type">gene</data></node>
+<node id="gene:CSMD1"><data key="type">gene</data></node>
+<node id="gene:CYP2C18"><data key="type">gene</data></node>
+<node id="gene:SPRR2A"><data key="type">gene</data></node>
+<node id="gene:ADCY10"><data key="type">gene</data></node>
+<node id="gene:PLCH2"><data key="type">gene</data></node>
+<node id="gene:ELF5"><data key="type">gene</data></node>
+<node id="gene:KRT5"><data key="type">gene</data></node>
+<node id="gene:UPK1B"><data key="type">gene</data></node>
+<node id="gene:DSC3"><data key="type">gene</data></node>
+<node id="gene:IGSF11"><data key="type">gene</data></node>
+<node id="gene:JAKMIP3"><data key="type">gene</data></node>
+<node id="gene:SPRR1B"><data key="type">gene</data></node>
+<node id="gene:PKP1"><data key="type">gene</data></node>
+<node id="gene:FGFBP2"><data key="type">gene</data></node>
+<node id="gene:PLA2G3"><data key="type">gene</data></node>
+<node id="gene:UGT1A9"><data key="type">gene</data></node>
+<node id="gene:MAPK10"><data key="type">gene</data></node>
+<node id="gene:NOS2"><data key="type">gene</data></node>
+<node id="gene:GPX2"><data key="type">gene</data></node>
+<node id="gene:GLYATL2"><data key="type">gene</data></node>
+<node id="gene:AKR1B10"><data key="type">gene</data></node>
+<node id="gene:SOX21"><data key="type">gene</data></node>
+<node id="gene:SOX2OT"><data key="type">gene</data></node>
+<node id="gene:C1orf110"><data key="type">gene</data></node>
+<node id="gene:ATP13A4"><data key="type">gene</data></node>
+<node id="gene:BMP7"><data key="type">gene</data></node>
+<node id="gene:WSCD2"><data key="type">gene</data></node>
+<node id="gene:AADAC"><data key="type">gene</data></node>
+<node id="gene:PCSK2"><data key="type">gene</data></node>
+<node id="gene:SLC9A4"><data key="type">gene</data></node>
+<node id="gene:OTOP2"><data key="type">gene</data></node>
+<node id="gene:AKR1C3"><data key="type">gene</data></node>
+<node id="pathway:Biological oxidations"><data key="type">pathway</data></node>
+<node id="pathway:Phase I - Functionalization of compounds"><data key="type">pathway</data></node>
+<node id="pathway:Metabolism"><data key="type">pathway</data></node>
+<node id="pathway:Cytochrome P450 - arranged by substrate type"><data key="type">pathway</data></node>
+<node id="pathway:Developmental Biology"><data key="type">pathway</data></node>
+<node id="pathway:Xenobiotic Metabolism"><data key="type">pathway</data></node>
+<node id="gene:KRT14"><data key="type">gene</data></node>
+<node id="gene:KRT17"><data key="type">gene</data></node>
+<node id="gene:KRT16"><data key="type">gene</data></node>
+<node id="gene:CHRD"><data key="type">gene</data></node>
+<node id="gene:BMP6"><data key="type">gene</data></node>
+<node id="gene:SERPINB3"><data key="type">gene</data></node>
+<node id="gene:SERPINB4"><data key="type">gene</data></node>
+<node id="factor:Factor5"><data key="type">factor</data></node>
+<node id="gene:ASCL1"><data key="type">gene</data></node>
+<node id="gene:CTNND2"><data key="type">gene</data></node>
+<node id="gene:SRCIN1"><data key="type">gene</data></node>
+<node id="gene:ATP8B3"><data key="type">gene</data></node>
+<node id="gene:KRT6A"><data key="type">gene</data></node>
+<node id="gene:NOL4"><data key="type">gene</data></node>
+<node id="gene:KRT6B"><data key="type">gene</data></node>
+<node id="gene:MFI2"><data key="type">gene</data></node>
+<node id="gene:TUBB2B"><data key="type">gene</data></node>
+<node id="gene:WNT7A"><data key="type">gene</data></node>
+<node id="gene:KRT6C"><data key="type">gene</data></node>
+<node id="gene:PAH"><data key="type">gene</data></node>
+<node id="gene:KCNH2"><data key="type">gene</data></node>
+<node id="gene:CALN1"><data key="type">gene</data></node>
+<node id="gene:CELF4"><data key="type">gene</data></node>
+<node id="gene:TFAP2B"><data key="type">gene</data></node>
+<node id="gene:GPR115"><data key="type">gene</data></node>
+<node id="gene:SV2A"><data key="type">gene</data></node>
+<node id="gene:DOK6"><data key="type">gene</data></node>
+<node id="gene:LY6D"><data key="type">gene</data></node>
+<node id="gene:ANXA8"><data key="type">gene</data></node>
+<node id="gene:GPR87"><data key="type">gene</data></node>
+<node id="gene:SYN3"><data key="type">gene</data></node>
+<node id="gene:LY6K"><data key="type">gene</data></node>
+<node id="gene:LAMC2"><data key="type">gene</data></node>
+<node id="gene:ATP6V1B1"><data key="type">gene</data></node>
+<node id="gene:SERPINB5"><data key="type">gene</data></node>
+<node id="gene:SERPINB7"><data key="type">gene</data></node>
+<node id="gene:TNS4"><data key="type">gene</data></node>
+<node id="gene:HCG4"><data key="type">gene</data></node>
+<node id="gene:KCNB2"><data key="type">gene</data></node>
+<node id="gene:GJB3"><data key="type">gene</data></node>
+<node id="gene:ANXA8L2"><data key="type">gene</data></node>
+<node id="gene:MDFI"><data key="type">gene</data></node>
+<node id="gene:APBA2"><data key="type">gene</data></node>
+<node id="gene:TMEM171"><data key="type">gene</data></node>
+<node id="gene:KLK6"><data key="type">gene</data></node>
+<node id="gene:CALCA"><data key="type">gene</data></node>
+<node id="gene:NKX2-1"><data key="type">gene</data></node>
+<node id="gene:ESYT3"><data key="type">gene</data></node>
+<node id="gene:PEX5L"><data key="type">gene</data></node>
+<node id="gene:ARL14"><data key="type">gene</data></node>
+<node id="gene:WBSCR17"><data key="type">gene</data></node>
+<node id="gene:GFRA3"><data key="type">gene</data></node>
+<node id="gene:PI3"><data key="type">gene</data></node>
+<node id="gene:ASXL3"><data key="type">gene</data></node>
+<node id="gene:KLHL14"><data key="type">gene</data></node>
+<node id="gene:NELL1"><data key="type">gene</data></node>
+<node id="gene:MYRIP"><data key="type">gene</data></node>
+<node id="gene:FOXI3"><data key="type">gene</data></node>
+<node id="gene:IL20RB"><data key="type">gene</data></node>
+<node id="gene:GJB2"><data key="type">gene</data></node>
+<node id="gene:ANO1"><data key="type">gene</data></node>
+<node id="gene:PROM2"><data key="type">gene</data></node>
+<node id="gene:RHCG"><data key="type">gene</data></node>
+<node id="gene:GJB5"><data key="type">gene</data></node>
+<node id="gene:ZMAT4"><data key="type">gene</data></node>
+<node id="gene:IL1A"><data key="type">gene</data></node>
+<node id="gene:KIF5C"><data key="type">gene</data></node>
+<node id="gene:LYPD3"><data key="type">gene</data></node>
+<node id="gene:DDC"><data key="type">gene</data></node>
+<node id="gene:PSCA"><data key="type">gene</data></node>
+<node id="gene:IGFBPL1"><data key="type">gene</data></node>
+<node id="gene:PADI1"><data key="type">gene</data></node>
+<node id="gene:KIF1A"><data key="type">gene</data></node>
+<node id="gene:DLGAP1"><data key="type">gene</data></node>
+<node id="gene:BAI1"><data key="type">gene</data></node>
+<node id="gene:S100A9"><data key="type">gene</data></node>
+<node id="gene:MEX3A"><data key="type">gene</data></node>
+<node id="gene:SEMA3E"><data key="type">gene</data></node>
+<node id="gene:GJB4"><data key="type">gene</data></node>
+<node id="pathway:Formation of the cornified envelope"><data key="type">pathway</data></node>
+<node id="pathway:Keratinization"><data key="type">pathway</data></node>
+<node id="pathway:Vesicle-mediated transport"><data key="type">pathway</data></node>
+<node id="pathway:RET signaling"><data key="type">pathway</data></node>
+<node id="pathway:Membrane Trafficking"><data key="type">pathway</data></node>
+<node id="pathway:p53 Pathway"><data key="type">pathway</data></node>
+<node id="pathway:KRAS Signaling Dn"><data key="type">pathway</data></node>
+<edge id="e0" source="gene:ZIC1" target="gene:SOX2"><data key="rel">STRING</data><data key="w">0.881</data></edge>
+<edge id="e1" source="gene:ABCA3" target="gene:SFTPC"><data key="rel">STRING</data><data key="w">0.89</data></edge>
+<edge id="e2" source="gene:IRX1" target="gene:HNF1B"><data key="rel">STRING</data><data key="w">0.802</data></edge>
+<edge id="e3" source="factor:Factor2" target="gene:KNDC1"><data key="rel">weight</data><data key="w">1.2764</data></edge>
+<edge id="e4" source="factor:Factor2" target="gene:CFTR"><data key="rel">weight</data><data key="w">1.2438</data></edge>
+<edge id="e5" source="gene:CFTR" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1014</data></edge>
+<edge id="e6" source="factor:Factor2" target="gene:SFTA3"><data key="rel">weight</data><data key="w">1.2206</data></edge>
+<edge id="e7" source="gene:SFTA3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0785</data></edge>
+<edge id="e8" source="factor:Factor2" target="gene:AFF3"><data key="rel">weight</data><data key="w">1.1393</data></edge>
+<edge id="e9" source="gene:AFF3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.436</data></edge>
+<edge id="e10" source="factor:Factor2" target="gene:SCGB3A1"><data key="rel">weight</data><data key="w">1.122</data></edge>
+<edge id="e11" source="gene:SCGB3A1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.09</data></edge>
+<edge id="e12" source="factor:Factor2" target="gene:PTPRN2"><data key="rel">weight</data><data key="w">1.1208</data></edge>
+<edge id="e13" source="gene:PTPRN2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0142</data></edge>
+<edge id="e14" source="factor:Factor2" target="gene:HOXB13"><data key="rel">weight</data><data key="w">1.1179</data></edge>
+<edge id="e15" source="gene:HOXB13" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.092</data></edge>
+<edge id="e16" source="factor:Factor2" target="gene:IRX1"><data key="rel">weight</data><data key="w">1.0985</data></edge>
+<edge id="e17" source="gene:IRX1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0599</data></edge>
+<edge id="e18" source="factor:Factor2" target="gene:TCF21"><data key="rel">weight</data><data key="w">1.0951</data></edge>
+<edge id="e19" source="gene:TCF21" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0796</data></edge>
+<edge id="e20" source="factor:Factor2" target="gene:SFTPC"><data key="rel">weight</data><data key="w">1.0661</data></edge>
+<edge id="e21" source="gene:SFTPC" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1204</data></edge>
+<edge id="e22" source="factor:Factor2" target="gene:HNF1B"><data key="rel">weight</data><data key="w">1.0494</data></edge>
+<edge id="e23" source="gene:HNF1B" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.313</data></edge>
+<edge id="e24" source="factor:Factor2" target="gene:MUC5B"><data key="rel">weight</data><data key="w">1.0471</data></edge>
+<edge id="e25" source="gene:MUC5B" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1139</data></edge>
+<edge id="e26" source="factor:Factor2" target="gene:MMP28"><data key="rel">weight</data><data key="w">1.0189</data></edge>
+<edge id="e27" source="gene:MMP28" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0068</data></edge>
+<edge id="e28" source="factor:Factor2" target="gene:PARP15"><data key="rel">weight</data><data key="w">1.0146</data></edge>
+<edge id="e29" source="gene:PARP15" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0052</data></edge>
+<edge id="e30" source="factor:Factor2" target="gene:NECAB2"><data key="rel">weight</data><data key="w">1.0067</data></edge>
+<edge id="e31" source="factor:Factor2" target="gene:SORCS2"><data key="rel">weight</data><data key="w">1.0049</data></edge>
+<edge id="e32" source="gene:SORCS2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0018</data></edge>
+<edge id="e33" source="factor:Factor2" target="gene:TMEM132D"><data key="rel">weight</data><data key="w">1.0025</data></edge>
+<edge id="e34" source="gene:TMEM132D" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0203</data></edge>
+<edge id="e35" source="factor:Factor2" target="gene:PRDM16"><data key="rel">weight</data><data key="w">0.9983</data></edge>
+<edge id="e36" source="gene:PRDM16" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.404</data></edge>
+<edge id="e37" source="factor:Factor2" target="gene:SCARA5"><data key="rel">weight</data><data key="w">0.9797</data></edge>
+<edge id="e38" source="gene:SCARA5" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0939</data></edge>
+<edge id="e39" source="factor:Factor2" target="gene:LMO3"><data key="rel">weight</data><data key="w">0.9785</data></edge>
+<edge id="e40" source="gene:LMO3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0646</data></edge>
+<edge id="e41" source="factor:Factor2" target="gene:PPP1R16B"><data key="rel">weight</data><data key="w">0.9633</data></edge>
+<edge id="e42" source="gene:PPP1R16B" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.01</data></edge>
+<edge id="e43" source="factor:Factor2" target="gene:IGF2BP1"><data key="rel">weight</data><data key="w">0.954</data></edge>
+<edge id="e44" source="gene:IGF2BP1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.125</data></edge>
+<edge id="e45" source="factor:Factor2" target="gene:HOXC6"><data key="rel">weight</data><data key="w">0.9383</data></edge>
+<edge id="e46" source="gene:HOXC6" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1022</data></edge>
+<edge id="e47" source="factor:Factor2" target="gene:CALCB"><data key="rel">weight</data><data key="w">0.9156</data></edge>
+<edge id="e48" source="gene:CALCB" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0111</data></edge>
+<edge id="e49" source="factor:Factor2" target="gene:TMEM145"><data key="rel">weight</data><data key="w">0.9145</data></edge>
+<edge id="e50" source="factor:Factor2" target="gene:RASGRF1"><data key="rel">weight</data><data key="w">0.9095</data></edge>
+<edge id="e51" source="gene:RASGRF1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0867</data></edge>
+<edge id="e52" source="factor:Factor2" target="gene:NME5"><data key="rel">weight</data><data key="w">0.9078</data></edge>
+<edge id="e53" source="gene:NME5" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0066</data></edge>
+<edge id="e54" source="factor:Factor2" target="gene:PKNOX2"><data key="rel">weight</data><data key="w">0.9074</data></edge>
+<edge id="e55" source="gene:PKNOX2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0205</data></edge>
+<edge id="e56" source="factor:Factor2" target="gene:TNXB"><data key="rel">weight</data><data key="w">0.9009</data></edge>
+<edge id="e57" source="gene:TNXB" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0366</data></edge>
+<edge id="e58" source="factor:Factor2" target="gene:GCLC"><data key="rel">weight</data><data key="w">0.8989</data></edge>
+<edge id="e59" source="gene:GCLC" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.3334</data></edge>
+<edge id="e60" source="factor:Factor2" target="gene:CLDN18"><data key="rel">weight</data><data key="w">0.8988</data></edge>
+<edge id="e61" source="gene:CLDN18" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1023</data></edge>
+<edge id="e62" source="factor:Factor2" target="gene:IGF2BP3"><data key="rel">weight</data><data key="w">0.8969</data></edge>
+<edge id="e63" source="gene:IGF2BP3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1223</data></edge>
+<edge id="e64" source="factor:Factor2" target="gene:PPP1R1B"><data key="rel">weight</data><data key="w">0.8952</data></edge>
+<edge id="e65" source="gene:PPP1R1B" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1047</data></edge>
+<edge id="e66" source="factor:Factor2" target="gene:ABCC9"><data key="rel">weight</data><data key="w">0.8895</data></edge>
+<edge id="e67" source="gene:ABCC9" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0126</data></edge>
+<edge id="e68" source="factor:Factor2" target="gene:PGC"><data key="rel">weight</data><data key="w">0.8888</data></edge>
+<edge id="e69" source="gene:PGC" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0397</data></edge>
+<edge id="e70" source="factor:Factor2" target="gene:COL14A1"><data key="rel">weight</data><data key="w">0.8866</data></edge>
+<edge id="e71" source="gene:COL14A1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0151</data></edge>
+<edge id="e72" source="factor:Factor2" target="gene:SFTPA1"><data key="rel">weight</data><data key="w">0.8806</data></edge>
+<edge id="e73" source="gene:SFTPA1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0971</data></edge>
+<edge id="e74" source="factor:Factor2" target="gene:ERN2"><data key="rel">weight</data><data key="w">0.8743</data></edge>
+<edge id="e75" source="gene:ERN2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0107</data></edge>
+<edge id="e76" source="factor:Factor2" target="gene:MSLN"><data key="rel">weight</data><data key="w">0.864</data></edge>
+<edge id="e77" source="gene:MSLN" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1359</data></edge>
+<edge id="e78" source="factor:Factor2" target="gene:ZBTB16"><data key="rel">weight</data><data key="w">0.8602</data></edge>
+<edge id="e79" source="gene:ZBTB16" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.3595</data></edge>
+<edge id="e80" source="factor:Factor2" target="gene:SFTPA2"><data key="rel">weight</data><data key="w">0.8586</data></edge>
+<edge id="e81" source="gene:SFTPA2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0738</data></edge>
+<edge id="e82" source="factor:Factor2" target="gene:TBX4"><data key="rel">weight</data><data key="w">0.8568</data></edge>
+<edge id="e83" source="gene:TBX4" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0887</data></edge>
+<edge id="e84" source="factor:Factor2" target="gene:FAM92B"><data key="rel">weight</data><data key="w">0.855</data></edge>
+<edge id="e85" source="factor:Factor2" target="gene:PEBP4"><data key="rel">weight</data><data key="w">0.8525</data></edge>
+<edge id="e86" source="gene:PEBP4" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0521</data></edge>
+<edge id="e87" source="factor:Factor2" target="gene:TEPP"><data key="rel">weight</data><data key="w">0.8522</data></edge>
+<edge id="e88" source="factor:Factor2" target="gene:KCNA3"><data key="rel">weight</data><data key="w">0.8519</data></edge>
+<edge id="e89" source="gene:KCNA3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0366</data></edge>
+<edge id="e90" source="factor:Factor2" target="gene:C16orf89"><data key="rel">weight</data><data key="w">0.8494</data></edge>
+<edge id="e91" source="gene:C16orf89" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0259</data></edge>
+<edge id="e92" source="factor:Factor2" target="gene:AQP4"><data key="rel">weight</data><data key="w">0.8468</data></edge>
+<edge id="e93" source="gene:AQP4" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1172</data></edge>
+<edge id="e94" source="factor:Factor2" target="gene:PRDM13"><data key="rel">weight</data><data key="w">0.8377</data></edge>
+<edge id="e95" source="gene:PRDM13" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0098</data></edge>
+<edge id="e96" source="factor:Factor2" target="gene:SCGB3A2"><data key="rel">weight</data><data key="w">0.8323</data></edge>
+<edge id="e97" source="gene:SCGB3A2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0453</data></edge>
+<edge id="e98" source="factor:Factor2" target="gene:ADHFE1"><data key="rel">weight</data><data key="w">0.8318</data></edge>
+<edge id="e99" source="gene:ADHFE1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.003</data></edge>
+<edge id="e100" source="factor:Factor2" target="gene:ZIC1"><data key="rel">weight</data><data key="w">0.8269</data></edge>
+<edge id="e101" source="gene:ZIC1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0046</data></edge>
+<edge id="e102" source="factor:Factor2" target="gene:ANGPT1"><data key="rel">weight</data><data key="w">0.8178</data></edge>
+<edge id="e103" source="gene:ANGPT1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0673</data></edge>
+<edge id="e104" source="factor:Factor2" target="gene:KHDRBS2"><data key="rel">weight</data><data key="w">0.8176</data></edge>
+<edge id="e105" source="gene:KHDRBS2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0262</data></edge>
+<edge id="e106" source="factor:Factor2" target="gene:CLIC6"><data key="rel">weight</data><data key="w">0.8075</data></edge>
+<edge id="e107" source="gene:CLIC6" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0173</data></edge>
+<edge id="e108" source="factor:Factor2" target="gene:GRIN2A"><data key="rel">weight</data><data key="w">0.7993</data></edge>
+<edge id="e109" source="gene:GRIN2A" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.4043</data></edge>
+<edge id="e110" source="factor:Factor2" target="gene:GFRA1"><data key="rel">weight</data><data key="w">0.7976</data></edge>
+<edge id="e111" source="gene:GFRA1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.005</data></edge>
+<edge id="e112" source="factor:Factor2" target="gene:SEMA5A"><data key="rel">weight</data><data key="w">0.7956</data></edge>
+<edge id="e113" source="gene:SEMA5A" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0873</data></edge>
+<edge id="e114" source="factor:Factor2" target="gene:FILIP1"><data key="rel">weight</data><data key="w">0.7916</data></edge>
+<edge id="e115" source="gene:FILIP1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.025</data></edge>
+<edge id="e116" source="factor:Factor2" target="gene:CCDC37"><data key="rel">weight</data><data key="w">0.7915</data></edge>
+<edge id="e117" source="factor:Factor2" target="gene:C5orf38"><data key="rel">weight</data><data key="w">0.7897</data></edge>
+<edge id="e118" source="factor:Factor2" target="gene:GPR133"><data key="rel">weight</data><data key="w">0.7883</data></edge>
+<edge id="e119" source="factor:Factor2" target="gene:DMBT1"><data key="rel">weight</data><data key="w">0.779</data></edge>
+<edge id="e120" source="gene:DMBT1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0246</data></edge>
+<edge id="e121" source="factor:Factor2" target="gene:RTN4RL1"><data key="rel">weight</data><data key="w">0.778</data></edge>
+<edge id="e122" source="gene:RTN4RL1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0111</data></edge>
+<edge id="e123" source="factor:Factor2" target="gene:DNAI2"><data key="rel">weight</data><data key="w">0.7769</data></edge>
+<edge id="e124" source="gene:DNAI2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0117</data></edge>
+<edge id="e125" source="factor:Factor2" target="gene:DLX6"><data key="rel">weight</data><data key="w">0.7761</data></edge>
+<edge id="e126" source="gene:DLX6" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1213</data></edge>
+<edge id="e127" source="factor:Factor2" target="gene:CTSE"><data key="rel">weight</data><data key="w">0.7729</data></edge>
+<edge id="e128" source="gene:CTSE" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0216</data></edge>
+<edge id="e129" source="factor:Factor2" target="gene:SCTR"><data key="rel">weight</data><data key="w">0.7635</data></edge>
+<edge id="e130" source="gene:SCTR" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0067</data></edge>
+<edge id="e131" source="factor:Factor2" target="gene:PNMA2"><data key="rel">weight</data><data key="w">0.7631</data></edge>
+<edge id="e132" source="gene:PNMA2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0166</data></edge>
+<edge id="e133" source="factor:Factor2" target="gene:C1QL1"><data key="rel">weight</data><data key="w">0.7623</data></edge>
+<edge id="e134" source="gene:C1QL1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0144</data></edge>
+<edge id="e135" source="factor:Factor2" target="gene:SFTPB"><data key="rel">weight</data><data key="w">0.7609</data></edge>
+<edge id="e136" source="gene:SFTPB" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1175</data></edge>
+<edge id="e137" source="factor:Factor2" target="gene:SHOX2"><data key="rel">weight</data><data key="w">0.7597</data></edge>
+<edge id="e138" source="gene:SHOX2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1157</data></edge>
+<edge id="e139" source="factor:Factor2" target="gene:WIF1"><data key="rel">weight</data><data key="w">0.758</data></edge>
+<edge id="e140" source="gene:WIF1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.3945</data></edge>
+<edge id="e141" source="factor:Factor2" target="gene:CYP4B1"><data key="rel">weight</data><data key="w">0.754</data></edge>
+<edge id="e142" source="gene:CYP4B1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1133</data></edge>
+<edge id="e143" source="factor:Factor2" target="gene:LRRK2"><data key="rel">weight</data><data key="w">0.7534</data></edge>
+<edge id="e144" source="gene:LRRK2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0661</data></edge>
+<edge id="e145" source="factor:Factor2" target="gene:ATP10A"><data key="rel">weight</data><data key="w">0.7471</data></edge>
+<edge id="e146" source="factor:Factor2" target="gene:SOX2"><data key="rel">weight</data><data key="w">0.7447</data></edge>
+<edge id="e147" source="gene:SOX2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.4476</data></edge>
+<edge id="e148" source="factor:Factor2" target="gene:SFTPD"><data key="rel">weight</data><data key="w">0.7425</data></edge>
+<edge id="e149" source="gene:SFTPD" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0667</data></edge>
+<edge id="e150" source="factor:Factor2" target="gene:ALOX5"><data key="rel">weight</data><data key="w">0.7409</data></edge>
+<edge id="e151" source="gene:ALOX5" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.111</data></edge>
+<edge id="e152" source="factor:Factor2" target="gene:NAPSA"><data key="rel">weight</data><data key="w">0.7398</data></edge>
+<edge id="e153" source="gene:NAPSA" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0911</data></edge>
+<edge id="e154" source="factor:Factor2" target="gene:PCDHGB7"><data key="rel">weight</data><data key="w">0.7397</data></edge>
+<edge id="e155" source="gene:PCDHGB7" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0357</data></edge>
+<edge id="e156" source="factor:Factor2" target="gene:BMP2"><data key="rel">weight</data><data key="w">0.7351</data></edge>
+<edge id="e157" source="gene:BMP2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1112</data></edge>
+<edge id="e158" source="factor:Factor2" target="gene:DLEC1"><data key="rel">weight</data><data key="w">0.7335</data></edge>
+<edge id="e159" source="gene:DLEC1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0878</data></edge>
+<edge id="e160" source="factor:Factor2" target="gene:PIGR"><data key="rel">weight</data><data key="w">0.7333</data></edge>
+<edge id="e161" source="gene:PIGR" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0226</data></edge>
+<edge id="e162" source="factor:Factor2" target="gene:ADH1B"><data key="rel">weight</data><data key="w">0.7326</data></edge>
+<edge id="e163" source="gene:ADH1B" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1071</data></edge>
+<edge id="e164" source="factor:Factor2" target="gene:ABCA3"><data key="rel">weight</data><data key="w">0.7313</data></edge>
+<edge id="e165" source="gene:ABCA3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1034</data></edge>
+<edge id="e166" source="factor:Factor2" target="gene:ITIH5"><data key="rel">weight</data><data key="w">0.7277</data></edge>
+<edge id="e167" source="gene:ITIH5" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0394</data></edge>
+<edge id="e168" source="factor:Factor2" target="gene:C8orf34"><data key="rel">weight</data><data key="w">0.7254</data></edge>
+<edge id="e169" source="gene:C8orf34" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0259</data></edge>
+<edge id="e170" source="factor:Factor2" target="gene:HOXD10"><data key="rel">weight</data><data key="w">0.7192</data></edge>
+<edge id="e171" source="gene:HOXD10" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0616</data></edge>
+<edge id="e172" source="factor:Factor2" target="gene:C4BPA"><data key="rel">weight</data><data key="w">0.7175</data></edge>
+<edge id="e173" source="gene:C4BPA" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0274</data></edge>
+<edge id="e174" source="factor:Factor2" target="gene:PLCXD3"><data key="rel">weight</data><data key="w">0.7146</data></edge>
+<edge id="e175" source="gene:PLCXD3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0053</data></edge>
+<edge id="e176" source="factor:Factor2" target="gene:COL6A6"><data key="rel">weight</data><data key="w">0.7126</data></edge>
+<edge id="e177" source="gene:COL6A6" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1033</data></edge>
+<edge id="e178" source="factor:Factor2" target="gene:ISM1"><data key="rel">weight</data><data key="w">0.7096</data></edge>
+<edge id="e179" source="factor:Factor2" target="gene:ADAMTS20"><data key="rel">weight</data><data key="w">0.7067</data></edge>
+<edge id="e180" source="gene:ADAMTS20" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.042</data></edge>
+<edge id="e181" source="factor:Factor2" target="gene:DLX5"><data key="rel">weight</data><data key="w">0.7038</data></edge>
+<edge id="e182" source="gene:DLX5" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0483</data></edge>
+<edge id="e183" source="factor:Factor2" target="gene:GATA6"><data key="rel">weight</data><data key="w">0.7036</data></edge>
+<edge id="e184" source="gene:GATA6" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1157</data></edge>
+<edge id="e185" source="factor:Factor2" target="gene:CA3"><data key="rel">weight</data><data key="w">0.6981</data></edge>
+<edge id="e186" source="gene:CA3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0137</data></edge>
+<edge id="e187" source="factor:Factor2" target="gene:C7"><data key="rel">weight</data><data key="w">0.6915</data></edge>
+<edge id="e188" source="gene:C7" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0359</data></edge>
+<edge id="e189" source="factor:Factor2" target="gene:HP"><data key="rel">weight</data><data key="w">0.6904</data></edge>
+<edge id="e190" source="gene:HP" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.084</data></edge>
+<edge id="e191" source="factor:Factor2" target="gene:FOLR1"><data key="rel">weight</data><data key="w">0.6884</data></edge>
+<edge id="e192" source="gene:FOLR1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.3209</data></edge>
+<edge id="e193" source="gene:ABCA3" target="pathway:Surfactant metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e194" source="gene:DMBT1" target="pathway:Surfactant metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e195" source="gene:GATA6" target="pathway:Surfactant metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e196" source="gene:NAPSA" target="pathway:Surfactant metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e197" source="gene:SFTA3" target="pathway:Surfactant metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e198" source="gene:SFTPA1" target="pathway:Surfactant metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e199" source="gene:SFTPA2" target="pathway:Surfactant metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e200" source="gene:SFTPB" target="pathway:Surfactant metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e201" source="gene:SFTPC" target="pathway:Surfactant metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e202" source="gene:SFTPD" target="pathway:Surfactant metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e203" source="gene:ABCA3" target="pathway:Diseases associated with surfactant metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e204" source="gene:SFTA3" target="pathway:Diseases associated with surfactant metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e205" source="gene:SFTPA1" target="pathway:Diseases associated with surfactant metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e206" source="gene:SFTPA2" target="pathway:Diseases associated with surfactant metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e207" source="gene:SFTPB" target="pathway:Diseases associated with surfactant metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e208" source="gene:SFTPC" target="pathway:Diseases associated with surfactant metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e209" source="gene:SFTPD" target="pathway:Diseases associated with surfactant metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e210" source="gene:ABCA3" target="pathway:Diseases of metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e211" source="gene:ADAMTS20" target="pathway:Diseases of metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e212" source="gene:GCLC" target="pathway:Diseases of metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e213" source="gene:MUC5B" target="pathway:Diseases of metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e214" source="gene:SEMA5A" target="pathway:Diseases of metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e215" source="gene:SFTA3" target="pathway:Diseases of metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e216" source="gene:SFTPA1" target="pathway:Diseases of metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e217" source="gene:SFTPA2" target="pathway:Diseases of metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e218" source="gene:SFTPB" target="pathway:Diseases of metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e219" source="gene:SFTPC" target="pathway:Diseases of metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e220" source="gene:SFTPD" target="pathway:Diseases of metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e221" source="gene:SFTPA1" target="pathway:Toll Like Receptor 4 (TLR4) Cascade"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e222" source="gene:SFTPA2" target="pathway:Toll Like Receptor 4 (TLR4) Cascade"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e223" source="gene:SFTPD" target="pathway:Toll Like Receptor 4 (TLR4) Cascade"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e224" source="gene:ABCA3" target="pathway:Metabolism of proteins"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e225" source="gene:ADAMTS20" target="pathway:Metabolism of proteins"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e226" source="gene:CFTR" target="pathway:Metabolism of proteins"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e227" source="gene:DMBT1" target="pathway:Metabolism of proteins"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e228" source="gene:FOLR1" target="pathway:Metabolism of proteins"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e229" source="gene:GATA6" target="pathway:Metabolism of proteins"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e230" source="gene:MSLN" target="pathway:Metabolism of proteins"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e231" source="gene:MUC5B" target="pathway:Metabolism of proteins"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e232" source="gene:NAPSA" target="pathway:Metabolism of proteins"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e233" source="gene:RTN4RL1" target="pathway:Metabolism of proteins"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e234" source="gene:SEMA5A" target="pathway:Metabolism of proteins"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e235" source="gene:SFTA3" target="pathway:Metabolism of proteins"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e236" source="gene:SFTPA1" target="pathway:Metabolism of proteins"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e237" source="gene:SFTPA2" target="pathway:Metabolism of proteins"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e238" source="gene:SFTPB" target="pathway:Metabolism of proteins"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e239" source="gene:SFTPC" target="pathway:Metabolism of proteins"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e240" source="gene:SFTPD" target="pathway:Metabolism of proteins"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e241" source="gene:ZBTB16" target="pathway:Metabolism of proteins"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e242" source="gene:CYP4F3" target="gene:CYP4F11"><data key="rel">STRING</data><data key="w">0.877</data></edge>
+<edge id="e243" source="gene:ALDH1A1" target="gene:SOX2"><data key="rel">STRING</data><data key="w">0.759</data></edge>
+<edge id="e244" source="factor:Factor4" target="gene:CALML3"><data key="rel">weight</data><data key="w">1.3328</data></edge>
+<edge id="e245" source="gene:CALML3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0616</data></edge>
+<edge id="e246" source="factor:Factor4" target="gene:LRRC4"><data key="rel">weight</data><data key="w">1.3011</data></edge>
+<edge id="e247" source="gene:LRRC4" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0251</data></edge>
+<edge id="e248" source="factor:Factor4" target="gene:FAM83C"><data key="rel">weight</data><data key="w">1.1549</data></edge>
+<edge id="e249" source="factor:Factor4" target="gene:RAPGEFL1"><data key="rel">weight</data><data key="w">1.028</data></edge>
+<edge id="e250" source="gene:RAPGEFL1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0074</data></edge>
+<edge id="e251" source="factor:Factor4" target="gene:ADH7"><data key="rel">weight</data><data key="w">1.0</data></edge>
+<edge id="e252" source="gene:ADH7" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0429</data></edge>
+<edge id="e253" source="factor:Factor4" target="gene:NTRK2"><data key="rel">weight</data><data key="w">0.9595</data></edge>
+<edge id="e254" source="gene:NTRK2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.6922</data></edge>
+<edge id="e255" source="factor:Factor4" target="gene:KRT7"><data key="rel">weight</data><data key="w">0.9567</data></edge>
+<edge id="e256" source="gene:KRT7" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0607</data></edge>
+<edge id="e257" source="factor:Factor4" target="gene:GLI2"><data key="rel">weight</data><data key="w">0.9526</data></edge>
+<edge id="e258" source="gene:GLI2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0965</data></edge>
+<edge id="e259" source="factor:Factor4" target="gene:NLGN1"><data key="rel">weight</data><data key="w">0.939</data></edge>
+<edge id="e260" source="gene:NLGN1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0037</data></edge>
+<edge id="e261" source="factor:Factor4" target="gene:RGMA"><data key="rel">weight</data><data key="w">0.923</data></edge>
+<edge id="e262" source="gene:RGMA" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0095</data></edge>
+<edge id="e263" source="factor:Factor4" target="gene:ADAM23"><data key="rel">weight</data><data key="w">0.871</data></edge>
+<edge id="e264" source="gene:ADAM23" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0236</data></edge>
+<edge id="e265" source="factor:Factor4" target="gene:ADAM8"><data key="rel">weight</data><data key="w">0.861</data></edge>
+<edge id="e266" source="gene:ADAM8" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0654</data></edge>
+<edge id="e267" source="factor:Factor4" target="gene:SOX2"><data key="rel">weight</data><data key="w">0.8538</data></edge>
+<edge id="e269" source="factor:Factor4" target="gene:GSTA1"><data key="rel">weight</data><data key="w">0.8472</data></edge>
+<edge id="e270" source="gene:GSTA1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0223</data></edge>
+<edge id="e271" source="factor:Factor4" target="gene:PCDH15"><data key="rel">weight</data><data key="w">0.8464</data></edge>
+<edge id="e272" source="gene:PCDH15" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0307</data></edge>
+<edge id="e273" source="factor:Factor4" target="gene:HAS3"><data key="rel">weight</data><data key="w">0.8453</data></edge>
+<edge id="e274" source="gene:HAS3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0452</data></edge>
+<edge id="e275" source="factor:Factor4" target="gene:CYP26A1"><data key="rel">weight</data><data key="w">0.8361</data></edge>
+<edge id="e276" source="gene:CYP26A1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0225</data></edge>
+<edge id="e277" source="factor:Factor4" target="gene:SOST"><data key="rel">weight</data><data key="w">0.8337</data></edge>
+<edge id="e278" source="gene:SOST" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0117</data></edge>
+<edge id="e279" source="factor:Factor4" target="gene:FEZF1"><data key="rel">weight</data><data key="w">0.8079</data></edge>
+<edge id="e280" source="gene:FEZF1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1203</data></edge>
+<edge id="e281" source="factor:Factor4" target="gene:FETUB"><data key="rel">weight</data><data key="w">0.77</data></edge>
+<edge id="e282" source="gene:FETUB" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0192</data></edge>
+<edge id="e283" source="factor:Factor4" target="gene:PTPRT"><data key="rel">weight</data><data key="w">0.7592</data></edge>
+<edge id="e284" source="gene:PTPRT" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.4326</data></edge>
+<edge id="e285" source="factor:Factor4" target="gene:NTS"><data key="rel">weight</data><data key="w">0.755</data></edge>
+<edge id="e286" source="gene:NTS" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0469</data></edge>
+<edge id="e287" source="factor:Factor4" target="gene:UGT1A7"><data key="rel">weight</data><data key="w">0.7518</data></edge>
+<edge id="e288" source="gene:UGT1A7" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0334</data></edge>
+<edge id="e289" source="factor:Factor4" target="gene:KRT13"><data key="rel">weight</data><data key="w">0.7474</data></edge>
+<edge id="e290" source="gene:KRT13" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0361</data></edge>
+<edge id="e291" source="factor:Factor4" target="gene:SPRR3"><data key="rel">weight</data><data key="w">0.7456</data></edge>
+<edge id="e292" source="gene:SPRR3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0948</data></edge>
+<edge id="e293" source="factor:Factor4" target="gene:FOXE1"><data key="rel">weight</data><data key="w">0.7427</data></edge>
+<edge id="e294" source="gene:FOXE1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0597</data></edge>
+<edge id="e295" source="factor:Factor4" target="gene:PTPRZ1"><data key="rel">weight</data><data key="w">0.7408</data></edge>
+<edge id="e296" source="gene:PTPRZ1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0467</data></edge>
+<edge id="e297" source="factor:Factor4" target="gene:GDA"><data key="rel">weight</data><data key="w">0.7361</data></edge>
+<edge id="e298" source="gene:GDA" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0835</data></edge>
+<edge id="e299" source="factor:Factor4" target="gene:SPRR1A"><data key="rel">weight</data><data key="w">0.7271</data></edge>
+<edge id="e300" source="gene:SPRR1A" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0498</data></edge>
+<edge id="e301" source="factor:Factor4" target="gene:PAX6"><data key="rel">weight</data><data key="w">0.725</data></edge>
+<edge id="e302" source="gene:PAX6" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1195</data></edge>
+<edge id="e303" source="factor:Factor4" target="gene:CYP4F3"><data key="rel">weight</data><data key="w">0.7193</data></edge>
+<edge id="e304" source="gene:CYP4F3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.011</data></edge>
+<edge id="e305" source="factor:Factor4" target="gene:SYT7"><data key="rel">weight</data><data key="w">0.7136</data></edge>
+<edge id="e306" source="gene:SYT7" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0917</data></edge>
+<edge id="e307" source="factor:Factor4" target="gene:TUBB3"><data key="rel">weight</data><data key="w">0.7114</data></edge>
+<edge id="e308" source="gene:TUBB3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.6212</data></edge>
+<edge id="e309" source="factor:Factor4" target="gene:DSG3"><data key="rel">weight</data><data key="w">0.7106</data></edge>
+<edge id="e310" source="gene:DSG3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.075</data></edge>
+<edge id="e311" source="factor:Factor4" target="gene:ALDH3A1"><data key="rel">weight</data><data key="w">0.7105</data></edge>
+<edge id="e312" source="gene:ALDH3A1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1057</data></edge>
+<edge id="e313" source="factor:Factor4" target="gene:GBP6"><data key="rel">weight</data><data key="w">0.7008</data></edge>
+<edge id="e314" source="gene:GBP6" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0329</data></edge>
+<edge id="e315" source="factor:Factor4" target="gene:LGI3"><data key="rel">weight</data><data key="w">0.6904</data></edge>
+<edge id="e316" source="gene:LGI3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0903</data></edge>
+<edge id="e317" source="factor:Factor4" target="gene:BCHE"><data key="rel">weight</data><data key="w">0.6829</data></edge>
+<edge id="e318" source="gene:BCHE" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0392</data></edge>
+<edge id="e319" source="factor:Factor4" target="gene:CHST2"><data key="rel">weight</data><data key="w">0.6782</data></edge>
+<edge id="e320" source="gene:CHST2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0015</data></edge>
+<edge id="e321" source="factor:Factor4" target="gene:MRAP2"><data key="rel">weight</data><data key="w">0.6721</data></edge>
+<edge id="e322" source="gene:MRAP2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.002</data></edge>
+<edge id="e323" source="factor:Factor4" target="gene:DMRT2"><data key="rel">weight</data><data key="w">0.6708</data></edge>
+<edge id="e324" source="factor:Factor4" target="gene:CLCA2"><data key="rel">weight</data><data key="w">0.6701</data></edge>
+<edge id="e325" source="gene:CLCA2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0578</data></edge>
+<edge id="e326" source="factor:Factor4" target="gene:NRXN3"><data key="rel">weight</data><data key="w">0.6696</data></edge>
+<edge id="e327" source="gene:NRXN3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0022</data></edge>
+<edge id="e328" source="factor:Factor4" target="gene:ZBTB7C"><data key="rel">weight</data><data key="w">0.6658</data></edge>
+<edge id="e329" source="gene:ZBTB7C" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0074</data></edge>
+<edge id="e330" source="factor:Factor4" target="gene:USH1G"><data key="rel">weight</data><data key="w">0.6638</data></edge>
+<edge id="e331" source="gene:USH1G" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0439</data></edge>
+<edge id="e332" source="factor:Factor4" target="gene:TP63"><data key="rel">weight</data><data key="w">0.6623</data></edge>
+<edge id="e333" source="gene:TP63" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.6472</data></edge>
+<edge id="e334" source="factor:Factor4" target="gene:SDK1"><data key="rel">weight</data><data key="w">0.662</data></edge>
+<edge id="e335" source="gene:SDK1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0167</data></edge>
+<edge id="e336" source="factor:Factor4" target="gene:C11orf88"><data key="rel">weight</data><data key="w">0.6585</data></edge>
+<edge id="e337" source="factor:Factor4" target="gene:ZNF750"><data key="rel">weight</data><data key="w">0.6563</data></edge>
+<edge id="e338" source="gene:ZNF750" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.025</data></edge>
+<edge id="e339" source="factor:Factor4" target="gene:CHST9"><data key="rel">weight</data><data key="w">0.6543</data></edge>
+<edge id="e340" source="gene:CHST9" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0064</data></edge>
+<edge id="e341" source="factor:Factor4" target="gene:CHP2"><data key="rel">weight</data><data key="w">0.6528</data></edge>
+<edge id="e342" source="gene:CHP2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.075</data></edge>
+<edge id="e343" source="factor:Factor4" target="gene:CYP4F11"><data key="rel">weight</data><data key="w">0.6518</data></edge>
+<edge id="e344" source="gene:CYP4F11" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0349</data></edge>
+<edge id="e345" source="factor:Factor4" target="gene:SERPINB13"><data key="rel">weight</data><data key="w">0.6485</data></edge>
+<edge id="e346" source="gene:SERPINB13" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0591</data></edge>
+<edge id="e347" source="factor:Factor4" target="gene:EEF1A2"><data key="rel">weight</data><data key="w">0.6478</data></edge>
+<edge id="e348" source="gene:EEF1A2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0979</data></edge>
+<edge id="e349" source="factor:Factor4" target="gene:SOSTDC1"><data key="rel">weight</data><data key="w">0.6462</data></edge>
+<edge id="e350" source="gene:SOSTDC1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1043</data></edge>
+<edge id="e351" source="factor:Factor4" target="gene:MIAT"><data key="rel">weight</data><data key="w">0.6452</data></edge>
+<edge id="e352" source="gene:MIAT" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1001</data></edge>
+<edge id="e353" source="factor:Factor4" target="gene:NRN1"><data key="rel">weight</data><data key="w">0.6413</data></edge>
+<edge id="e354" source="gene:NRN1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0797</data></edge>
+<edge id="e355" source="factor:Factor4" target="gene:DLEC1"><data key="rel">weight</data><data key="w">0.6398</data></edge>
+<edge id="e357" source="factor:Factor4" target="gene:AKR1C1"><data key="rel">weight</data><data key="w">0.6393</data></edge>
+<edge id="e358" source="gene:AKR1C1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.124</data></edge>
+<edge id="e359" source="factor:Factor4" target="gene:AKR1C2"><data key="rel">weight</data><data key="w">0.6379</data></edge>
+<edge id="e360" source="gene:AKR1C2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0598</data></edge>
+<edge id="e361" source="factor:Factor4" target="gene:CNTNAP2"><data key="rel">weight</data><data key="w">0.6337</data></edge>
+<edge id="e362" source="gene:CNTNAP2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.2899</data></edge>
+<edge id="e363" source="factor:Factor4" target="gene:CYP24A1"><data key="rel">weight</data><data key="w">0.6312</data></edge>
+<edge id="e364" source="gene:CYP24A1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0965</data></edge>
+<edge id="e365" source="factor:Factor4" target="gene:ALDH1A1"><data key="rel">weight</data><data key="w">0.6208</data></edge>
+<edge id="e366" source="gene:ALDH1A1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1107</data></edge>
+<edge id="e367" source="factor:Factor4" target="gene:ABCA13"><data key="rel">weight</data><data key="w">0.6195</data></edge>
+<edge id="e368" source="gene:ABCA13" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0018</data></edge>
+<edge id="e369" source="factor:Factor4" target="gene:UGT1A6"><data key="rel">weight</data><data key="w">0.6114</data></edge>
+<edge id="e370" source="gene:UGT1A6" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0383</data></edge>
+<edge id="e371" source="factor:Factor4" target="gene:DAPL1"><data key="rel">weight</data><data key="w">0.6101</data></edge>
+<edge id="e372" source="gene:DAPL1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.04</data></edge>
+<edge id="e373" source="factor:Factor4" target="gene:CSMD1"><data key="rel">weight</data><data key="w">0.6084</data></edge>
+<edge id="e374" source="gene:CSMD1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0185</data></edge>
+<edge id="e375" source="factor:Factor4" target="gene:CYP2C18"><data key="rel">weight</data><data key="w">0.6055</data></edge>
+<edge id="e376" source="factor:Factor4" target="gene:SPRR2A"><data key="rel">weight</data><data key="w">0.603</data></edge>
+<edge id="e377" source="gene:SPRR2A" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0521</data></edge>
+<edge id="e378" source="factor:Factor4" target="gene:ADCY10"><data key="rel">weight</data><data key="w">0.6018</data></edge>
+<edge id="e379" source="gene:ADCY10" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0935</data></edge>
+<edge id="e380" source="factor:Factor4" target="gene:PLCH2"><data key="rel">weight</data><data key="w">0.601</data></edge>
+<edge id="e381" source="factor:Factor4" target="gene:ELF5"><data key="rel">weight</data><data key="w">0.5989</data></edge>
+<edge id="e382" source="gene:ELF5" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0823</data></edge>
+<edge id="e383" source="factor:Factor4" target="gene:KRT5"><data key="rel">weight</data><data key="w">0.5973</data></edge>
+<edge id="e384" source="gene:KRT5" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1</data></edge>
+<edge id="e385" source="factor:Factor4" target="gene:UPK1B"><data key="rel">weight</data><data key="w">0.5971</data></edge>
+<edge id="e386" source="gene:UPK1B" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0296</data></edge>
+<edge id="e387" source="factor:Factor4" target="gene:DSC3"><data key="rel">weight</data><data key="w">0.5945</data></edge>
+<edge id="e388" source="gene:DSC3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0558</data></edge>
+<edge id="e389" source="factor:Factor4" target="gene:IGSF11"><data key="rel">weight</data><data key="w">0.5939</data></edge>
+<edge id="e390" source="gene:IGSF11" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0309</data></edge>
+<edge id="e391" source="factor:Factor4" target="gene:JAKMIP3"><data key="rel">weight</data><data key="w">0.592</data></edge>
+<edge id="e392" source="gene:JAKMIP3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0037</data></edge>
+<edge id="e393" source="factor:Factor4" target="gene:SPRR1B"><data key="rel">weight</data><data key="w">0.5911</data></edge>
+<edge id="e394" source="gene:SPRR1B" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0986</data></edge>
+<edge id="e395" source="factor:Factor4" target="gene:PKP1"><data key="rel">weight</data><data key="w">0.5911</data></edge>
+<edge id="e396" source="gene:PKP1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0503</data></edge>
+<edge id="e397" source="factor:Factor4" target="gene:FGFBP2"><data key="rel">weight</data><data key="w">0.5904</data></edge>
+<edge id="e398" source="gene:FGFBP2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0244</data></edge>
+<edge id="e399" source="factor:Factor4" target="gene:PLA2G3"><data key="rel">weight</data><data key="w">0.5903</data></edge>
+<edge id="e400" source="gene:PLA2G3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0086</data></edge>
+<edge id="e401" source="factor:Factor4" target="gene:UGT1A9"><data key="rel">weight</data><data key="w">0.5888</data></edge>
+<edge id="e402" source="gene:UGT1A9" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0083</data></edge>
+<edge id="e403" source="factor:Factor4" target="gene:MAPK10"><data key="rel">weight</data><data key="w">0.5867</data></edge>
+<edge id="e404" source="gene:MAPK10" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0822</data></edge>
+<edge id="e405" source="factor:Factor4" target="gene:NOS2"><data key="rel">weight</data><data key="w">0.5836</data></edge>
+<edge id="e406" source="gene:NOS2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0566</data></edge>
+<edge id="e407" source="factor:Factor4" target="gene:GPX2"><data key="rel">weight</data><data key="w">0.5827</data></edge>
+<edge id="e408" source="gene:GPX2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1257</data></edge>
+<edge id="e409" source="factor:Factor4" target="gene:GLYATL2"><data key="rel">weight</data><data key="w">0.5764</data></edge>
+<edge id="e410" source="gene:GLYATL2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0411</data></edge>
+<edge id="e411" source="factor:Factor4" target="gene:AKR1B10"><data key="rel">weight</data><data key="w">0.5726</data></edge>
+<edge id="e412" source="gene:AKR1B10" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.103</data></edge>
+<edge id="e413" source="factor:Factor4" target="gene:SOX21"><data key="rel">weight</data><data key="w">0.5648</data></edge>
+<edge id="e414" source="gene:SOX21" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.2433</data></edge>
+<edge id="e415" source="factor:Factor4" target="gene:SOX2OT"><data key="rel">weight</data><data key="w">0.5641</data></edge>
+<edge id="e416" source="factor:Factor4" target="gene:C1orf110"><data key="rel">weight</data><data key="w">0.5594</data></edge>
+<edge id="e417" source="factor:Factor4" target="gene:ATP13A4"><data key="rel">weight</data><data key="w">0.5581</data></edge>
+<edge id="e418" source="gene:ATP13A4" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0242</data></edge>
+<edge id="e419" source="factor:Factor4" target="gene:GFRA1"><data key="rel">weight</data><data key="w">0.5576</data></edge>
+<edge id="e421" source="factor:Factor4" target="gene:BMP7"><data key="rel">weight</data><data key="w">0.5539</data></edge>
+<edge id="e422" source="gene:BMP7" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0682</data></edge>
+<edge id="e423" source="factor:Factor4" target="gene:WSCD2"><data key="rel">weight</data><data key="w">0.5498</data></edge>
+<edge id="e424" source="factor:Factor4" target="gene:AADAC"><data key="rel">weight</data><data key="w">0.5487</data></edge>
+<edge id="e425" source="factor:Factor4" target="gene:PCSK2"><data key="rel">weight</data><data key="w">0.5445</data></edge>
+<edge id="e426" source="gene:PCSK2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0052</data></edge>
+<edge id="e427" source="factor:Factor4" target="gene:DLX5"><data key="rel">weight</data><data key="w">0.5389</data></edge>
+<edge id="e429" source="factor:Factor4" target="gene:SLC9A4"><data key="rel">weight</data><data key="w">0.5386</data></edge>
+<edge id="e430" source="gene:SLC9A4" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0208</data></edge>
+<edge id="e431" source="factor:Factor4" target="gene:OTOP2"><data key="rel">weight</data><data key="w">0.5383</data></edge>
+<edge id="e432" source="factor:Factor4" target="gene:AKR1C3"><data key="rel">weight</data><data key="w">0.5363</data></edge>
+<edge id="e433" source="gene:AKR1C3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0531</data></edge>
+<edge id="e434" source="gene:AADAC" target="pathway:Biological oxidations"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e435" source="gene:ADH7" target="pathway:Biological oxidations"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e436" source="gene:ALDH1A1" target="pathway:Biological oxidations"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e437" source="gene:ALDH3A1" target="pathway:Biological oxidations"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e438" source="gene:CYP24A1" target="pathway:Biological oxidations"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e439" source="gene:CYP26A1" target="pathway:Biological oxidations"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e440" source="gene:CYP2C18" target="pathway:Biological oxidations"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e441" source="gene:CYP4F11" target="pathway:Biological oxidations"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e442" source="gene:CYP4F3" target="pathway:Biological oxidations"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e443" source="gene:GLYATL2" target="pathway:Biological oxidations"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e444" source="gene:GSTA1" target="pathway:Biological oxidations"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e445" source="gene:UGT1A6" target="pathway:Biological oxidations"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e446" source="gene:UGT1A7" target="pathway:Biological oxidations"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e447" source="gene:UGT1A9" target="pathway:Biological oxidations"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e448" source="gene:AADAC" target="pathway:Phase I - Functionalization of compounds"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e449" source="gene:ADH7" target="pathway:Phase I - Functionalization of compounds"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e450" source="gene:ALDH1A1" target="pathway:Phase I - Functionalization of compounds"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e451" source="gene:ALDH3A1" target="pathway:Phase I - Functionalization of compounds"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e452" source="gene:CYP24A1" target="pathway:Phase I - Functionalization of compounds"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e453" source="gene:CYP26A1" target="pathway:Phase I - Functionalization of compounds"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e454" source="gene:CYP2C18" target="pathway:Phase I - Functionalization of compounds"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e455" source="gene:CYP4F11" target="pathway:Phase I - Functionalization of compounds"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e456" source="gene:CYP4F3" target="pathway:Phase I - Functionalization of compounds"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e457" source="gene:AADAC" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e458" source="gene:ADH7" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e459" source="gene:AKR1B10" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e460" source="gene:AKR1C1" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e461" source="gene:AKR1C2" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e462" source="gene:AKR1C3" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e463" source="gene:ALDH1A1" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e464" source="gene:ALDH3A1" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e465" source="gene:BCHE" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e466" source="gene:CHST2" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e467" source="gene:CHST9" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e468" source="gene:CYP24A1" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e469" source="gene:CYP26A1" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e470" source="gene:CYP2C18" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e471" source="gene:CYP4F11" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e472" source="gene:CYP4F3" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e473" source="gene:GDA" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e474" source="gene:GLYATL2" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e475" source="gene:GPX2" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e476" source="gene:GSTA1" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e477" source="gene:HAS3" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e478" source="gene:PLA2G3" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e479" source="gene:PLCH2" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e480" source="gene:UGT1A6" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e481" source="gene:UGT1A7" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e482" source="gene:UGT1A9" target="pathway:Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e483" source="gene:ADH7" target="pathway:Cytochrome P450 - arranged by substrate type"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e484" source="gene:CYP24A1" target="pathway:Cytochrome P450 - arranged by substrate type"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e485" source="gene:CYP26A1" target="pathway:Cytochrome P450 - arranged by substrate type"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e486" source="gene:CYP2C18" target="pathway:Cytochrome P450 - arranged by substrate type"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e487" source="gene:CYP4F11" target="pathway:Cytochrome P450 - arranged by substrate type"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e488" source="gene:CYP4F3" target="pathway:Cytochrome P450 - arranged by substrate type"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e489" source="gene:ADAM23" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e490" source="gene:BMP7" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e491" source="gene:DLX5" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e492" source="gene:DSC3" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e493" source="gene:DSG3" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e494" source="gene:GFRA1" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e495" source="gene:KRT13" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e496" source="gene:KRT5" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e497" source="gene:KRT7" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e498" source="gene:LGI3" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e499" source="gene:PAX6" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e500" source="gene:PKP1" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e501" source="gene:RGMA" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e502" source="gene:SOX2" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e503" source="gene:SPRR1A" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e504" source="gene:SPRR1B" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e505" source="gene:SPRR2A" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e506" source="gene:SPRR3" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e507" source="gene:TUBB3" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e508" source="gene:ADH7" target="pathway:Xenobiotic Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e509" source="gene:AKR1C2" target="pathway:Xenobiotic Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e510" source="gene:AKR1C3" target="pathway:Xenobiotic Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e511" source="gene:ALDH3A1" target="pathway:Xenobiotic Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e512" source="gene:CYP26A1" target="pathway:Xenobiotic Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e513" source="gene:CYP2C18" target="pathway:Xenobiotic Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e514" source="gene:FETUB" target="pathway:Xenobiotic Metabolism"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e515" source="gene:KRT14" target="gene:KRT17"><data key="rel">STRING</data><data key="w">0.973</data></edge>
+<edge id="e516" source="gene:KRT14" target="gene:KRT16"><data key="rel">STRING</data><data key="w">0.976</data></edge>
+<edge id="e517" source="gene:CHRD" target="gene:BMP6"><data key="rel">STRING</data><data key="w">0.98</data></edge>
+<edge id="e518" source="gene:DSG3" target="gene:DSC3"><data key="rel">STRING</data><data key="w">0.864</data></edge>
+<edge id="e519" source="gene:SERPINB3" target="gene:SERPINB4"><data key="rel">STRING</data><data key="w">0.999</data></edge>
+<edge id="e520" source="gene:KRT16" target="gene:KRT17"><data key="rel">STRING</data><data key="w">0.985</data></edge>
+<edge id="e521" source="factor:Factor5" target="gene:ASCL1"><data key="rel">weight</data><data key="w">1.2545</data></edge>
+<edge id="e522" source="gene:ASCL1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0506</data></edge>
+<edge id="e523" source="factor:Factor5" target="gene:CTNND2"><data key="rel">weight</data><data key="w">1.095</data></edge>
+<edge id="e524" source="gene:CTNND2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.3407</data></edge>
+<edge id="e525" source="factor:Factor5" target="gene:KHDRBS2"><data key="rel">weight</data><data key="w">1.0705</data></edge>
+<edge id="e527" source="factor:Factor5" target="gene:SRCIN1"><data key="rel">weight</data><data key="w">1.0639</data></edge>
+<edge id="e528" source="gene:SRCIN1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1084</data></edge>
+<edge id="e529" source="factor:Factor5" target="gene:ATP8B3"><data key="rel">weight</data><data key="w">1.0448</data></edge>
+<edge id="e530" source="gene:ATP8B3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0044</data></edge>
+<edge id="e531" source="factor:Factor5" target="gene:KRT16"><data key="rel">weight</data><data key="w">1.0314</data></edge>
+<edge id="e532" source="gene:KRT16" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1068</data></edge>
+<edge id="e533" source="factor:Factor5" target="gene:KRT6A"><data key="rel">weight</data><data key="w">1.0</data></edge>
+<edge id="e534" source="gene:KRT6A" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1243</data></edge>
+<edge id="e535" source="factor:Factor5" target="gene:LMO3"><data key="rel">weight</data><data key="w">0.9794</data></edge>
+<edge id="e537" source="factor:Factor5" target="gene:NOL4"><data key="rel">weight</data><data key="w">0.9627</data></edge>
+<edge id="e538" source="gene:NOL4" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0071</data></edge>
+<edge id="e539" source="factor:Factor5" target="gene:KRT6B"><data key="rel">weight</data><data key="w">0.9578</data></edge>
+<edge id="e540" source="gene:KRT6B" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.075</data></edge>
+<edge id="e541" source="factor:Factor5" target="gene:MFI2"><data key="rel">weight</data><data key="w">0.9404</data></edge>
+<edge id="e542" source="factor:Factor5" target="gene:GPR133"><data key="rel">weight</data><data key="w">0.9312</data></edge>
+<edge id="e543" source="factor:Factor5" target="gene:TUBB2B"><data key="rel">weight</data><data key="w">0.9302</data></edge>
+<edge id="e544" source="gene:TUBB2B" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.6132</data></edge>
+<edge id="e545" source="factor:Factor5" target="gene:WNT7A"><data key="rel">weight</data><data key="w">0.9295</data></edge>
+<edge id="e546" source="gene:WNT7A" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1181</data></edge>
+<edge id="e547" source="factor:Factor5" target="gene:SERPINB3"><data key="rel">weight</data><data key="w">0.9156</data></edge>
+<edge id="e548" source="gene:SERPINB3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0509</data></edge>
+<edge id="e549" source="factor:Factor5" target="gene:KRT6C"><data key="rel">weight</data><data key="w">0.9079</data></edge>
+<edge id="e550" source="gene:KRT6C" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0582</data></edge>
+<edge id="e551" source="factor:Factor5" target="gene:PAH"><data key="rel">weight</data><data key="w">0.906</data></edge>
+<edge id="e552" source="gene:PAH" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0442</data></edge>
+<edge id="e553" source="factor:Factor5" target="gene:KCNH2"><data key="rel">weight</data><data key="w">0.8925</data></edge>
+<edge id="e554" source="gene:KCNH2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0159</data></edge>
+<edge id="e555" source="factor:Factor5" target="gene:CALN1"><data key="rel">weight</data><data key="w">0.8845</data></edge>
+<edge id="e556" source="factor:Factor5" target="gene:CELF4"><data key="rel">weight</data><data key="w">0.8833</data></edge>
+<edge id="e557" source="factor:Factor5" target="gene:ABCA3"><data key="rel">weight</data><data key="w">0.8627</data></edge>
+<edge id="e559" source="factor:Factor5" target="gene:KRT14"><data key="rel">weight</data><data key="w">0.8538</data></edge>
+<edge id="e560" source="gene:KRT14" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0732</data></edge>
+<edge id="e561" source="factor:Factor5" target="gene:ELF5"><data key="rel">weight</data><data key="w">0.851</data></edge>
+<edge id="e563" source="factor:Factor5" target="gene:TFAP2B"><data key="rel">weight</data><data key="w">0.8501</data></edge>
+<edge id="e564" source="gene:TFAP2B" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0546</data></edge>
+<edge id="e565" source="factor:Factor5" target="gene:SERPINB4"><data key="rel">weight</data><data key="w">0.848</data></edge>
+<edge id="e566" source="gene:SERPINB4" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0607</data></edge>
+<edge id="e567" source="factor:Factor5" target="gene:GPR115"><data key="rel">weight</data><data key="w">0.843</data></edge>
+<edge id="e568" source="factor:Factor5" target="gene:DSG3"><data key="rel">weight</data><data key="w">0.8406</data></edge>
+<edge id="e570" source="factor:Factor5" target="gene:SV2A"><data key="rel">weight</data><data key="w">0.8401</data></edge>
+<edge id="e571" source="factor:Factor5" target="gene:DOK6"><data key="rel">weight</data><data key="w">0.8342</data></edge>
+<edge id="e572" source="gene:DOK6" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0273</data></edge>
+<edge id="e573" source="factor:Factor5" target="gene:LY6D"><data key="rel">weight</data><data key="w">0.8249</data></edge>
+<edge id="e574" source="gene:LY6D" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0694</data></edge>
+<edge id="e575" source="factor:Factor5" target="gene:ANXA8"><data key="rel">weight</data><data key="w">0.8188</data></edge>
+<edge id="e576" source="gene:ANXA8" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0343</data></edge>
+<edge id="e577" source="factor:Factor5" target="gene:GPR87"><data key="rel">weight</data><data key="w">0.8155</data></edge>
+<edge id="e578" source="gene:GPR87" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1092</data></edge>
+<edge id="e579" source="factor:Factor5" target="gene:NRXN3"><data key="rel">weight</data><data key="w">0.8128</data></edge>
+<edge id="e581" source="factor:Factor5" target="gene:SYN3"><data key="rel">weight</data><data key="w">0.8104</data></edge>
+<edge id="e582" source="factor:Factor5" target="gene:LY6K"><data key="rel">weight</data><data key="w">0.8097</data></edge>
+<edge id="e583" source="gene:LY6K" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0573</data></edge>
+<edge id="e584" source="factor:Factor5" target="gene:LAMC2"><data key="rel">weight</data><data key="w">0.8012</data></edge>
+<edge id="e585" source="gene:LAMC2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0933</data></edge>
+<edge id="e586" source="factor:Factor5" target="gene:ATP6V1B1"><data key="rel">weight</data><data key="w">0.7931</data></edge>
+<edge id="e587" source="gene:ATP6V1B1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0033</data></edge>
+<edge id="e588" source="factor:Factor5" target="gene:SDK1"><data key="rel">weight</data><data key="w">0.7911</data></edge>
+<edge id="e590" source="factor:Factor5" target="gene:SERPINB5"><data key="rel">weight</data><data key="w">0.7897</data></edge>
+<edge id="e591" source="gene:SERPINB5" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1259</data></edge>
+<edge id="e592" source="factor:Factor5" target="gene:SERPINB7"><data key="rel">weight</data><data key="w">0.7842</data></edge>
+<edge id="e593" source="gene:SERPINB7" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0443</data></edge>
+<edge id="e594" source="factor:Factor5" target="gene:TNS4"><data key="rel">weight</data><data key="w">0.7839</data></edge>
+<edge id="e595" source="gene:TNS4" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1164</data></edge>
+<edge id="e596" source="factor:Factor5" target="gene:HCG4"><data key="rel">weight</data><data key="w">0.7794</data></edge>
+<edge id="e597" source="factor:Factor5" target="gene:KCNB2"><data key="rel">weight</data><data key="w">0.771</data></edge>
+<edge id="e598" source="factor:Factor5" target="gene:SFTA3"><data key="rel">weight</data><data key="w">0.7671</data></edge>
+<edge id="e600" source="factor:Factor5" target="gene:GJB3"><data key="rel">weight</data><data key="w">0.7645</data></edge>
+<edge id="e601" source="gene:GJB3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1118</data></edge>
+<edge id="e602" source="factor:Factor5" target="gene:AFF3"><data key="rel">weight</data><data key="w">0.7606</data></edge>
+<edge id="e604" source="factor:Factor5" target="gene:ANXA8L2"><data key="rel">weight</data><data key="w">0.7595</data></edge>
+<edge id="e605" source="factor:Factor5" target="gene:MDFI"><data key="rel">weight</data><data key="w">0.7404</data></edge>
+<edge id="e606" source="gene:MDFI" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0876</data></edge>
+<edge id="e607" source="factor:Factor5" target="gene:SPRR1B"><data key="rel">weight</data><data key="w">0.7362</data></edge>
+<edge id="e609" source="factor:Factor5" target="gene:CALCB"><data key="rel">weight</data><data key="w">0.7352</data></edge>
+<edge id="e611" source="factor:Factor5" target="gene:KRT17"><data key="rel">weight</data><data key="w">0.7278</data></edge>
+<edge id="e612" source="gene:KRT17" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.068</data></edge>
+<edge id="e613" source="factor:Factor5" target="gene:TMEM132D"><data key="rel">weight</data><data key="w">0.7277</data></edge>
+<edge id="e615" source="factor:Factor5" target="gene:BMP6"><data key="rel">weight</data><data key="w">0.7259</data></edge>
+<edge id="e616" source="gene:BMP6" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0437</data></edge>
+<edge id="e617" source="factor:Factor5" target="gene:APBA2"><data key="rel">weight</data><data key="w">0.7247</data></edge>
+<edge id="e618" source="factor:Factor5" target="gene:CHRD"><data key="rel">weight</data><data key="w">0.7223</data></edge>
+<edge id="e619" source="factor:Factor5" target="gene:TMEM171"><data key="rel">weight</data><data key="w">0.7125</data></edge>
+<edge id="e620" source="gene:TMEM171" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0022</data></edge>
+<edge id="e621" source="factor:Factor5" target="gene:PPP1R1B"><data key="rel">weight</data><data key="w">0.7119</data></edge>
+<edge id="e623" source="factor:Factor5" target="gene:KLK6"><data key="rel">weight</data><data key="w">0.7076</data></edge>
+<edge id="e624" source="gene:KLK6" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1079</data></edge>
+<edge id="e625" source="factor:Factor5" target="gene:CALCA"><data key="rel">weight</data><data key="w">0.7052</data></edge>
+<edge id="e626" source="gene:CALCA" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0645</data></edge>
+<edge id="e627" source="factor:Factor5" target="gene:NKX2-1"><data key="rel">weight</data><data key="w">0.7052</data></edge>
+<edge id="e628" source="gene:NKX2-1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.4966</data></edge>
+<edge id="e629" source="factor:Factor5" target="gene:PGC"><data key="rel">weight</data><data key="w">0.7039</data></edge>
+<edge id="e631" source="factor:Factor5" target="gene:PCSK2"><data key="rel">weight</data><data key="w">0.7015</data></edge>
+<edge id="e633" source="factor:Factor5" target="gene:ESYT3"><data key="rel">weight</data><data key="w">0.694</data></edge>
+<edge id="e634" source="gene:ESYT3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0874</data></edge>
+<edge id="e635" source="factor:Factor5" target="gene:PEX5L"><data key="rel">weight</data><data key="w">0.6914</data></edge>
+<edge id="e636" source="gene:PEX5L" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0107</data></edge>
+<edge id="e637" source="factor:Factor5" target="gene:ARL14"><data key="rel">weight</data><data key="w">0.691</data></edge>
+<edge id="e638" source="gene:ARL14" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1081</data></edge>
+<edge id="e639" source="factor:Factor5" target="gene:WBSCR17"><data key="rel">weight</data><data key="w">0.6904</data></edge>
+<edge id="e640" source="factor:Factor5" target="gene:GFRA3"><data key="rel">weight</data><data key="w">0.6825</data></edge>
+<edge id="e641" source="gene:GFRA3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0244</data></edge>
+<edge id="e642" source="factor:Factor5" target="gene:PI3"><data key="rel">weight</data><data key="w">0.6809</data></edge>
+<edge id="e643" source="gene:PI3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0334</data></edge>
+<edge id="e644" source="factor:Factor5" target="gene:ASXL3"><data key="rel">weight</data><data key="w">0.679</data></edge>
+<edge id="e645" source="gene:ASXL3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0052</data></edge>
+<edge id="e646" source="factor:Factor5" target="gene:KLHL14"><data key="rel">weight</data><data key="w">0.6768</data></edge>
+<edge id="e647" source="gene:KLHL14" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0046</data></edge>
+<edge id="e648" source="factor:Factor5" target="gene:CLCA2"><data key="rel">weight</data><data key="w">0.6715</data></edge>
+<edge id="e650" source="factor:Factor5" target="gene:NELL1"><data key="rel">weight</data><data key="w">0.6698</data></edge>
+<edge id="e651" source="gene:NELL1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.018</data></edge>
+<edge id="e652" source="factor:Factor5" target="gene:FEZF1"><data key="rel">weight</data><data key="w">0.6694</data></edge>
+<edge id="e654" source="factor:Factor5" target="gene:MYRIP"><data key="rel">weight</data><data key="w">0.6663</data></edge>
+<edge id="e655" source="gene:MYRIP" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0033</data></edge>
+<edge id="e656" source="factor:Factor5" target="gene:FOXI3"><data key="rel">weight</data><data key="w">0.6633</data></edge>
+<edge id="e657" source="gene:FOXI3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0604</data></edge>
+<edge id="e658" source="factor:Factor5" target="gene:IL20RB"><data key="rel">weight</data><data key="w">0.6626</data></edge>
+<edge id="e659" source="gene:IL20RB" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0497</data></edge>
+<edge id="e660" source="factor:Factor5" target="gene:GJB2"><data key="rel">weight</data><data key="w">0.662</data></edge>
+<edge id="e661" source="gene:GJB2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.1262</data></edge>
+<edge id="e662" source="factor:Factor5" target="gene:ANO1"><data key="rel">weight</data><data key="w">0.6613</data></edge>
+<edge id="e663" source="gene:ANO1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0662</data></edge>
+<edge id="e664" source="factor:Factor5" target="gene:PROM2"><data key="rel">weight</data><data key="w">0.6608</data></edge>
+<edge id="e665" source="gene:PROM2" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.097</data></edge>
+<edge id="e666" source="factor:Factor5" target="gene:RHCG"><data key="rel">weight</data><data key="w">0.6595</data></edge>
+<edge id="e667" source="gene:RHCG" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0503</data></edge>
+<edge id="e668" source="factor:Factor5" target="gene:GJB5"><data key="rel">weight</data><data key="w">0.6572</data></edge>
+<edge id="e669" source="gene:GJB5" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0897</data></edge>
+<edge id="e670" source="factor:Factor5" target="gene:ZMAT4"><data key="rel">weight</data><data key="w">0.6565</data></edge>
+<edge id="e671" source="gene:ZMAT4" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0285</data></edge>
+<edge id="e672" source="factor:Factor5" target="gene:IL1A"><data key="rel">weight</data><data key="w">0.6552</data></edge>
+<edge id="e673" source="gene:IL1A" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0897</data></edge>
+<edge id="e674" source="factor:Factor5" target="gene:KIF5C"><data key="rel">weight</data><data key="w">0.6518</data></edge>
+<edge id="e675" source="gene:KIF5C" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0037</data></edge>
+<edge id="e676" source="factor:Factor5" target="gene:LYPD3"><data key="rel">weight</data><data key="w">0.6495</data></edge>
+<edge id="e677" source="gene:LYPD3" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0621</data></edge>
+<edge id="e678" source="factor:Factor5" target="gene:DDC"><data key="rel">weight</data><data key="w">0.6494</data></edge>
+<edge id="e679" source="gene:DDC" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0145</data></edge>
+<edge id="e680" source="factor:Factor5" target="gene:AQP4"><data key="rel">weight</data><data key="w">0.6488</data></edge>
+<edge id="e682" source="factor:Factor5" target="gene:PSCA"><data key="rel">weight</data><data key="w">0.6467</data></edge>
+<edge id="e683" source="gene:PSCA" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0242</data></edge>
+<edge id="e684" source="factor:Factor5" target="gene:DSC3"><data key="rel">weight</data><data key="w">0.6453</data></edge>
+<edge id="e686" source="factor:Factor5" target="gene:IGFBPL1"><data key="rel">weight</data><data key="w">0.6451</data></edge>
+<edge id="e687" source="gene:IGFBPL1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0092</data></edge>
+<edge id="e688" source="factor:Factor5" target="gene:PADI1"><data key="rel">weight</data><data key="w">0.6425</data></edge>
+<edge id="e689" source="gene:PADI1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0506</data></edge>
+<edge id="e690" source="factor:Factor5" target="gene:KIF1A"><data key="rel">weight</data><data key="w">0.6394</data></edge>
+<edge id="e691" source="gene:KIF1A" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0494</data></edge>
+<edge id="e692" source="factor:Factor5" target="gene:DLGAP1"><data key="rel">weight</data><data key="w">0.6383</data></edge>
+<edge id="e693" source="gene:DLGAP1" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0849</data></edge>
+<edge id="e694" source="factor:Factor5" target="gene:BAI1"><data key="rel">weight</data><data key="w">0.6346</data></edge>
+<edge id="e695" source="factor:Factor5" target="gene:S100A9"><data key="rel">weight</data><data key="w">0.6343</data></edge>
+<edge id="e696" source="gene:S100A9" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0557</data></edge>
+<edge id="e697" source="factor:Factor5" target="gene:WIF1"><data key="rel">weight</data><data key="w">0.633</data></edge>
+<edge id="e699" source="factor:Factor5" target="gene:MEX3A"><data key="rel">weight</data><data key="w">0.6323</data></edge>
+<edge id="e700" source="gene:MEX3A" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0979</data></edge>
+<edge id="e701" source="factor:Factor5" target="gene:SEMA3E"><data key="rel">weight</data><data key="w">0.6307</data></edge>
+<edge id="e702" source="gene:SEMA3E" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0123</data></edge>
+<edge id="e703" source="factor:Factor5" target="gene:CLIC6"><data key="rel">weight</data><data key="w">0.6296</data></edge>
+<edge id="e705" source="factor:Factor5" target="gene:GJB4"><data key="rel">weight</data><data key="w">0.629</data></edge>
+<edge id="e706" source="gene:GJB4" target="disease:NSCLC"><data key="rel">open_targets</data><data key="w">0.0193</data></edge>
+<edge id="e707" source="gene:DSC3" target="pathway:Formation of the cornified envelope"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e708" source="gene:DSG3" target="pathway:Formation of the cornified envelope"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e709" source="gene:KRT14" target="pathway:Formation of the cornified envelope"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e710" source="gene:KRT16" target="pathway:Formation of the cornified envelope"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e711" source="gene:KRT17" target="pathway:Formation of the cornified envelope"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e712" source="gene:KRT6A" target="pathway:Formation of the cornified envelope"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e713" source="gene:KRT6B" target="pathway:Formation of the cornified envelope"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e714" source="gene:KRT6C" target="pathway:Formation of the cornified envelope"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e715" source="gene:PI3" target="pathway:Formation of the cornified envelope"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e716" source="gene:SPRR1B" target="pathway:Formation of the cornified envelope"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e717" source="gene:DSC3" target="pathway:Keratinization"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e718" source="gene:DSG3" target="pathway:Keratinization"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e719" source="gene:KRT14" target="pathway:Keratinization"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e720" source="gene:KRT16" target="pathway:Keratinization"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e721" source="gene:KRT17" target="pathway:Keratinization"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e722" source="gene:KRT6A" target="pathway:Keratinization"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e723" source="gene:KRT6B" target="pathway:Keratinization"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e724" source="gene:KRT6C" target="pathway:Keratinization"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e725" source="gene:PI3" target="pathway:Keratinization"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e726" source="gene:SPRR1B" target="pathway:Keratinization"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e727" source="gene:DOK6" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e730" source="gene:GFRA3" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e731" source="gene:KRT14" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e732" source="gene:KRT16" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e733" source="gene:KRT17" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e734" source="gene:KRT6A" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e735" source="gene:KRT6B" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e736" source="gene:KRT6C" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e737" source="gene:LAMC2" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e738" source="gene:MYRIP" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e739" source="gene:PI3" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e740" source="gene:SEMA3E" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e742" source="gene:TFAP2B" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e743" source="gene:TUBB2B" target="pathway:Developmental Biology"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e746" source="gene:GJB2" target="pathway:Vesicle-mediated transport"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e747" source="gene:GJB3" target="pathway:Vesicle-mediated transport"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e748" source="gene:GJB4" target="pathway:Vesicle-mediated transport"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e749" source="gene:GJB5" target="pathway:Vesicle-mediated transport"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e750" source="gene:KIF1A" target="pathway:Vesicle-mediated transport"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e751" source="gene:KIF5C" target="pathway:Vesicle-mediated transport"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e752" source="gene:S100A9" target="pathway:Vesicle-mediated transport"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e753" source="gene:TUBB2B" target="pathway:Vesicle-mediated transport"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e754" source="gene:DOK6" target="pathway:RET signaling"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e755" source="gene:GFRA3" target="pathway:RET signaling"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e756" source="gene:GJB2" target="pathway:Membrane Trafficking"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e757" source="gene:GJB3" target="pathway:Membrane Trafficking"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e758" source="gene:GJB4" target="pathway:Membrane Trafficking"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e759" source="gene:GJB5" target="pathway:Membrane Trafficking"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e760" source="gene:KIF1A" target="pathway:Membrane Trafficking"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e761" source="gene:KIF5C" target="pathway:Membrane Trafficking"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e762" source="gene:TUBB2B" target="pathway:Membrane Trafficking"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e763" source="gene:CLCA2" target="pathway:p53 Pathway"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e764" source="gene:IL1A" target="pathway:p53 Pathway"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e765" source="gene:KRT17" target="pathway:p53 Pathway"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e766" source="gene:SERPINB5" target="pathway:p53 Pathway"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e767" source="gene:ATP6V1B1" target="pathway:KRAS Signaling Dn"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e768" source="gene:CALCB" target="pathway:KRAS Signaling Dn"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e769" source="gene:LYPD3" target="pathway:KRAS Signaling Dn"><data key="rel">member</data><data key="w">1.0</data></edge>
+<edge id="e770" source="gene:TFAP2B" target="pathway:KRAS Signaling Dn"><data key="rel">member</data><data key="w">1.0</data></edge>
+</graph>
+</graphml>
